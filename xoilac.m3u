@@ -2750,8 +2750,8 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="4jwq2ghnj1vzm0v" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Real Madrid vs Sevilla (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] [Serie A Italia] Monza vs Cagliari
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792357927-0-0-d068a1b869404c77360542a37f9e5f0a
