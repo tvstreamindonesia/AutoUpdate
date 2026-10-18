@@ -2753,17 +2753,23 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="jw2r09hk89ydrz8" tvg-name="One Taguig vs Tainan Steel" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:00 WIB] [AFC Challenge League] One Taguig vs Tainan Steel
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-id="2y8m4zh5ky3yql0" tvg-name="Persebaya vs PSS Sleman" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:30 WIB] [Liga 1 Indonesia] Persebaya vs PSS Sleman
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehg7zj4r51" tvg-name="Sumsel United vs Persikad Depok" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 15:30 WIB] [Liga 2 Indonesia] Sumsel United vs Persikad Depok
-https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=79d8a2421407b0f3556bbd211d2e05dd&wsABSTime=1792344932
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=12970de3cead27b8045fe676255048a9&wsABSTime=1792346587
 
 #EXTINF:-1 tvg-id="l7oqdehg72wkr51" tvg-name="Shan United vs Hang Yuan Football Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 16:30 WIB] [AFC Challenge League] Shan United vs Hang Yuan Football Club
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
+#EXTINF:-1 tvg-id="n54qllhnyk85qvy" tvg-name="PEC Zwolle vs Go Ahead Eagles" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:15 WIB] [Eredivisie] PEC Zwolle vs Go Ahead Eagles
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
 #EXTINF:-1 tvg-id="l7oqdehgzn94r51" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 17:30 WIB] [Serie A Italia] Udinese vs Lecce
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=14f2b3cf0d08ca9c1b45a3de1cdc63c7&wsABSTime=1792344930
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=d4ea1a1e205d0be359f7b01f782a5a15&wsABSTime=1792346584
+
+#EXTINF:-1 tvg-id="1l4rjnh90ezlm7v" tvg-name="Osasuna vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] [La Liga] Osasuna vs Racing Santander
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnv101qvy" tvg-name="Borneo FC Samarinda vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] [AFC Challenge League] Borneo FC Samarinda vs Yangon United
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
