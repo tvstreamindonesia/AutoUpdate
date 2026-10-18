@@ -2750,14 +2750,18 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="ednm9wh5kk19ryo" tvg-name="Conaree United vs Old Road Jets" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhw2ymd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhw2ymd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Conaree United vs Old Road Jets (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="ednm9wh5kk19ryo" tvg-name="Conaree United vs Old Road Jets" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhw2ymd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhw2ymd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 06:30 WIB] [Premier League] Conaree United vs Old Road Jets
-https://live1.quickscoreboardz.com/live/channel36.m3u8?wsSecret=b34cacd7a61ae043188a9478724593b3&wsABSTime=1792408704
-
 #EXTINF:-1 tvg-id="l7oqdehjn6n9r51" tvg-name="Mawtawar SC vs Nongrim Hills" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 11:30 WIB] [Premier League] Mawtawar SC vs Nongrim Hills
-https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=a83e7f00c9fd2467ab5e1dadf2e8f0df&wsABSTime=1792408704
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=e0b9912a63e2f48660bfde5c2acc0acf&wsABSTime=1792410259
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] [Serie A Italia] Monza vs Cagliari
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792365503-0-0-291e24b5bffad43850031a59339efa70
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
