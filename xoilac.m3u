@@ -2753,11 +2753,11 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="n54qllhnyk85qvy" tvg-name="PEC Zwolle vs Go Ahead Eagles" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PEC Zwolle vs Go Ahead Eagles (LIVE - Babak 2)
+#EXTINF:-1 tvg-id="n54qllhnyk85qvy" tvg-name="PEC Zwolle vs Go Ahead Eagles" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PEC Zwolle vs Go Ahead Eagles (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehgzn94r51" tvg-name="Udinese vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Udinese vs Lecce (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001792324785-0-0-919f300b1164e2e67c5247b24e749e79
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001792326287-0-0-64cfef5564a5f9354a4eec510687474f
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
@@ -2770,19 +2770,19 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1dl7pq0j" tvg-name="Persib Bandung vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:00 WIB] [Liga 1 Indonesia] Persib Bandung vs Persik Kediri
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=d3c7fba1821575af4c484ec3183ebcae&wsABSTime=1792367992
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=1899fa252c874933305858c2a744414d&wsABSTime=1792369498
 
 #EXTINF:-1 tvg-id="1l4rjnhnyzy8m7v" tvg-name="Manila Digger FC vs Kasuka FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:30 WIB] [AFC Challenge League] Manila Digger FC vs Kasuka FC
-https://live1.quickscoreboardz.com/live/channel38.m3u8?wsSecret=4cb20dd20496ea94e9aae38d0199266f&wsABSTime=1792367993
+https://live1.quickscoreboardz.com/live/channel38.m3u8?wsSecret=46b0b9a5f8d1ebb1081d6733ce3fba7f&wsABSTime=1792369498
 
 #EXTINF:-1 tvg-id="23xmvkh6zgk3qg8" tvg-name="SC Cambuur vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 19:30 WIB] [Eredivisie] SC Cambuur vs AZ Alkmaar
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhywoz6ryk" tvg-name="Leeds United vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] [Premier League] Leeds United vs Manchester United
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792324787-0-0-8353f63bc820b61378602566c57e5fa2
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792326290-0-0-f3dc206090e48ca3b30d505ea9419f3d
 
 #EXTINF:-1 tvg-id="jw2r09hkdvwgrz8" tvg-name="Brighton vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] [Premier League] Brighton vs Crystal Palace
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=4cca4adfc43c0dbd30f3cda45fe5664c&wsABSTime=1792367988
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=7ec845626a35152a6d39a39ad56b23e3&wsABSTime=1792369492
 
 #EXTINF:-1 tvg-id="dn1m1ghldz8lmoe" tvg-name="AFC Bournemouth vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 20:00 WIB] [Premier League] AFC Bournemouth vs Sunderland
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
@@ -2799,8 +2799,5 @@ https://live2.jorvakstreamcache.com/live/channel19.m3u8
 #EXTINF:-1 tvg-id="pxwrxlhyov91ryk" tvg-name="RC Celta vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 21:15 WIB] [La Liga] RC Celta vs Alavés
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh9p3xzm7v" tvg-name="Groningen vs AFC Ajax" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 21:45 WIB] [Eredivisie] Groningen vs AFC Ajax
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-id="1l4rjnh9p0eem7v" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/10 22:30 WIB] [Premier League] Nottingham Forest vs Arsenal
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792324789-0-0-69a187f44cd37a1d60929474231767a7
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792326293-0-0-a138b39b62dd6516b67ba33d42ca28a8
