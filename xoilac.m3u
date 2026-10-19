@@ -2767,7 +2767,10 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8k1e1qwz" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] [La Liga] Getafe vs Rayo Vallecano
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=88a6948d7ffb281c4d1188461ad3f66e&wsABSTime=1792471542
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=f48b02bfbe835584ff1f8c3e8acd9e07&wsABSTime=1792473534
 
 #EXTINF:-1 tvg-id="ednm9whwyvv4ryo" tvg-name="Sporting Braga vs Gil Vicente" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:15 WIB] [Primeira Liga Portugal] Sporting Braga vs Gil Vicente
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghg4o1xm0v" tvg-name="Racing United vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 08:00 WIB] [Premier League] Racing United vs Waterhouse FC
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=841daf6c9ec574ce96948e19044e8e33&wsABSTime=1792473536
