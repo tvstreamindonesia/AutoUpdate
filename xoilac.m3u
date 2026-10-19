@@ -2753,7 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="l7oqdehjn6n9r51" tvg-name="Mawtawar SC vs Nongrim Hills" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mawtawar SC vs Nongrim Hills (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="l7oqdehjn6n9r51" tvg-name="Mawtawar SC vs Nongrim Hills" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mawtawar SC vs Nongrim Hills (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
@@ -2761,7 +2761,7 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="3glrw7h4w1zjqdy" tvg-name="Nongkrem SC vs Mawkhar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 16:00 WIB] [Premier League] Nongkrem SC vs Mawkhar SC
-https://live1.quickscoreboardz.com/live/channel28.m3u8?wsSecret=f4fb7d0cdf62bb82db6c02bb8ca7f27b&wsABSTime=1792430136
+https://live1.quickscoreboardz.com/live/channel28.m3u8?wsSecret=28da4a7aa1c9b3822c1d81de4ec8ec1b&wsABSTime=1792432653
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] [Serie A Italia] Monza vs Cagliari
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
