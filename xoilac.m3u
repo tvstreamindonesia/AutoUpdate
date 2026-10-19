@@ -2753,27 +2753,24 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Monza vs Cagliari (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 tvg-id="n54qllhny2g6qvy" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Parma vs Torino (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="n54qllhny2g6qvy" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 01:45 WIB] [Serie A Italia] Parma vs Torino
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-id="jw2r09hkdv1grz8" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] [Premier League] Tottenham vs Coventry City
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8k1e1qwz" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] [La Liga] Getafe vs Rayo Vallecano
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=6801fc2a6b613e266ed54f977f3f804a&wsABSTime=1792477121
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=765076a1f9dc1bee329414c4f2cdbbdf&wsABSTime=1792480035
 
 #EXTINF:-1 tvg-id="ednm9whwyvv4ryo" tvg-name="Sporting Braga vs Gil Vicente" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:15 WIB] [Primeira Liga Portugal] Sporting Braga vs Gil Vicente
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-id="4jwq2ghg4o1xm0v" tvg-name="Racing United vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 08:00 WIB] [Premier League] Racing United vs Waterhouse FC
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=fb11a82a40ba970c1acc5b586a7b2ac3&wsABSTime=1792477124
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=3ea41aa0f6f2633b4d554783d99ec7ab&wsABSTime=1792480036
 
 #EXTINF:-1 tvg-id="6ypq3nhvjy0jmd7" tvg-name="Isenmulang Kalteng vs Java United F.C." tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 15:30 WIB] [Liga 1 Indonesia] Isenmulang Kalteng vs Java United F.C.
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
@@ -2795,3 +2792,6 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohl8466q1z" tvg-name="FC Istiklol Dushanbe vs Al-Arabi SC (Kuwait)" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 21:00 WIB] [AFC Challenge League] FC Istiklol Dushanbe vs Al-Arabi SC (Kuwait)
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvxey2md7" tvg-name="Al-Ittihad vs Ahal FK" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 22:00 WIB] [AFC Challenge League] Al-Ittihad vs Ahal FK
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
