@@ -2761,7 +2761,13 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="3glrw7h4w1zjqdy" tvg-name="Nongkrem SC vs Mawkhar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphvvpr8k0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 16:00 WIB] [Premier League] Nongkrem SC vs Mawkhar SC
-https://live1.quickscoreboardz.com/live/channel28.m3u8?wsSecret=28da4a7aa1c9b3822c1d81de4ec8ec1b&wsABSTime=1792432653
+https://live1.quickscoreboardz.com/live/channel28.m3u8?wsSecret=9fd5d45fca32f9440e334465983c8692&wsABSTime=1792434584
+
+#EXTINF:-1 tvg-id="vjxm8ghene62r6o" tvg-name="Mara Sugar FC vs Mombasa Elite" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhzwdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhzwdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 18:00 WIB] [Premier League] Mara Sugar FC vs Mombasa Elite
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=e7cf790968b01db74248fbbd8568edfc&wsABSTime=1792434585
+
+#EXTINF:-1 tvg-id="l5ergphko3pxr8k" tvg-name="Al-Fotuwa SC vs Al-Wahda Damascus" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz91ryox/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz91ryox/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 19:00 WIB] [Premier League] Al-Fotuwa SC vs Al-Wahda Damascus
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=40b252997cb28d802d8480bdf12d1caa&wsABSTime=1792434585
 
 #EXTINF:-1 tvg-id="pxwrxlhywg07ryk" tvg-name="Monza vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[19/10 23:30 WIB] [Serie A Italia] Monza vs Cagliari
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
