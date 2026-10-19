@@ -2759,11 +2759,11 @@ https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #EXTINF:-1 tvg-id="n54qllhny2g6qvy" tvg-name="Parma vs Torino" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 01:45 WIB] [Serie A Italia] Parma vs Torino
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8k1e1qwz" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] [La Liga] Getafe vs Rayo Vallecano
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=9db90d11c69e931e6c9c14aac1bbd355&wsABSTime=1792465408
-
 #EXTINF:-1 tvg-id="jw2r09hkdv1grz8" tvg-name="Tottenham vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] [Premier League] Tottenham vs Coventry City
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8k1e1qwz" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:00 WIB] [La Liga] Getafe vs Rayo Vallecano
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=477056ea7627e26947e049e914b40cbd&wsABSTime=1792467636
 
 #EXTINF:-1 tvg-id="ednm9whwyvv4ryo" tvg-name="Sporting Braga vs Gil Vicente" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[20/10 02:15 WIB] [Primeira Liga Portugal] Sporting Braga vs Gil Vicente
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
