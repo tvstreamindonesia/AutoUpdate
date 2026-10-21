@@ -2753,24 +2753,24 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="pxwrxlhlpo95ryk" tvg-name="Guangdong Wuchuan vs Xingtai Wanshuai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Guangdong Wuchuan vs Xingtai Wanshuai (LIVE - Halftime)
+#EXTINF:-1 tvg-id="pxwrxlhlpo95ryk" tvg-name="Guangdong Wuchuan vs Xingtai Wanshuai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Guangdong Wuchuan vs Xingtai Wanshuai (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghezdgvr6o" tvg-name="Bali United vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Bali United vs Garudayaksa FC (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="vjxm8ghezdgvr6o" tvg-name="Bali United vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Bali United vs Garudayaksa FC (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="ednm9wh58zk8ryo" tvg-name="Kasuka FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kasuka FC vs Shan United (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="ednm9wh58zk8ryo" tvg-name="Kasuka FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 16:30 WIB] [AFC Challenge League] Kasuka FC vs Shan United
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-id="3glrw7h4k5jnqdy" tvg-name="Shaanxi United Soaring vs Jiangsu Changjin" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 18:30 WIB] [UEFA Champions League] Shaanxi United Soaring vs Jiangsu Changjin
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=0eaddcb553f392442ad1615563591956&wsABSTime=1792616603
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=f7b28a24d368cb1b517f5cd5dfa531b7&wsABSTime=1792618823
 
 #EXTINF:-1 tvg-id="8yomo4hyeo24q0j" tvg-name="Wuhan Lianzhen vs Dalian Juxing Shengheng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 18:30 WIB] [UEFA Champions League] Wuhan Lianzhen vs Dalian Juxing Shengheng
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=e3479216b5cfcdbb4abd5672db0a78c4&wsABSTime=1792616604
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=a5ac5b1c00e6720c4ba935ce520c813b&wsABSTime=1792618823
 
 #EXTINF:-1 tvg-id="vjxm8ghey314r6o" tvg-name="Tainan Steel vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 19:00 WIB] [AFC Challenge League] Tainan Steel vs Borneo FC Samarinda
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
@@ -2785,13 +2785,13 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhy6851ryk" tvg-name="LOSC Lille vs Galatasaray" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 23:45 WIB] [UEFA Champions League] LOSC Lille vs Galatasaray
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=decb455adb374cedf06cb48a0c1fea2c&wsABSTime=1792616607
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=b4ee34f8b5e93681160473cae0f7c379&wsABSTime=1792618825
 
 #EXTINF:-1 tvg-id="k82rekhg41verep" tvg-name="Levante vs Athletic Bilbao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 01:00 WIB] [La Liga] Levante vs Athletic Bilbao
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh98o9lm7v" tvg-name="Real Madrid vs RB Leipzig" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Real Madrid vs RB Leipzig
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=c706d0dda9c2fe21fc2dae7ae961abb4&wsABSTime=1792616610
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=25ca86ee7ef95c9e01fb42cf60072312&wsABSTime=1792618827
 
 #EXTINF:-1 tvg-id="318q66hx9y26qo9" tvg-name="Aston Villa vs Viking" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Aston Villa vs Viking
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
