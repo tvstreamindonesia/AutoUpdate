@@ -2753,10 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="vjxm8ghezdgvr6o" tvg-name="Bali United vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Bali United vs Garudayaksa FC (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="ednm9wh58zk8ryo" tvg-name="Kasuka FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kasuka FC vs Shan United (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="ednm9wh58zk8ryo" tvg-name="Kasuka FC vs Shan United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kasuka FC vs Shan United (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 ########################################################
@@ -2764,10 +2761,10 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="3glrw7h4k5jnqdy" tvg-name="Shaanxi United Soaring vs Jiangsu Changjin" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 18:30 WIB] [UEFA Champions League] Shaanxi United Soaring vs Jiangsu Changjin
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=1cc7021ebac28867994d19350df575dc&wsABSTime=1792620837
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=861fb2aa1e54dba93af53c0773bcbbe5&wsABSTime=1792622734
 
 #EXTINF:-1 tvg-id="8yomo4hyeo24q0j" tvg-name="Wuhan Lianzhen vs Dalian Juxing Shengheng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 18:30 WIB] [UEFA Champions League] Wuhan Lianzhen vs Dalian Juxing Shengheng
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=2f52d04486a4e68921d95067a122a132&wsABSTime=1792620838
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=781c77adb91b9a4ef0bca7285c0129b9&wsABSTime=1792622734
 
 #EXTINF:-1 tvg-id="vjxm8ghey314r6o" tvg-name="Tainan Steel vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 19:00 WIB] [AFC Challenge League] Tainan Steel vs Borneo FC Samarinda
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
@@ -2779,25 +2776,25 @@ https://live2.jorvakstreamcache.com/live/channel28.m3u8
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6jpl6q86" tvg-name="Como vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 23:45 WIB] [UEFA Champions League] Como vs Manchester United
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792577625-0-0-75551f24297a5c62c0ff577ebec549cf
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792579526-0-0-145b294f011e94cbd21b7cec6424c4c0
 
 #EXTINF:-1 tvg-id="pxwrxlhy6851ryk" tvg-name="LOSC Lille vs Galatasaray" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[21/10 23:45 WIB] [UEFA Champions League] LOSC Lille vs Galatasaray
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=ba5952477e22e6dd0b504e962c55297f&wsABSTime=1792620827
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=4d30014c21a3cf93bb10439610f0117b&wsABSTime=1792622727
 
 #EXTINF:-1 tvg-id="k82rekhg41verep" tvg-name="Levante vs Athletic Bilbao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 01:00 WIB] [La Liga] Levante vs Athletic Bilbao
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh98o9lm7v" tvg-name="Real Madrid vs RB Leipzig" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Real Madrid vs RB Leipzig
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792577629-0-0-59747a9274bf2993d74c401e8208ff88
-
 #EXTINF:-1 tvg-id="6ypq3nhv2ye9md7" tvg-name="Bayern Munich vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Bayern Munich vs Arsenal
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792577630-0-0-a40f0779ba3c85a9ee270af0bed2311f
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792579528-0-0-6a6282fe0f906ad722da5002d181ec8c
+
+#EXTINF:-1 tvg-id="1l4rjnh98o9lm7v" tvg-name="Real Madrid vs RB Leipzig" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Real Madrid vs RB Leipzig
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792579529-0-0-4894aa3b79ed4348b3837b044dd9ff78
 
 #EXTINF:-1 tvg-id="318q66hx9y26qo9" tvg-name="Aston Villa vs Viking" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Aston Villa vs Viking
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="318q66hx9yg6qo9" tvg-name="Club Brugge vs RC Lens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Club Brugge vs RC Lens
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=fb374e632e4defda7685b1369cefe372&wsABSTime=1792620844
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=41b7376ed3c200f5e3f1f47c77c430de&wsABSTime=1792622737
 
 #EXTINF:-1 tvg-id="n54qllhnlgzeqvy" tvg-name="Real Betis vs Feyenoord" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 02:00 WIB] [UEFA Champions League] Real Betis vs Feyenoord
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
