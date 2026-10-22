@@ -2750,29 +2750,33 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="pxwrxlhyk819ryk" tvg-name="PSM Makassar vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 15:30 WIB] [Liga 1 Indonesia] PSM Makassar vs Persebaya
+#EXTINF:-1 tvg-id="pxwrxlhyk819ryk" tvg-name="PSM Makassar vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSM Makassar vs Persebaya (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh82y44qwz" tvg-name="Persik Kediri vs PSS Sleman" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 15:30 WIB] [Liga 1 Indonesia] Persik Kediri vs PSS Sleman
+#EXTINF:-1 tvg-id="y0or5jh82y44qwz" tvg-name="Persik Kediri vs PSS Sleman" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persik Kediri vs PSS Sleman (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
 
 #EXTINF:-1 tvg-id="3glrw7hnv21yqdy" tvg-name="Madura United vs Persib Bandung" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 19:00 WIB] [Liga 1 Indonesia] Madura United vs Persib Bandung
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09h54vvorz8" tvg-name="Saint George SC vs Adama City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 19:00 WIB] [Premier League] Saint George SC vs Adama City
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=bd7b92aa1c936140c52bdc7394fa1a7b&wsABSTime=1792699578
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=226e4043fb8de5ec8d883fc6817d84bd&wsABSTime=1792701929
 
 #EXTINF:-1 tvg-id="dj2ryoh7v008q1z" tvg-name="Hawassa City vs Ethiopia Nigd Bank" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 19:00 WIB] [Premier League] Hawassa City vs Ethiopia Nigd Bank
-https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=79cabf3a2dd74cf0993ef3e0e6f7297f&wsABSTime=1792699579
-
-#EXTINF:-1 tvg-id="l7oqdehjykkvr51" tvg-name="Wolaita Dicha vs Bahir Dar Kenema" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 19:00 WIB] [Premier League] Wolaita Dicha vs Bahir Dar Kenema
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=a03e55fcc907288d95d8c87420489de4&wsABSTime=1792699580
+https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=1fad8ad76fa57710afe622b93258ca86&wsABSTime=1792701930
 
 #EXTINF:-1 tvg-id="2y8m4zhv09y0ql0" tvg-name="Gamo Chencha vs Defence Force ETH" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 20:00 WIB] [Premier League] Gamo Chencha vs Defence Force ETH
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=b38bbd5d405f175cba9615912021eb40&wsABSTime=1792699581
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=27e4b421ef6063daab3fccc956052ce4&wsABSTime=1792701932
+
+#EXTINF:-1 tvg-id="l7oqdehjykkvr51" tvg-name="Wolaita Dicha vs Bahir Dar Kenema" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 20:00 WIB] [Premier League] Wolaita Dicha vs Bahir Dar Kenema
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=58e9180faddd226a49b5f24751420280&wsABSTime=1792701933
 
 #EXTINF:-1 tvg-id="2y8m4zh52l8nql0" tvg-name="Juventus vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Juventus vs Rennes
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2793,10 +2797,10 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v7eoqwz" tvg-name="Dinamo Zagreb vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Dinamo Zagreb vs NEC Nijmegen
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=fd12bdb33751e729dab535b37de6fe05&wsABSTime=1792699585
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=d44c1ca1c59a9ab325570edc05c20a45&wsABSTime=1792701943
 
 #EXTINF:-1 tvg-id="zp5rzghgn828q82" tvg-name="Union SG vs Hapoel Beer Sheva" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Union SG vs Hapoel Beer Sheva
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=cc125b433744a4167ec6690bd36438f4&wsABSTime=1792699586
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=4a75528bc0313269da7107fa5bf9dc31&wsABSTime=1792701944
 
 #EXTINF:-1 tvg-id="n54qllhnlvepqvy" tvg-name="AFC Bournemouth vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] AFC Bournemouth vs AC Milan
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2826,4 +2830,4 @@ https://live2.jorvakstreamcache.com/live/channel14.m3u8
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1wnzxq0j" tvg-name="Olympiakos vs AC Sparta Praha" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] Olympiakos vs AC Sparta Praha
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=38e783c46509006ccef4ccf8a359618b&wsABSTime=1792699596
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=a72298e70ae21a59567c37bd646a7b56&wsABSTime=1792701960
