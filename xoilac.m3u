@@ -2750,27 +2750,17 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="2y8m4zhv09y0ql0" tvg-name="Gamo Chencha vs Defence Force ETH" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gamo Chencha vs Defence Force ETH (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehjykkvr51" tvg-name="Wolaita Dicha vs Bahir Dar Kenema" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Wolaita Dicha vs Bahir Dar Kenema (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
 #EXTINF:-1 tvg-id="n54qllhnlv8wqvy" tvg-name="Lech Poznan vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Lech Poznan vs Sunderland
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-id="2y8m4zh52l8nql0" tvg-name="Juventus vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Juventus vs Rennes
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-id="965mkyhkjpzjr1g" tvg-name="OFI Crete FC vs Bayer Leverkusen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] OFI Crete FC vs Bayer Leverkusen
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zh52l8nql0" tvg-name="Juventus vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Juventus vs Rennes
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4zg2yr8k" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Sturm Graz vs Marseille
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -2782,10 +2772,10 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v7eoqwz" tvg-name="Dinamo Zagreb vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Dinamo Zagreb vs NEC Nijmegen
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=0fa71225aa161fdfd12a799ad054d629&wsABSTime=1792724404
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=cfc31b1185a35fdb85611bdfa9923c36&wsABSTime=1792726317
 
 #EXTINF:-1 tvg-id="zp5rzghgn828q82" tvg-name="Union SG vs Hapoel Beer Sheva" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Union SG vs Hapoel Beer Sheva
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=1cda66188d8a0fad96898eb9533f0ae1&wsABSTime=1792724405
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=cb90a59978e631c3ca63f6cff60aa9ac&wsABSTime=1792726318
 
 #EXTINF:-1 tvg-id="n54qllhnlvepqvy" tvg-name="AFC Bournemouth vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] AFC Bournemouth vs AC Milan
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2818,7 +2808,7 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-id="ednm9whw1ll1ryo" tvg-name="Persipura Jayapura vs Persiba Balikpapan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 15:30 WIB] [Liga 2 Indonesia] Persipura Jayapura vs Persiba Balikpapan
-https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=5ef6e7a603915da7711c3f543ed983a8&wsABSTime=1792724415
+https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=19271cf85a43608fac1fc59a51c1eddb&wsABSTime=1792726322
 
 #EXTINF:-1 tvg-id="1l4rjnhnyzp0m7v" tvg-name="FUMC Club vs Rahmatgonj MFS" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 15:45 WIB] [Premier League] FUMC Club vs Rahmatgonj MFS
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=75567c172a5677117c50dc37bc7d51f2&wsABSTime=1792724416
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=cf91d285e076da871f893af0950e9001&wsABSTime=1792726322
