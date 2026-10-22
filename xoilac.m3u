@@ -2753,7 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7h4kj83qdy" tvg-name="Palmeiras vs Fluminense RJ" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhe6ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhe6ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Palmeiras vs Fluminense RJ (LIVE - Halftime)
+#EXTINF:-1 tvg-id="3glrw7h4kj83qdy" tvg-name="Palmeiras vs Fluminense RJ" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhe6ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhe6ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Palmeiras vs Fluminense RJ (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 ########################################################
@@ -2770,10 +2770,10 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09h54vvorz8" tvg-name="Saint George SC vs Adama City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 19:00 WIB] [Premier League] Saint George SC vs Adama City
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=d3607aee4e11321f9c039571bcfa6521&wsABSTime=1792675580
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=17dc7ae6f2d1a16099b8e15d958a1359&wsABSTime=1792677623
 
 #EXTINF:-1 tvg-id="2y8m4zhv09y0ql0" tvg-name="Gamo Chencha vs Defence Force ETH" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 20:00 WIB] [Premier League] Gamo Chencha vs Defence Force ETH
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=f28dfbef87f77a3be1ccd180be0c2066&wsABSTime=1792675580
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=7fc8e3201d0cd2c7d9ca8073cc0e9d2e&wsABSTime=1792677623
 
 #EXTINF:-1 tvg-id="2y8m4zh52l8nql0" tvg-name="Juventus vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Juventus vs Rennes
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2794,7 +2794,19 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v7eoqwz" tvg-name="Dinamo Zagreb vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Dinamo Zagreb vs NEC Nijmegen
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=a6b0e5a8c7c9d7531768d817601d63e9&wsABSTime=1792675581
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=ce450d858f016a176f1b5b0caa5a37aa&wsABSTime=1792677628
 
 #EXTINF:-1 tvg-id="zp5rzghgn828q82" tvg-name="Union SG vs Hapoel Beer Sheva" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/10 23:45 WIB] [UEFA Europa League] Union SG vs Hapoel Beer Sheva
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=3b23fcb058b12f3a05577a7e2824e034&wsABSTime=1792675581
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=c076ad6f0fc2d1d7e47efa65d351b663&wsABSTime=1792677629
+
+#EXTINF:-1 tvg-id="n54qllhnlvepqvy" tvg-name="AFC Bournemouth vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] AFC Bournemouth vs AC Milan
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8v74oqwz" tvg-name="Besiktas JK vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] Besiktas JK vs Crystal Palace
+https://live2.jorvakstreamcache.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghn8lv2m0v" tvg-name="TSG Hoffenheim vs Lyon" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] TSG Hoffenheim vs Lyon
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="k82rekhg5l3zrep" tvg-name="Lillestrom vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 02:00 WIB] [UEFA Europa League] Lillestrom vs Real Sociedad
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
