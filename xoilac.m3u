@@ -2753,24 +2753,18 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnhnyzp0m7v" tvg-name="FUMC Club vs Rahmatgonj MFS" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FUMC Club vs Rahmatgonj MFS (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzgh3yzeeq82" tvg-name="Brothers Union vs Abahani Limited" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Brothers Union vs Abahani Limited (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="3glrw7hnd68zqdy" tvg-name="Al-Arabi SC (Kuwait) vs Al Nejmeh SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Arabi SC (Kuwait) vs Al Nejmeh SC (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hnd68zqdy" tvg-name="Al-Arabi SC (Kuwait) vs Al Nejmeh SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 18:00 WIB] [AFC Challenge League] Al-Arabi SC (Kuwait) vs Al Nejmeh SC
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
 #EXTINF:-1 tvg-id="x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 19:00 WIB] [AFC Challenge League] Ahal FK vs Al Ansar SC
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="k82rekhgld49rep" tvg-name="PSBS Biak vs Barito Putera" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 19:00 WIB] [Liga 2 Indonesia] PSBS Biak vs Barito Putera
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=597ace453b81b6830abf5080fbadeda2&wsABSTime=1792795259
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=9b62c093c56b67b8c0f1128ef79a394f&wsABSTime=1792797076
 
 #EXTINF:-1 tvg-id="y0or5jh876peqwz" tvg-name="Fortis FC vs Regar-TadAZ" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 20:25 WIB] [AFC Challenge League] Fortis FC vs Regar-TadAZ
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
