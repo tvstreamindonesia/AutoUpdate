@@ -2753,24 +2753,5 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="y0or5jh876peqwz" tvg-name="Fortis FC vs Regar-TadAZ" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Fortis FC vs Regar-TadAZ (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyde4jryk" tvg-name="FC Istiklol Dushanbe vs Homs Al Fidaa SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Istiklol Dushanbe vs Homs Al Fidaa SC (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
-########################################################
-
-#EXTINF:-1 tvg-id="x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 19:00 WIB] [AFC Challenge League] Ahal FK vs Al Ansar SC
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhgld49rep" tvg-name="PSBS Biak vs Barito Putera" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 19:00 WIB] [Liga 2 Indonesia] PSBS Biak vs Barito Putera
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=aa87a9a2e225c8561d7d755de5cb13a4&wsABSTime=1792808338
-
-#EXTINF:-1 tvg-id="vjxm8ghey31xr6o" tvg-name="Al-Ittihad vs Paro FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 22:00 WIB] [AFC Challenge League] Al-Ittihad vs Paro FC
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghndj0em0v" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] [Premier League] Ipswich Town vs Nottingham Forest
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 tvg-id="y0or5jh876peqwz" tvg-name="Fortis FC vs Regar-TadAZ Tursunzoda" tvg-logo="https://sta.vnres.co/file/common/20261020/4f35ee149cf8d3a875f701b41a7ff684.png" logo="https://sta.vnres.co/file/common/20261020/4f35ee149cf8d3a875f701b41a7ff684.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Fortis FC vs Regar-TadAZ Tursunzoda (LIVE - Babak 2 [2:1])
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
