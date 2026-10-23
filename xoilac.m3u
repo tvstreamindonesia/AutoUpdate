@@ -2750,16 +2750,6 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="3glrw7hn2yl4qdy" tvg-name="Vitoria Guimaraes vs Maritimo" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Vitoria Guimaraes vs Maritimo (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzgh3yk12q82" tvg-name="EM Deportivo vs Santos de Nasca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",EM Deportivo vs Santos de Nasca (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
