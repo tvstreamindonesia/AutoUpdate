@@ -2753,7 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hnd68zqdy" tvg-name="Al-Arabi SC (Kuwait) vs Al Nejmeh SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Arabi SC (Kuwait) vs Al Nejmeh SC (LIVE - Halftime)
+#EXTINF:-1 tvg-id="3glrw7hnd68zqdy" tvg-name="Al-Arabi SC (Kuwait) vs Al Nejmeh SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Arabi SC (Kuwait) vs Al Nejmeh SC (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ahal FK vs Al Ansar SC (LIVE - Babak 1)
@@ -2774,3 +2774,6 @@ https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8ghey31xr6o" tvg-name="Al-Ittihad vs Paro FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/10 22:00 WIB] [AFC Challenge League] Al-Ittihad vs Paro FC
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghndj0em0v" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 02:00 WIB] [Premier League] Ipswich Town vs Nottingham Forest
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
