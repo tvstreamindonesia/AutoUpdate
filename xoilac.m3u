@@ -2750,15 +2750,11 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="x7lm7phj4865m2w" tvg-name="FC Goa vs Al Qadisiya SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Goa vs Al Qadisiya SC (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
+
+#EXTINF:-1 tvg-id="x7lm7phj4865m2w" tvg-name="FC Goa vs Al Qadisiya SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 00:30 WIB] [AFC Challenge League] FC Goa vs Al Qadisiya SC
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-id="4jwq2ghnd0xxm0v" tvg-name="Go Ahead Eagles vs SC Telstar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 01:00 WIB] [Eredivisie] Go Ahead Eagles vs SC Telstar
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
@@ -2782,4 +2778,4 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-id="zp5rzgh3yk12q82" tvg-name="EM Deportivo vs Santos de Nasca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 03:00 WIB] [Liga 2 Indonesia] EM Deportivo vs Santos de Nasca
-https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=f62614053f8e310c59242825862a732b&wsABSTime=1792821386
+https://live1.quickscoreboardz.com/live/channel13.m3u8?wsSecret=20e5957bac625d28ff7c8135c5692d5d&wsABSTime=1792822798
