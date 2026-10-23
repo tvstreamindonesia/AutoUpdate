@@ -2753,13 +2753,10 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hnd68zqdy" tvg-name="Al-Arabi SC (Kuwait) vs Al Nejmeh SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Arabi SC (Kuwait) vs Al Nejmeh SC (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ahal FK vs Al Ansar SC (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="x7lm7phj486om2w" tvg-name="Ahal FK vs Al Ansar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ahal FK vs Al Ansar SC (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-id="k82rekhgld49rep" tvg-name="PSBS Biak vs Barito Putera" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSBS Biak vs Barito Putera (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="k82rekhgld49rep" tvg-name="PSBS Biak vs Barito Putera" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSBS Biak vs Barito Putera (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
