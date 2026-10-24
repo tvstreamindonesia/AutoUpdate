@@ -2753,27 +2753,27 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="dn1m1ghld4x6moe" tvg-name="Napoli vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Napoli vs AS Roma (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="dn1m1ghld4x6moe" tvg-name="Napoli vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Napoli vs AS Roma (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Valencia CF vs Villarreal (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792859824-0-0-e68079e4d675210695443edc97ecd047
-
 #EXTINF:-1 tvg-id="dj2ryohl0dp6q1z" tvg-name="Dortmund vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Dortmund vs Eintracht Frankfurt (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792859828-0-0-3c1af0a3981a2959c3ef6ecf4bf4b6ba
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792861597-0-0-f1d8134dc0675ce1b11fbcb56534d337
+
+#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Valencia CF vs Villarreal (LIVE - Babak 1)
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792861598-0-0-2fb319153133e2400c897b1cbd8a9cbc
 
 #EXTINF:-1 tvg-id="vjxm8gheo62pr6o" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Chelsea vs Tottenham (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792859829-0-0-2884e04487fdc3a8d01689e0ad3f50a4
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792861601-0-0-6a3b3226e9c71048c645c89fa102b4f4
+
+#EXTINF:-1 tvg-id="965mkyhk9gezr1g" tvg-name="Willem II vs SC Cambuur" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Willem II vs SC Cambuur (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1lv5zq0j" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Alverca vs FC Arouca (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="965mkyhk9gezr1g" tvg-name="Willem II vs SC Cambuur" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:45 WIB] [Eredivisie] Willem II vs SC Cambuur
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1lv5zq0j" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 00:00 WIB] [Primeira Liga Portugal] Alverca vs FC Arouca
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4joxor8k" tvg-name="Lazio vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 01:45 WIB] [Serie A Italia] Lazio vs Parma
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
