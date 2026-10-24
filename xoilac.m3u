@@ -2750,8 +2750,17 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hn2yl6qdy" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gil Vicente vs FC Porto (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792884708-0-0-2748e088994df0f22140d840f6e4d782
+#EXTINF:-1 tvg-id="318q66hxldpvqo9" tvg-name="Persela Lamongan vs Dejan FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 14:30 WIB] [Liga 2 Indonesia] Persela Lamongan vs Dejan FC
+https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=e2f01758bcd5cae78d70d2b3fa72e2b5&wsABSTime=1792929460
+
+#EXTINF:-1 tvg-id="23xmvkh6n1o9qg8" tvg-name="Persita vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] [Liga 1 Indonesia] Persita vs Bali United
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnoge9qvy" tvg-name="Arema FC vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] [Liga 1 Indonesia] Arema FC vs Dewa United FC
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheo46wr6o" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] [Serie A Italia] Inter Milan vs Fiorentina
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
