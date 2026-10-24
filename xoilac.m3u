@@ -2754,7 +2754,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="zp5rzghg84k6q82" tvg-name="Tainan Steel vs Yangon United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:00 WIB] [AFC Challenge League] Tainan Steel vs Yangon United
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phj1yopm2w" tvg-name="Isenmulang Kalteng vs PSIM Yogyakarta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 15:30 WIB] [Liga 1 Indonesia] Isenmulang Kalteng vs PSIM Yogyakarta
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
@@ -2763,4 +2763,7 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheo62vr6o" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 18:30 WIB] [Premier League] Aston Villa vs Manchester City
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792826497-0-0-fcafcd1e9e76cb0bf39558ce4735d205
+
+#EXTINF:-1 tvg-id="pxwrxlhywo29ryk" tvg-name="Arsenal vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:00 WIB] [Premier League] Arsenal vs Everton
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792826499-0-0-079651d67a0d5f3d4da84c05de70f9fe
