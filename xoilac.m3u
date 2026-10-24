@@ -2753,9 +2753,6 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="vjxm8gheo62vr6o" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Aston Villa vs Manchester City (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792847874-0-0-fcf4ceb4fee7d9e78cf93478c0bc5278
-
 #EXTINF:-1 tvg-id="3glrw7hn5oyjqdy" tvg-name="Rayo Vallecano vs Elche CF" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Rayo Vallecano vs Elche CF (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
@@ -2765,24 +2762,39 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 #EXTINF:-1 tvg-id="y0or5jh82y40qwz" tvg-name="Persijap Jepara vs Java United F.C." tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persijap Jepara vs Java United F.C. (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
+#EXTINF:-1 tvg-id="4jwq2ghgovolm0v" tvg-name="Hang Yuan Football Club vs Kasuka FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhx0oryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Hang Yuan Football Club vs Kasuka FC (LIVE - Babak 2)
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh6z3jyqg8" tvg-name="Como vs Sassuolo" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Como vs Sassuolo (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxdo39qo9" tvg-name="Cagliari vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Cagliari vs Bologna (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh903d3m7v" tvg-name="Augsburg vs Union Berlin" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Augsburg vs Union Berlin (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxp73xqo9" tvg-name="FC Köln vs Schalke 04" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Köln vs Schalke 04 (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h6n75wq86" tvg-name="Paderborn 07 vs Hamburger SV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Paderborn 07 vs Hamburger SV (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvo482md7" tvg-name="RB Leipzig vs SV 07 Elversberg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RB Leipzig vs SV 07 Elversberg (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhkxg0or1g" tvg-name="Mainz 05 vs Werder Bremen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mainz 05 vs Werder Bremen (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="4wyrn4h6n75wq86" tvg-name="Paderborn 07 vs Hamburger SV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 20:30 WIB] [Bundesliga] Paderborn 07 vs Hamburger SV
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="6ypq3nhvo482md7" tvg-name="RB Leipzig vs SV 07 Elversberg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 20:30 WIB] [Bundesliga] RB Leipzig vs SV 07 Elversberg
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhkxg0or1g" tvg-name="Mainz 05 vs Werder Bremen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 20:30 WIB] [Bundesliga] Mainz 05 vs Werder Bremen
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8dk00qwz" tvg-name="Coventry City vs Fulham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:00 WIB] [Premier League] Coventry City vs Fulham
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=21cdedf29f4c02f32c5c4bbda6d59ccb&wsABSTime=1792893140
 
 #EXTINF:-1 tvg-id="pxwrxlhywo29ryk" tvg-name="Arsenal vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:00 WIB] [Premier League] Arsenal vs Everton
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792847884-0-0-5f75efb28131212937e580f1118b3101
-
-#EXTINF:-1 tvg-id="y0or5jh8dk00qwz" tvg-name="Coventry City vs Fulham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:00 WIB] [Premier League] Coventry City vs Fulham
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=e67ac5abb9dbbb1bdcdac0d342450196&wsABSTime=1792891085
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792849941-0-0-2296d0206c37410d39560474deaa628c
 
 #EXTINF:-1 tvg-id="pxwrxlhyovj1ryk" tvg-name="Racing Santander vs Espanyol" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:15 WIB] [La Liga] Racing Santander vs Espanyol
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -2793,5 +2805,20 @@ https://live2.jorvakstreamcache.com/live/channel10.m3u8
 #EXTINF:-1 tvg-id="pxwrxlhy8j27ryk" tvg-name="Estrela Amadora vs Casa Pia AC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 21:30 WIB] [Primeira Liga Portugal] Estrela Amadora vs Casa Pia AC
 https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
+#EXTINF:-1 tvg-id="dn1m1ghld4x6moe" tvg-name="Napoli vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:00 WIB] [Serie A Italia] Napoli vs AS Roma
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="dj2ryohl0dp6q1z" tvg-name="Dortmund vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] [Bundesliga] Dortmund vs Eintracht Frankfurt
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=c99b95262c0bb5c57aa704a6f612e589&wsABSTime=1792893143
+
 #EXTINF:-1 tvg-id="vjxm8gheo62pr6o" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] [Premier League] Chelsea vs Tottenham
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792847885-0-0-6d0246ad5d03d9cf0bfefe4db6225b0e
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792849943-0-0-a8142945498c2ae0bbd1daaeac033c15
+
+#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:30 WIB] [La Liga] Valencia CF vs Villarreal
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001792849975-0-0-563447e7e719924b8d34270f22b2c952
+
+#EXTINF:-1 tvg-id="965mkyhk9gezr1g" tvg-name="Willem II vs SC Cambuur" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/10 23:45 WIB] [Eredivisie] Willem II vs SC Cambuur
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1lv5zq0j" tvg-name="Alverca vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 00:00 WIB] [Primeira Liga Portugal] Alverca vs FC Arouca
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
