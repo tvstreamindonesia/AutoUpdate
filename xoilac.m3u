@@ -2756,14 +2756,14 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="dn1m1ghld4x6moe" tvg-name="Napoli vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Napoli vs AS Roma (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl0dp6q1z" tvg-name="Dortmund vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Dortmund vs Eintracht Frankfurt (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792861597-0-0-f1d8134dc0675ce1b11fbcb56534d337
+#EXTINF:-1 tvg-id="dj2ryohl0dp6q1z" tvg-name="Dortmund vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Dortmund vs Eintracht Frankfurt (LIVE - Halftime)
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792863305-0-0-f58a32dfe7840e20d7a594ae3ffc92c2
 
-#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Valencia CF vs Villarreal (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792861598-0-0-2fb319153133e2400c897b1cbd8a9cbc
+#EXTINF:-1 tvg-id="23xmvkh6jxkwqg8" tvg-name="Valencia CF vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Valencia CF vs Villarreal (LIVE - Halftime)
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792863306-0-0-22d6b5e1ee8137fdcb3821654c9cbaf2
 
-#EXTINF:-1 tvg-id="vjxm8gheo62pr6o" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Chelsea vs Tottenham (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792861601-0-0-6a3b3226e9c71048c645c89fa102b4f4
+#EXTINF:-1 tvg-id="vjxm8gheo62pr6o" tvg-name="Chelsea vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Chelsea vs Tottenham (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792863308-0-0-bdeb08358ef4930d2ba56c4059d2a8f8
 
 #EXTINF:-1 tvg-id="965mkyhk9gezr1g" tvg-name="Willem II vs SC Cambuur" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Willem II vs SC Cambuur (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
