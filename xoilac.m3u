@@ -2753,33 +2753,42 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="2y8m4zh591glql0" tvg-name="RC Celta vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Celta vs Real Betis (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="6ypq3nhvyw44md7" tvg-name="Estoril vs Moreirense" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Estoril vs Moreirense (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghgej9oq82" tvg-name="Lecce vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lecce vs Juventus (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-id="x7lm7phjepw9m2w" tvg-name="Real Sociedad vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Real Sociedad vs Levante (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghed82wr6o" tvg-name="CD Nacional vs Sporting Braga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",CD Nacional vs Sporting Braga (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="vjxm8ghed82wr6o" tvg-name="CD Nacional vs Sporting Braga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",CD Nacional vs Sporting Braga (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjyw53m2w" tvg-name="Rio Ave vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Rio Ave vs FC Famalicao (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="x7lm7phjyw53m2w" tvg-name="Rio Ave vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Rio Ave vs FC Famalicao (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4j5ewr8k" tvg-name="AZ Alkmaar vs Twente FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AZ Alkmaar vs Twente FC (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="l5ergph4j5ewr8k" tvg-name="AZ Alkmaar vs Twente FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 02:00 WIB] [Eredivisie] AZ Alkmaar vs Twente FC
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1j7lzq0j" tvg-name="Udinese vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 02:45 WIB] [Serie A Italia] Udinese vs AC Milan
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="6ypq3nhvo1w0md7" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 03:00 WIB] [La Liga] Barcelona vs Real Madrid
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhy8j2yryk" tvg-name="Sporting CP vs Viseu" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 03:30 WIB] [Primeira Liga Portugal] Sporting CP vs Viseu
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9wo1jm7v" tvg-name="Bhayangkara Presisi vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Liga 1 Indonesia] Bhayangkara Presisi vs PSM Makassar
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792955423-0-0-3fd158752965c1312b2835b8de4d5d96
+
+#EXTINF:-1 tvg-id="4jwq2ghn3ykem0v" tvg-name="Persebaya vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Liga 1 Indonesia] Persebaya vs Madura United
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792955425-0-0-2eebd11f764aca1db7904786609ae499
+
+#EXTINF:-1 tvg-id="ednm9whw3y9wryo" tvg-name="Persija Jakarta vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Liga 1 Indonesia] Persija Jakarta vs Persik Kediri
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792955426-0-0-5246b2ac836d0e27312f0b5086203654
+
+#EXTINF:-1 tvg-id="3glrw7h4k52yqdy" tvg-name="Negele Arsi vs Adama City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Premier League] Negele Arsi vs Adama City
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=5788f74555bbaacd462507015bd76f54&wsABSTime=1792998627
+
+#EXTINF:-1 tvg-id="pxwrxlhlpo89ryk" tvg-name="Saint George SC vs Sheger Ketema" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Premier League] Saint George SC vs Sheger Ketema
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=00ecfd87b3cf26e91f74a661e00de358&wsABSTime=1792998629
