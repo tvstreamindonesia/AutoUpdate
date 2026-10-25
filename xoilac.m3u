@@ -2753,13 +2753,10 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="k82rekhgd8onrep" tvg-name="Fortuna Sittard vs Excelsior SBV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Fortuna Sittard vs Excelsior SBV (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
 #EXTINF:-1 tvg-id="vjxm8gheo46wr6o" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Inter Milan vs Fiorentina (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghglv7wq82" tvg-name="Garudayaksa FC vs Persib Bandung" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Garudayaksa FC vs Persib Bandung (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="zp5rzghglv7wq82" tvg-name="Garudayaksa FC vs Persib Bandung" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Garudayaksa FC vs Persib Bandung (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 ########################################################
@@ -2776,13 +2773,13 @@ https://live2.jorvakstreamcache.com/live/channel23.m3u8
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-id="23xmvkh6zjg9qg8" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Crystal Palace vs Newcastle United
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=4541d6461a5736f93b61a17c6d050cc5&wsABSTime=1792975374
-
-#EXTINF:-1 tvg-id="ednm9whwl4dwryo" tvg-name="Liverpool vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Liverpool vs Brighton
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792932175-0-0-2f47d73cfb772ac4c306bf4f4eba005b
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=78a3925db000c2945165a4b3731acf16&wsABSTime=1792977456
 
 #EXTINF:-1 tvg-id="965mkyhk9xg8r1g" tvg-name="Manchester United vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Manchester United vs AFC Bournemouth
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792932177-0-0-7d5f9a1962725898b602f276c1d782fd
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792934257-0-0-2c444b925e17fd93344868042f45a805
+
+#EXTINF:-1 tvg-id="ednm9whwl4dwryo" tvg-name="Liverpool vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Liverpool vs Brighton
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792934259-0-0-a4865ce2d5b628cf36d8f64d8f5e474d
 
 #EXTINF:-1 tvg-id="1l4rjnh9p03jm7v" tvg-name="Hull City vs Brentford" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Hull City vs Brentford
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
