@@ -2753,48 +2753,39 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="jw2r09hkv1xzrz8" tvg-name="Athletic Bilbao vs Getafe" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Athletic Bilbao vs Getafe (LIVE - Halftime)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxd742qo9" tvg-name="NEC Nijmegen vs Groningen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",NEC Nijmegen vs Groningen (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel23.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghldo30moe" tvg-name="PSV Eindhoven vs Feyenoord" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSV Eindhoven vs Feyenoord (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwl4dwryo" tvg-name="Liverpool vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Liverpool vs Brighton (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792940870-0-0-b407cda0dd2a6b44603afa891e643537
-
-#EXTINF:-1 tvg-id="965mkyhk9xg8r1g" tvg-name="Manchester United vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Manchester United vs AFC Bournemouth (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792940881-0-0-6251a7bb200b59ed621fd0834a95cedd
-
-#EXTINF:-1 tvg-id="23xmvkh6zjg9qg8" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Crystal Palace vs Newcastle United (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792940892-0-0-55dcff29d50b7159df4eecbfcd2f389d
-
-#EXTINF:-1 tvg-id="1l4rjnh9p03jm7v" tvg-name="Hull City vs Brentford" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Hull City vs Brentford (LIVE - Halftime)
+#EXTINF:-1 tvg-id="1l4rjnh9p03jm7v" tvg-name="Hull City vs Brentford" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Hull City vs Brentford (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl3k3gq1z" tvg-name="Atalanta vs Frosinone" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Atalanta vs Frosinone (LIVE - Halftime)
+#EXTINF:-1 tvg-id="23xmvkh6zjg9qg8" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Crystal Palace vs Newcastle United (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792942627-0-0-6e777d995ce42c77f335625d37877d87
+
+#EXTINF:-1 tvg-id="ednm9whwl4dwryo" tvg-name="Liverpool vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Liverpool vs Brighton (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792942630-0-0-6aff13ab04d9bae27904f1334a0e6ed2
+
+#EXTINF:-1 tvg-id="965mkyhk9xg8r1g" tvg-name="Manchester United vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Manchester United vs AFC Bournemouth (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001792942640-0-0-efe91da3828d15ad2ad3ffab25ce6306
+
+#EXTINF:-1 tvg-id="dj2ryohl3k3gq1z" tvg-name="Atalanta vs Frosinone" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Atalanta vs Frosinone (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhywg4yryk" tvg-name="Genoa vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Genoa vs Venezia (LIVE - Halftime)
+#EXTINF:-1 tvg-id="pxwrxlhywg4yryk" tvg-name="Genoa vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Genoa vs Venezia (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8d321qwz" tvg-name="AS Monaco vs LOSC Lille" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AS Monaco vs LOSC Lille (LIVE - Halftime)
+#EXTINF:-1 tvg-id="y0or5jh8d321qwz" tvg-name="AS Monaco vs LOSC Lille" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AS Monaco vs LOSC Lille (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghe6274r6o" tvg-name="TSG Hoffenheim vs Bayer Leverkusen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",TSG Hoffenheim vs Bayer Leverkusen (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="2y8m4zh591glql0" tvg-name="RC Celta vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Celta vs Real Betis (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvyw44md7" tvg-name="Estoril vs Moreirense" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Estoril vs Moreirense (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="vjxm8ghe6274r6o" tvg-name="TSG Hoffenheim vs Bayer Leverkusen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:30 WIB] [Bundesliga] TSG Hoffenheim vs Bayer Leverkusen
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="2y8m4zh591glql0" tvg-name="RC Celta vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 22:15 WIB] [La Liga] RC Celta vs Real Betis
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="6ypq3nhvyw44md7" tvg-name="Estoril vs Moreirense" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 22:30 WIB] [Primeira Liga Portugal] Estoril vs Moreirense
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6174oq86" tvg-name="Sparta Rotterdam vs AFC Ajax" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 22:45 WIB] [Eredivisie] Sparta Rotterdam vs AFC Ajax
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
@@ -2822,3 +2813,21 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="zp5rzghgej9oq82" tvg-name="Lecce vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 00:00 WIB] [Serie A Italia] Lecce vs Juventus
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phjepw9m2w" tvg-name="Real Sociedad vs Levante" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 00:30 WIB] [La Liga] Real Sociedad vs Levante
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghed82wr6o" tvg-name="CD Nacional vs Sporting Braga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 01:00 WIB] [Primeira Liga Portugal] CD Nacional vs Sporting Braga
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phjyw53m2w" tvg-name="Rio Ave vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 01:00 WIB] [Primeira Liga Portugal] Rio Ave vs FC Famalicao
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4j5ewr8k" tvg-name="AZ Alkmaar vs Twente FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 02:00 WIB] [Eredivisie] AZ Alkmaar vs Twente FC
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1j7lzq0j" tvg-name="Udinese vs AC Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 02:45 WIB] [Serie A Italia] Udinese vs AC Milan
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvo1w0md7" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 03:00 WIB] [La Liga] Barcelona vs Real Madrid
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
