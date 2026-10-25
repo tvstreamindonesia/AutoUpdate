@@ -2760,10 +2760,16 @@ https://live2.jorvakstreamcache.com/live/channel13.m3u8
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-id="318q66hxldpvqo9" tvg-name="Persela Lamongan vs Dejan FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 15:30 WIB] [Liga 2 Indonesia] Persela Lamongan vs Dejan FC
-https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=2dc253455801ce93ef5e452d13d11eb5&wsABSTime=1792956123
+https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=cacfa316b44f15e2387e41f8d3fee876&wsABSTime=1792958211
 
 #EXTINF:-1 tvg-id="k82rekhgd8onrep" tvg-name="Fortuna Sittard vs Excelsior SBV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:15 WIB] [Eredivisie] Fortuna Sittard vs Excelsior SBV
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheo46wr6o" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 18:30 WIB] [Serie A Italia] Inter Milan vs Fiorentina
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghglv7wq82" tvg-name="Garudayaksa FC vs Persib Bandung" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 19:00 WIB] [Liga 1 Indonesia] Garudayaksa FC vs Persib Bandung
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkv1xzrz8" tvg-name="Athletic Bilbao vs Getafe" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 20:00 WIB] [La Liga] Athletic Bilbao vs Getafe
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
