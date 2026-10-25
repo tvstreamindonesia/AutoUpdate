@@ -2753,13 +2753,13 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="23xmvkh6n1o9qg8" tvg-name="Persita vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persita vs Bali United (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="23xmvkh6n1o9qg8" tvg-name="Persita vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persita vs Bali United (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnoge9qvy" tvg-name="Arema FC vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Arema FC vs Dewa United FC (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="n54qllhnoge9qvy" tvg-name="Arema FC vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Arema FC vs Dewa United FC (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-id="318q66hxldpvqo9" tvg-name="Persela Lamongan vs Dejan FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persela Lamongan vs Dejan FC (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="318q66hxldpvqo9" tvg-name="Persela Lamongan vs Dejan FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persela Lamongan vs Dejan FC (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
@@ -2785,10 +2785,10 @@ https://live2.jorvakstreamcache.com/live/channel23.m3u8
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhk9xg8r1g" tvg-name="Manchester United vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Manchester United vs AFC Bournemouth
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792919813-0-0-22d299649db3e3bcfa6fe710ac1cf72d
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792922079-0-0-df6aee724af9e8089fbf9b4d27f7ae83
 
 #EXTINF:-1 tvg-id="23xmvkh6zjg9qg8" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Crystal Palace vs Newcastle United
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=9c102da92833584bf9b562c16e4c5a91&wsABSTime=1792963015
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=3c5a01f0a4324b299ae265d87df084ad&wsABSTime=1792965280
 
 #EXTINF:-1 tvg-id="ednm9whwl4dwryo" tvg-name="Liverpool vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/10 21:00 WIB] [Premier League] Liverpool vs Brighton
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792919816-0-0-8ea51d70dd8597205315cbbc65d9fddb
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792922080-0-0-05cd21773a2eb6fd546816db4e8b34fa
