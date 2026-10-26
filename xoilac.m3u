@@ -2750,18 +2750,8 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="k82rekh2v1zzrep" tvg-name="Saudi Arabia U15 vs Trung Quốc U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Saudi Arabia U15 vs Trung Quốc U15 (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="1l4rjnh9wo1jm7v" tvg-name="Bhayangkara Presisi vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Liga 1 Indonesia] Bhayangkara Presisi vs PSM Makassar
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="4jwq2ghn3ykem0v" tvg-name="Persebaya vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Liga 1 Indonesia] Persebaya vs Madura United
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
@@ -2770,19 +2760,22 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7h4k52yqdy" tvg-name="Negele Arsi vs Adama City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Premier League] Negele Arsi vs Adama City
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=b8890ce315435aa5bcec62db04bac722&wsABSTime=1793049755
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=bdfb4835f145aef44fe41f9394bd2c3a&wsABSTime=1793052542
 
 #EXTINF:-1 tvg-id="pxwrxlhlpo89ryk" tvg-name="Saint George SC vs Sheger Ketema" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Premier League] Saint George SC vs Sheger Ketema
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=45836c7210996e4cccef2740fb224c07&wsABSTime=1793049755
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=dfdbebac7d83c6a1d90d3da9660e04a8&wsABSTime=1793052543
 
 #EXTINF:-1 tvg-id="6ypq3nhk6oy5md7" tvg-name="Gamo Chencha vs Ethiopia Nigd Bank" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 20:00 WIB] [Premier League] Gamo Chencha vs Ethiopia Nigd Bank
-https://live1.quickscoreboardz.com/live/channel34.m3u8?wsSecret=1b4efe25312576e85efbc6252985aac2&wsABSTime=1793049755
+https://live1.quickscoreboardz.com/live/channel34.m3u8?wsSecret=a911b0c7bbfe99ccc6f0dea6ec72c394&wsABSTime=1793052543
 
 #EXTINF:-1 tvg-id="vjxm8ghen29kr6o" tvg-name="Neftchi Fergana vs Al Ittihad(KSA)" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 20:45 WIB] [AFC Champions League Elite] Neftchi Fergana vs Al Ittihad(KSA)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793006555-0-0-7c95c5d283b7dc063a74b93943e5b53d
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793009344-0-0-c1cc00797551869cf9e4a88bb20608e4
+
+#EXTINF:-1 tvg-id="vjxm8ghkv6dpr6o" tvg-name="Wolaita Dicha vs Halaba City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 22:00 WIB] [Premier League] Wolaita Dicha vs Halaba City
+https://live1.quickscoreboardz.com/live/channel20.m3u8?wsSecret=b7a3123ae51082a2f22c456269c9c660&wsABSTime=1793052544
 
 #EXTINF:-1 tvg-id="dn1m1gh941vemoe" tvg-name="Trung Quốc U15 vs Solomon Islands U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 22:30 WIB] [FIFA World Cup] Trung Quốc U15 vs Solomon Islands U15
-https://live1.quickscoreboardz.com/live/channel31.m3u8?wsSecret=5b3e8893137d1bc3e82f242612279219&wsABSTime=1793049755
+https://live1.quickscoreboardz.com/live/channel31.m3u8?wsSecret=f59a177f6439e03789277ab2ff9fa2a7&wsABSTime=1793052545
 
 #EXTINF:-1 tvg-id="318q66hx9770qo9" tvg-name="Al-Ain FC vs Tractor S.C." tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 23:00 WIB] [AFC Champions League Elite] Al-Ain FC vs Tractor S.C.
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
@@ -2801,3 +2794,6 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="zp5rzghgepl4q82" tvg-name="PSG vs Lyon" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 02:30 WIB] [Ligue 1] PSG vs Lyon
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8k131qwz" tvg-name="Sevilla vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 03:00 WIB] [La Liga] Sevilla vs Osasuna
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=eb5b04f7272e1f730bed5626a3a61285&wsABSTime=1793052548
