@@ -2753,24 +2753,21 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="vjxm8ghen29kr6o" tvg-name="Neftchi Fergana vs Al Ittihad(KSA)" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Neftchi Fergana vs Al Ittihad(KSA) (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghkv6dpr6o" tvg-name="Wolaita Dicha vs Halaba City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Wolaita Dicha vs Halaba City (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="vjxm8ghkv6dpr6o" tvg-name="Wolaita Dicha vs Halaba City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Wolaita Dicha vs Halaba City (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1gh941vemoe" tvg-name="Trung Quốc U15 vs Solomon Islands U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Trung Quốc U15 vs Solomon Islands U15 (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="318q66hx9770qo9" tvg-name="Al-Ain FC vs Tractor S.C." tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Ain FC vs Tractor S.C. (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghl5o7kmoe" tvg-name="Al Ahli SC vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Ahli SC vs Al-Gharafa Sports Club (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="dn1m1gh941vemoe" tvg-name="Trung Quốc U15 vs Solomon Islands U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 22:30 WIB] [FIFA World Cup] Trung Quốc U15 vs Solomon Islands U15
-https://live1.quickscoreboardz.com/live/channel31.m3u8?wsSecret=4fc0f77ba687a8e6a2a157754b02219d&wsABSTime=1793071618
-
-#EXTINF:-1 tvg-id="318q66hx9770qo9" tvg-name="Al-Ain FC vs Tractor S.C." tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 23:00 WIB] [AFC Champions League Elite] Al-Ain FC vs Tractor S.C.
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl5o7kmoe" tvg-name="Al Ahli SC vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 23:00 WIB] [AFC Champions League Elite] Al Ahli SC vs Al-Gharafa Sports Club
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh524nxql0" tvg-name="Al Qadsiah vs Al-Sadd Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 01:15 WIB] [AFC Champions League Elite] Al Qadsiah vs Al-Sadd Sports Club
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
@@ -2785,16 +2782,16 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8k131qwz" tvg-name="Sevilla vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 03:00 WIB] [La Liga] Sevilla vs Osasuna
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=4b9fdb2853ab42bda626c6f18bb6bf12&wsABSTime=1793071624
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=9e97edf6439858ef886d54ee12793542&wsABSTime=1793074861
 
 #EXTINF:-1 tvg-id="jw2r09h5l42vrz8" tvg-name="Arnett Gardens vs Molynes United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 05:05 WIB] [Premier League] Arnett Gardens vs Molynes United
-https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=027ec69cb34f83e975027c17c0107611&wsABSTime=1793071625
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=13bda9db0bb6b71e306ade0eb92acef8&wsABSTime=1793074873
 
 #EXTINF:-1 tvg-id="23xmvkhy3xoeqg8" tvg-name="Nữ AFC Toronto vs Nữ Halifax Tides" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh8lxqg8n/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh8lxqg8n/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 06:00 WIB] [Africa Cup of Nations] Nữ AFC Toronto vs Nữ Halifax Tides
-https://live1.quickscoreboardz.com/live/channel34.m3u8?wsSecret=44885462f577f279d4c767a4d78ebe18&wsABSTime=1793071626
+https://live1.quickscoreboardz.com/live/channel34.m3u8?wsSecret=66d6231fe1c2f1077103caf0513ff15d&wsABSTime=1793074874
 
 #EXTINF:-1 tvg-id="l7oqdehjnyowr51" tvg-name="Mount Pleasant FA vs Montego Bay Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 08:00 WIB] [Premier League] Mount Pleasant FA vs Montego Bay Utd
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=4170b03e8cc31036d98e1c5b073645f5&wsABSTime=1793071627
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=79376fc17b9b740bca528d830958ee8e&wsABSTime=1793074874
 
 #EXTINF:-1 tvg-id="4wyrn4h6j7o2q86" tvg-name="Daejeon Hana Citizen vs Vissel Kobe" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] [AFC Champions League Elite] Daejeon Hana Citizen vs Vissel Kobe
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
@@ -2806,4 +2803,4 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="zp5rzghgn2wyq82" tvg-name="Shanghai Port vs Công An Hà Nội" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 17:00 WIB] [AFC Champions League Elite] Shanghai Port vs Công An Hà Nội
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=7e646ca9a37525a4de0a631729859203&wsABSTime=1793071630
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=4cf5640621649ef739a873f575a36a5d&wsABSTime=1793074877
