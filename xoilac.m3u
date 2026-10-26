@@ -2763,13 +2763,13 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7h4k52yqdy" tvg-name="Negele Arsi vs Adama City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Premier League] Negele Arsi vs Adama City
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=4b6effcda8950f5e0091c38338f228d1&wsABSTime=1793027672
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=6d8e195e46418616a572a814ef23df94&wsABSTime=1793029770
 
 #EXTINF:-1 tvg-id="pxwrxlhlpo89ryk" tvg-name="Saint George SC vs Sheger Ketema" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 19:00 WIB] [Premier League] Saint George SC vs Sheger Ketema
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=897d21d162c84b93a639e61bfecdaa1c&wsABSTime=1793027672
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=f455478e2036d99e257bc19e811b7a17&wsABSTime=1793029771
 
 #EXTINF:-1 tvg-id="vjxm8ghen29kr6o" tvg-name="Neftchi Fergana vs Al Ittihad(KSA)" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 20:45 WIB] [AFC Champions League Elite] Neftchi Fergana vs Al Ittihad(KSA)
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792984473-0-0-0c992979f6a2c756136ac76ab66a8574
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792986572-0-0-d99a1571f19116337def0fee2fa7f220
 
 #EXTINF:-1 tvg-id="318q66hx9770qo9" tvg-name="Al-Ain FC vs Tractor S.C." tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/10 23:00 WIB] [AFC Champions League Elite] Al-Ain FC vs Tractor S.C.
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
@@ -2788,3 +2788,12 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="zp5rzghgepl4q82" tvg-name="PSG vs Lyon" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 02:30 WIB] [Ligue 1] PSG vs Lyon
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8k131qwz" tvg-name="Sevilla vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 03:00 WIB] [La Liga] Sevilla vs Osasuna
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=f10f95999c71e325d771ae2265006532&wsABSTime=1793029778
+
+#EXTINF:-1 tvg-id="jw2r09h5l42vrz8" tvg-name="Arnett Gardens vs Molynes United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 05:05 WIB] [Premier League] Arnett Gardens vs Molynes United
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=002acfda9ce1821d1287aa6be76827eb&wsABSTime=1793029779
+
+#EXTINF:-1 tvg-id="l7oqdehjnyowr51" tvg-name="Mount Pleasant FA vs Montego Bay Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/10 08:00 WIB] [Premier League] Mount Pleasant FA vs Montego Bay Utd
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=3718d7ebea07ad56206294f6af774def&wsABSTime=1793029780
