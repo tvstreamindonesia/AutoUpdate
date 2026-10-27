@@ -2753,7 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="k82rekh2z7nprep" tvg-name="Kazma vs Ajman" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kazma vs Ajman (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="k82rekh2z7nprep" tvg-name="Kazma vs Ajman" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kazma vs Ajman (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="k82rekh2z78prep" tvg-name="Al-Shabab SC (Seeb) vs Neom SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Shabab SC (Seeb) vs Neom SC (LIVE - Babak 1)
@@ -2770,7 +2770,7 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7h4kv0lqdy" tvg-name="Al-Riffa vs Qatar Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 00:00 WIB] [UEFA Champions League] Al-Riffa vs Qatar Sports Club
-https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=d9fd01407f2772db7d1f3a3a37260549&wsABSTime=1793156254
+https://live1.quickscoreboardz.com/live/channel11.m3u8?wsSecret=5d0b5cb3da4e37f1a2d5fdc438865fe3&wsABSTime=1793158728
 
 #EXTINF:-1 tvg-id="965mkyhk97vlr1g" tvg-name="Sassuolo vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 00:30 WIB] [Serie A Italia] Sassuolo vs Lazio
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
