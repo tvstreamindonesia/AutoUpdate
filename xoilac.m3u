@@ -2754,10 +2754,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="y39mp1h683nlmoj" tvg-name="Torino vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Torino vs Como (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhk970dr1g" tvg-name="AS Roma vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AS Roma vs Cagliari (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793137585-0-0-e70675e13f481a6a22ab918a3deffcca
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
@@ -2788,4 +2785,7 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="318q66h8z5neqo9" tvg-name="Erbil SC vs Al-Ettifaq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 21:30 WIB] [UEFA Champions League] Erbil SC vs Al-Ettifaq
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=df4276be4d3ddec9a8f148332c769a35&wsABSTime=1793178865
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=46b87fc862cbbdb0b8bde81ed1940524&wsABSTime=1793180792
+
+#EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] [UEFA Champions League] Shab Hadramawt vs Al Duhail Sports Club
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=a5885c8abfb24cd87d33dfef9bc638d0&wsABSTime=1793180793
