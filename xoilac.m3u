@@ -2753,21 +2753,15 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="y39mp1h683nlmoj" tvg-name="Torino vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Torino vs Como (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="y39mp1h683nlmoj" tvg-name="Torino vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Torino vs Como (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk970dr1g" tvg-name="AS Roma vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AS Roma vs Cagliari (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="965mkyhk970dr1g" tvg-name="AS Roma vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AS Roma vs Cagliari (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="4jwq2ghn80pkm0v" tvg-name="Al-Shamal Sports Club vs Al Hilal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 01:15 WIB] [AFC Champions League Elite] Al-Shamal Sports Club vs Al Hilal
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-id="k82rekhg58ykrep" tvg-name="Al Shorta vs Al Hussein SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 01:15 WIB] [Kompetisi Resmi AFC] Al Shorta vs Al Hussein SC
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhlgj58ryk" tvg-name="Guangdong Wuchuan vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 15:00 WIB] [UEFA Champions League] Guangdong Wuchuan vs Wuhan Lianzhen
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
@@ -2777,3 +2771,21 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 17:00 WIB] [AFC Champions League Elite] Gamba Osaka vs Buriram United
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghk48lzr6o" tvg-name="Jiangsu Changjin vs Guangdong Chenxingjuli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Guangdong Chenxingjuli
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [Kompetisi Resmi AFC] Thể Công Viettel vs Seoul FC
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [Kompetisi Resmi AFC] Persib Bandung vs Melbourne Victory
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghl5oe5moe" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 20:45 WIB] [Kompetisi Resmi AFC] Gol Gohar FC vs Arkadag FK
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhy6212ryk" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 20:45 WIB] [Kompetisi Resmi AFC] Nasaf Qarshi vs Al Kuwait SC
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="318q66h8z5neqo9" tvg-name="Erbil SC vs Al-Ettifaq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 21:30 WIB] [UEFA Champions League] Erbil SC vs Al-Ettifaq
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=df4276be4d3ddec9a8f148332c769a35&wsABSTime=1793178865
