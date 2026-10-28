@@ -2753,33 +2753,27 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Jazira(UAE) vs Al-Muharraq (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh983zgm7v" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Nahda SC vs Al-Rayyan Sports Club (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793210198-0-0-df79f4bc9d22adbc1b01a1d021582a1e
-
-#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk" tvg-name="AC Milan vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Bologna (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnewg6qdy" tvg-name="Venezia vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Venezia vs Inter Milan (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="3glrw7hnewg6qdy" tvg-name="Venezia vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Venezia vs Inter Milan (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk97xdr1g" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Parma vs Udinese (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk" tvg-name="AC Milan vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Bologna (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhk97xdr1g" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Parma vs Udinese (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghkvz99r6o" tvg-name="Al Zawraa SC vs Al-Nasr Dubai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Zawraa SC vs Al-Nasr Dubai (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="vjxm8ghkvz99r6o" tvg-name="Al Zawraa SC vs Al-Nasr Dubai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Zawraa SC vs Al-Nasr Dubai (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnlke7qvy" tvg-name="Al Khaldiya vs Al Wahda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Khaldiya vs Al Wahda (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8v0ezqwz" tvg-name="Al-Faisaly Amman vs Al Taawoun" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Faisaly Amman vs Al Taawoun (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="n54qllhnlke7qvy" tvg-name="Al Khaldiya vs Al Wahda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] [Kompetisi Resmi AFC] Al Khaldiya vs Al Wahda
-https://live1.quickscoreboardz.com/live/channel90.m3u8?wsSecret=0cc214f18ef3f00d75e4a74d52d25474&wsABSTime=1793253402
-
-#EXTINF:-1 tvg-id="y0or5jh8v0ezqwz" tvg-name="Al-Faisaly Amman vs Al Taawoun" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] [Kompetisi Resmi AFC] Al-Faisaly Amman vs Al Taawoun
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnew56qdy" tvg-name="Monza vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] [Serie A Italia] Monza vs Napoli
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
