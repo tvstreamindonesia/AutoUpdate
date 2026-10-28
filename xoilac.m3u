@@ -2753,10 +2753,10 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kashima Antlers vs Pohang Steelers (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kashima Antlers vs Pohang Steelers (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gamba Osaka vs Buriram United (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gamba Osaka vs Buriram United (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
@@ -2779,7 +2779,7 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] [UEFA Champions League] Shab Hadramawt vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=7e165a4e4f1fe5614e6ed2df72867079&wsABSTime=1793227257
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=dfbf19090d3703ac5e18c9ecdbd115ea&wsABSTime=1793229665
 
 #EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al-Jazira(UAE) vs Al-Muharraq
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
