@@ -2753,18 +2753,12 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kashima Antlers vs Pohang Steelers (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Gamba Osaka vs Buriram United (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghk48lzr6o" tvg-name="Jiangsu Changjin vs Guangdong Chenxingjuli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Jiangsu Changjin vs Guangdong Chenxingjuli (LIVE - Babak 2)
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="vjxm8ghk48lzr6o" tvg-name="Jiangsu Changjin vs Guangdong Chenxingjuli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Guangdong Chenxingjuli
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [Kompetisi Resmi AFC] Thể Công Viettel vs Seoul FC
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
@@ -2779,10 +2773,22 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] [UEFA Champions League] Shab Hadramawt vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=dfbf19090d3703ac5e18c9ecdbd115ea&wsABSTime=1793229665
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=f866e85d63f2c2d5d997859d8a2cfae1&wsABSTime=1793232443
 
 #EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al-Jazira(UAE) vs Al-Muharraq
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh983zgm7v" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al Nahda SC vs Al-Rayyan Sports Club
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnewg6qdy" tvg-name="Venezia vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] [Serie A Italia] Venezia vs Inter Milan
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhk97xdr1g" tvg-name="Parma vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] [Serie A Italia] Parma vs Udinese
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhywgw7ryk" tvg-name="AC Milan vs Bologna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] [Serie A Italia] AC Milan vs Bologna
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghkvz99r6o" tvg-name="Al Zawraa SC vs Al-Nasr Dubai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] [UEFA Champions League] Al Zawraa SC vs Al-Nasr Dubai
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=8d7b7366503f071ca1893e31814a568b&wsABSTime=1793232447
