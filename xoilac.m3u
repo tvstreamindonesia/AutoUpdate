@@ -2753,14 +2753,32 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://sta.vnres.co/file/common/20261025/1ae3b5791c842367f3f6021e8dbacdfd.png" logo="https://sta.vnres.co/file/common/20261025/1ae3b5791c842367f3f6021e8dbacdfd.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 17:00 WIB] [AFC Champions League Elite] Kashima Antlers vs Pohang Steelers
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhlgj58ryk" tvg-name="Guangdong Wuchuan vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 15:00 WIB] [UEFA Champions League] Guangdong Wuchuan vs Wuhan Lianzhen
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://sta.vnres.co/file/common/20261025/02dbc938989d60f790bc6157d0e797e4.png" logo="https://sta.vnres.co/file/common/20261025/02dbc938989d60f790bc6157d0e797e4.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 17:00 WIB] [AFC Champions League Elite] Gamba Osaka vs Buriram United
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="l7oqdehjnedvr51" tvg-name="Iran U15 vs Trung Quốc U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 15:45 WIB] [FIFA World Cup] Iran U15 vs Trung Quốc U15
+https://live1.quickscoreboardz.com/live/channel35.m3u8?wsSecret=7396e844f43e4b2b0b3dd65182554d23&wsABSTime=1793209987
 
-#EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="The Cong-Viettel vs FC Seoul" tvg-logo="https://sta.vnres.co/file/common/20261025/8d255630e11f0ae6f328698aa92aec7f.png" logo="https://sta.vnres.co/file/common/20261025/8d255630e11f0ae6f328698aa92aec7f.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [AFC Champions League Two] The Cong-Viettel vs FC Seoul
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghk48lzr6o" tvg-name="Jiangsu Changjin vs Guangdong Chenxingjuli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Guangdong Chenxingjuli
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://sta.vnres.co/file/common/20261025/d63c28d623095d6aca50653ec27f10f8.png" logo="https://sta.vnres.co/file/common/20261025/d63c28d623095d6aca50653ec27f10f8.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [AFC Champions League Two] Persib Bandung vs Melbourne Victory
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [Kompetisi Resmi AFC] Thể Công Viettel vs Seoul FC
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 19:15 WIB] [Kompetisi Resmi AFC] Persib Bandung vs Melbourne Victory
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghl5oe5moe" tvg-name="Gol Gohar FC vs Arkadag FK" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 20:45 WIB] [Kompetisi Resmi AFC] Gol Gohar FC vs Arkadag FK
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhy6212ryk" tvg-name="Nasaf Qarshi vs Al Kuwait SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 20:45 WIB] [Kompetisi Resmi AFC] Nasaf Qarshi vs Al Kuwait SC
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] [UEFA Champions League] Shab Hadramawt vs Al Duhail Sports Club
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=288ca2b94a2a1c34dcd0e6aabe4878fe&wsABSTime=1793209990
+
+#EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al-Jazira(UAE) vs Al-Muharraq
+https://live2.jorvakstreamcache.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh983zgm7v" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al Nahda SC vs Al-Rayyan Sports Club
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
