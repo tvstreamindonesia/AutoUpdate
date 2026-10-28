@@ -2754,20 +2754,17 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="y0or5jh8v03zqwz" tvg-name="Thể Công Viettel vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Thể Công Viettel vs Seoul FC (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793198470-0-0-2b41b3bd096b7aa8d81469204c8a9ed3
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793201422-0-0-3cc11efc8c8edf5f09e0aa31fa3c5af9
 
 #EXTINF:-1 tvg-id="x7lm7phjl5wvm2w" tvg-name="Persib Bandung vs Melbourne Victory" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persib Bandung vs Melbourne Victory (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793198482-0-0-3a7e34193df4b14ee6af72fbd0e76eb3
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Shab Hadramawt vs Al Duhail Sports Club (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="318q66h8z5neqo9" tvg-name="Erbil SC vs Al-Ettifaq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 21:30 WIB] [UEFA Champions League] Erbil SC vs Al-Ettifaq
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=0bf15da7deec7a20b6768b1a4307e29e&wsABSTime=1793241684
-
-#EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] [UEFA Champions League] Shab Hadramawt vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=7fbd63c929cfb3795a854f681fda8ade&wsABSTime=1793241685
 
 #EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al-Jazira(UAE) vs Al-Muharraq
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
@@ -2785,13 +2782,16 @@ https://live2.jorvakstreamcache.com/live/channel1.m3u8
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8ghkvz99r6o" tvg-name="Al Zawraa SC vs Al-Nasr Dubai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 00:30 WIB] [UEFA Champions League] Al Zawraa SC vs Al-Nasr Dubai
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=49dcafbe2a97a7b452898d4f9fafc915&wsABSTime=1793241689
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=13145eee98e7ee00d269bd6b1dcf40b5&wsABSTime=1793244632
 
 #EXTINF:-1 tvg-id="n54qllhnlke7qvy" tvg-name="Al Khaldiya vs Al Wahda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] [Kompetisi Resmi AFC] Al Khaldiya vs Al Wahda
-https://live1.quickscoreboardz.com/live/channel90.m3u8?wsSecret=e0dfacea1552f5242ab88e8d1e8aec5c&wsABSTime=1793241690
+https://live1.quickscoreboardz.com/live/channel90.m3u8?wsSecret=480f09e5bdcf96ef66b79defd691106e&wsABSTime=1793244632
 
 #EXTINF:-1 tvg-id="y0or5jh8v0ezqwz" tvg-name="Al-Faisaly Amman vs Al Taawoun" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 01:15 WIB] [Kompetisi Resmi AFC] Al-Faisaly Amman vs Al Taawoun
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnew56qdy" tvg-name="Monza vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] [Serie A Italia] Monza vs Napoli
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h618pzq86" tvg-name="Genoa vs Juventus" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 02:45 WIB] [Serie A Italia] Genoa vs Juventus
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
