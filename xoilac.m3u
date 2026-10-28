@@ -2757,7 +2757,13 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehjnedvr51" tvg-name="Iran U15 vs Trung Quốc U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 15:45 WIB] [FIFA World Cup] Iran U15 vs Trung Quốc U15
-https://live1.quickscoreboardz.com/live/channel35.m3u8?wsSecret=7396e844f43e4b2b0b3dd65182554d23&wsABSTime=1793209987
+https://live1.quickscoreboardz.com/live/channel35.m3u8?wsSecret=4b7ab27f5db10cdc3517deebec64641e&wsABSTime=1793212106
+
+#EXTINF:-1 tvg-id="zp5rzghgn26yq82" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 17:00 WIB] [AFC Champions League Elite] Kashima Antlers vs Pohang Steelers
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehgve3or51" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 17:00 WIB] [AFC Champions League Elite] Gamba Osaka vs Buriram United
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8ghk48lzr6o" tvg-name="Jiangsu Changjin vs Guangdong Chenxingjuli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Guangdong Chenxingjuli
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
@@ -2775,10 +2781,7 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="318q66h8z57eqo9" tvg-name="Shab Hadramawt vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 22:15 WIB] [UEFA Champions League] Shab Hadramawt vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=288ca2b94a2a1c34dcd0e6aabe4878fe&wsABSTime=1793209990
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=79988891be0fd7e2860197df805c4440&wsABSTime=1793212111
 
 #EXTINF:-1 tvg-id="4jwq2ghn80k5m0v" tvg-name="Al-Jazira(UAE) vs Al-Muharraq" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al-Jazira(UAE) vs Al-Muharraq
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh983zgm7v" tvg-name="Al Nahda SC vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/10 23:00 WIB] [Kompetisi Resmi AFC] Al Nahda SC vs Al-Rayyan Sports Club
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
