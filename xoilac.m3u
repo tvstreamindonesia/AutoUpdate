@@ -2757,4 +2757,13 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohl3k6gq1z" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] [Serie A Italia] Fiorentina vs Atalanta
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=d37f299276a62dbd745840878674be1f&wsABSTime=1793327502
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=a767266cb73d3bfa7d10c77584be0b37&wsABSTime=1793331031
+
+#EXTINF:-1 tvg-id="y39mp1h62g5omoj" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 1 Indonesia] Java United F.C. vs Bhayangkara Presisi
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheyokwr6o" tvg-name="Persiku Kudus vs Persiraja Banda Aceh" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Persiku Kudus vs Persiraja Banda Aceh
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=8c730c28d1fb910694e79a5f3e34f049&wsABSTime=1793331033
+
+#EXTINF:-1 tvg-id="l5ergph4gj6pr8k" tvg-name="Barito Putera vs Persis Solo FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Barito Putera vs Persis Solo FC
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=e9fd0eb72d9b7b72d85551470b5a9825&wsABSTime=1793331034
