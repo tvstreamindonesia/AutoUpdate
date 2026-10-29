@@ -2753,7 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Frosinone vs Lecce (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Frosinone vs Lecce (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 ########################################################
@@ -2761,16 +2761,19 @@ https://live2.jorvakstreamcache.com/live/channel11.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="dj2ryohl3k6gq1z" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] [Serie A Italia] Fiorentina vs Atalanta
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=45d75bb3cd49d633d425b562efb0b11d&wsABSTime=1793340697
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=bf2fd84087438e4555d0daa9d940bc84&wsABSTime=1793343459
 
 #EXTINF:-1 tvg-id="y39mp1h62g5omoj" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 1 Indonesia] Java United F.C. vs Bhayangkara Presisi
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheyokwr6o" tvg-name="Persiku Kudus vs Persiraja Banda Aceh" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Persiku Kudus vs Persiraja Banda Aceh
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=2b7d6d43b5a4f361a9b98255f0e83afc&wsABSTime=1793340698
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=c7fc7525ec55fd9818749542f43eb89b&wsABSTime=1793343461
 
 #EXTINF:-1 tvg-id="l5ergph4gj6pr8k" tvg-name="Barito Putera vs Persis Solo FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Barito Putera vs Persis Solo FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=13995c7cdd0bd7357e7f4658b99de3e8&wsABSTime=1793340698
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=37cbd130a962e3a927ef325c68d6c538&wsABSTime=1793343461
 
 #EXTINF:-1 tvg-id="k82rekhg7p9jrep" tvg-name="Persebaya vs Persijap Jepara" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] [Liga 1 Indonesia] Persebaya vs Persijap Jepara
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj4dx3m2w" tvg-name="Semen Padang vs Sumsel United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] [Liga 2 Indonesia] Semen Padang vs Sumsel United
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=93e2a5170b14b6c6c3de508d761a3714&wsABSTime=1793343462
