@@ -2750,20 +2750,30 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Fiorentina vs Atalanta (LIVE - Babak 1)
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793305362-0-0-870317115892e097747f1d3f45767da2
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] [Serie A Italia] Fiorentina vs Atalanta
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=3822e9962b1356f6eca4340f3a41a938&wsABSTime=1793346038
+#EXTINF:-1 tvg-id="y39mp1h62g5omoj" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 1 Indonesia] Java United F.C. vs Bhayangkara Presisi
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheyokwr6o" tvg-name="Persiku Kudus vs Persiraja Banda Aceh" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Persiku Kudus vs Persiraja Banda Aceh
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=5d914b73d3fb7ef26ca578dac2c5d5e0&wsABSTime=1793346040
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=3e2818c365231ddafe64425f1f4d6ad4&wsABSTime=1793348566
 
 #EXTINF:-1 tvg-id="l5ergph4gj6pr8k" tvg-name="Barito Putera vs Persis Solo FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Barito Putera vs Persis Solo FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=12148beeaa02186bc8c991977d78fec5&wsABSTime=1793346041
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=0550beb18572e775736931d8338cfb93&wsABSTime=1793348566
 
 #EXTINF:-1 tvg-id="k82rekhg7p9jrep" tvg-name="Persebaya vs Persijap Jepara" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] [Liga 1 Indonesia] Persebaya vs Persijap Jepara
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phj4dx3m2w" tvg-name="Semen Padang vs Sumsel United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] [Liga 2 Indonesia] Semen Padang vs Sumsel United
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=ff01fc4e572fabd8be16c447fd8e5f26&wsABSTime=1793346042
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=7a174b39edeb2da40226a6850cdfabd9&wsABSTime=1793348568
+
+#EXTINF:-1 tvg-id="pxwrxlhlpo87ryk" tvg-name="Halaba City vs Hadiya Hossana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 20:00 WIB] [Premier League] Halaba City vs Hadiya Hossana
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=386e3c2578fcdc5e99ee26a9a70f72fd&wsABSTime=1793348569
