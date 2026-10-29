@@ -2753,11 +2753,14 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="965mkyh87gjnr1g" tvg-name="Malaysia U15 vs Trung Quốc U15" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhvlkmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 13:15 WIB] [FIFA World Cup] Malaysia U15 vs Trung Quốc U15
+https://live1.quickscoreboardz.com/live/channel27.m3u8?wsSecret=3f9634b14207629ed0937ec8d8863951&wsABSTime=1793297206
+
 #EXTINF:-1 tvg-id="23xmvkh6egkjqg8" tvg-name="Adelaide United vs Lion City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 14:45 WIB] [Kompetisi Resmi AFC] Adelaide United vs Lion City
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghl6dz3moe" tvg-name="Rans Nusantara FC vs Kendal Tornado FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 15:30 WIB] [Liga 2 Indonesia] Rans Nusantara FC vs Kendal Tornado FC
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=30b1fbaae4eee1a7e2fc306a52e43c87&wsABSTime=1793294566
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=7fb36c779c49504ac3120217e7fb1a39&wsABSTime=1793297207
 
 #EXTINF:-1 tvg-id="n54qllhnlkjyqvy" tvg-name="Gangwon FC vs Kuching City FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 17:00 WIB] [Kompetisi Resmi AFC] Gangwon FC vs Kuching City FC
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
@@ -2766,7 +2769,7 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="4wyrn4h6g1nvq86" tvg-name="Persiba Balikpapan vs PSBS Biak" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:00 WIB] [Liga 2 Indonesia] Persiba Balikpapan vs PSBS Biak
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=517779f7a6f59c3a6215178580947333&wsABSTime=1793294568
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=98578d22d9eca65197be460b7c1b6ee5&wsABSTime=1793297208
 
 #EXTINF:-1 tvg-id="4wyrn4h6j794q86" tvg-name="Phnom Penh Crown vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[29/10 19:15 WIB] [Kompetisi Resmi AFC] Phnom Penh Crown vs Kitchee
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
@@ -2779,6 +2782,3 @@ https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh9p6ddm7v" tvg-name="Frosinone vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 00:30 WIB] [Serie A Italia] Frosinone vs Lecce
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="dj2ryohl3k6gq1z" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 02:45 WIB] [Serie A Italia] Fiorentina vs Atalanta
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=d7e664f7275256281c2581fec03781fb&wsABSTime=1793294570
