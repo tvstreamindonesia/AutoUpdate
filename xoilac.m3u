@@ -2750,26 +2750,30 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="y39mp1h62g5omoj" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 1 Indonesia] Java United F.C. vs Bhayangkara Presisi
+#EXTINF:-1 tvg-id="y39mp1h62g5omoj" tvg-name="Java United F.C. vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Java United F.C. vs Bhayangkara Presisi (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8gheyokwr6o" tvg-name="Persiku Kudus vs Persiraja Banda Aceh" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Persiku Kudus vs Persiraja Banda Aceh
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=df97f7c2a911ed3ca83506c819f5e683&wsABSTime=1793392169
+#EXTINF:-1 tvg-id="vjxm8gheyokwr6o" tvg-name="Persiku Kudus vs Persiraja Banda Aceh" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persiku Kudus vs Persiraja Banda Aceh (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph4gj6pr8k" tvg-name="Barito Putera vs Persis Solo FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 15:30 WIB] [Liga 2 Indonesia] Barito Putera vs Persis Solo FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=5cdf59f5bc617263e10b8262699e2a81&wsABSTime=1793392169
+#EXTINF:-1 tvg-id="l5ergph4gj6pr8k" tvg-name="Barito Putera vs Persis Solo FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Barito Putera vs Persis Solo FC (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
 
 #EXTINF:-1 tvg-id="k82rekhg7p9jrep" tvg-name="Persebaya vs Persijap Jepara" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] [Liga 1 Indonesia] Persebaya vs Persijap Jepara
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phj4dx3m2w" tvg-name="Semen Padang vs Sumsel United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 19:00 WIB] [Liga 2 Indonesia] Semen Padang vs Sumsel United
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=d86050674ce2b1b37434e87b73cdddfe&wsABSTime=1793392171
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=086ac7d3432295c5ed5e1b667cf342ad&wsABSTime=1793395171
 
 #EXTINF:-1 tvg-id="pxwrxlhlpo87ryk" tvg-name="Halaba City vs Hadiya Hossana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 20:00 WIB] [Premier League] Halaba City vs Hadiya Hossana
-https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=303675682d3c7c4b7e67c02068e9d967&wsABSTime=1793392172
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=5c011f78cebf8351fde608c76b827c34&wsABSTime=1793395172
 
 #EXTINF:-1 tvg-id="1l4rjnh9pxwlm7v" tvg-name="Le Havre FC vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 01:00 WIB] [Ligue 1] Le Havre FC vs PSG
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
