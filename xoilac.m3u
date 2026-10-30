@@ -2753,14 +2753,18 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="dj2ryohl0d36q1z" tvg-name="SV 07 Elversberg vs Mainz 05" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SV 07 Elversberg vs Mainz 05 (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghe6xp3r6o" tvg-name="Villarreal vs Espanyol" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Villarreal vs Espanyol (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
 #EXTINF:-1 tvg-id="4jwq2ghndx3zm0v" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",LOSC Lille vs RC Lens (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793397533-0-0-16db9194e9b82fa9a16a497abf081657
 
-#EXTINF:-1 tvg-id="23xmvkh61kg1qg8" tvg-name="Casa Pia AC vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Casa Pia AC vs Sporting CP (LIVE - Halftime)
+#EXTINF:-1 tvg-id="23xmvkh61kg1qg8" tvg-name="Casa Pia AC vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Casa Pia AC vs Sporting CP (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
+
+#EXTINF:-1 tvg-id="318q66hx5y0dqo9" tvg-name="Arema FC vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] [Liga 1 Indonesia] Arema FC vs Bali United
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghlwyezmoe" tvg-name="PSM Makassar vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] [Liga 1 Indonesia] PSM Makassar vs Madura United
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
