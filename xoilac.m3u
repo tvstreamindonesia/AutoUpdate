@@ -2750,15 +2750,11 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="pxwrxlhlpo87ryk" tvg-name="Halaba City vs Hadiya Hossana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Halaba City vs Hadiya Hossana (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
+
+#EXTINF:-1 tvg-id="pxwrxlhlpo87ryk" tvg-name="Halaba City vs Hadiya Hossana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[30/10 20:00 WIB] [Premier League] Halaba City vs Hadiya Hossana
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=435da584e28adf7d430dc0ef8cdad701&wsABSTime=1793417273
 
 #EXTINF:-1 tvg-id="k82rekhgdo7erep" tvg-name="OGC Nice vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 01:00 WIB] [Ligue 1] OGC Nice vs Rennes
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
