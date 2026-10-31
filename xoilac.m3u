@@ -2753,30 +2753,18 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="1l4rjnh9p05jm7v" tvg-name="Tottenham vs Crystal Palace" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Tottenham vs Crystal Palace (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="dj2ryohl02gwq1z" tvg-name="Real Betis vs Malaga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Real Betis vs Malaga (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="2y8m4zh594eoql0" tvg-name="Bayern Munich vs Dortmund" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Bayern Munich vs Dortmund (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793474028-0-0-5aa8890d474861b97584dcf219408903
-
-#EXTINF:-1 tvg-id="dj2ryohl3dgpq1z" tvg-name="PSV Eindhoven vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSV Eindhoven vs Willem II (LIVE - Babak 2)
+#EXTINF:-1 tvg-id="dj2ryohl3dgpq1z" tvg-name="PSV Eindhoven vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSV Eindhoven vs Willem II (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehgze0jr51" tvg-name="SC Heerenveen vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Heerenveen vs NEC Nijmegen (LIVE - Babak 2)
+#EXTINF:-1 tvg-id="l7oqdehgze0jr51" tvg-name="SC Heerenveen vs NEC Nijmegen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Heerenveen vs NEC Nijmegen (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="zp5rzghgejdoq82" tvg-name="Udinese vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 00:00 WIB] [Serie A Italia] Udinese vs AS Roma
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-id="x7lm7phjdky3m2w" tvg-name="AC Milan vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 02:45 WIB] [Serie A Italia] AC Milan vs Inter Milan
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=8407bf148f97f1c4af68abcd70411519&wsABSTime=1793517230
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=37185984190ef40144e81ce212f2dad8&wsABSTime=1793519214
 
 #EXTINF:-1 tvg-id="4wyrn4h614knq86" tvg-name="Troyes vs Le Mans" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 02:45 WIB] [Ligue 1] Troyes vs Le Mans
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -2785,7 +2773,7 @@ https://live2.jorvakstreamcache.com/live/channel19.m3u8
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhyovz1ryk" tvg-name="Barcelona vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 03:00 WIB] [La Liga] Barcelona vs Alavés
-https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=117939bb5c9590a5f45d65f6daddb92f&wsABSTime=1793517237
+https://live1.quickscoreboardz.com/live/channel2.m3u8?wsSecret=5473580dbd8310a9d7ebebd8f497f171&wsABSTime=1793519216
 
 #EXTINF:-1 tvg-id="2y8m4zh5d48eql0" tvg-name="AFC Ajax vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 03:00 WIB] [Eredivisie] AFC Ajax vs AZ Alkmaar
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
