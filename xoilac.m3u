@@ -2753,23 +2753,30 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="x7lm7phjdky3m2w" tvg-name="AC Milan vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Inter Milan (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793482098-0-0-47fcef25689de52e8f7a551a249b988a
-
-#EXTINF:-1 tvg-id="4wyrn4h614knq86" tvg-name="Troyes vs Le Mans" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Troyes vs Le Mans (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-id="dn1m1ghldzozmoe" tvg-name="Aston Villa vs Fulham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Aston Villa vs Fulham (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhyovz1ryk" tvg-name="Barcelona vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Barcelona vs Alavés (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793482111-0-0-cac0c6d5d3e820ce2ce346a575903e42
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793483993-0-0-71feeeb0a038c447785a60637262dbb1
 
 #EXTINF:-1 tvg-id="2y8m4zh5d48eql0" tvg-name="AFC Ajax vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AFC Ajax vs AZ Alkmaar (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-id="8yomo4h1j5vjq0j" tvg-name="SC Cambuur vs Go Ahead Eagles" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Cambuur vs Go Ahead Eagles (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghgvp2kq82" tvg-name="FC Porto vs Estoril" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Porto vs Estoril (LIVE - Halftime)
+#EXTINF:-1 tvg-id="zp5rzghgvp2kq82" tvg-name="FC Porto vs Estoril" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Porto vs Estoril (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
+
+#EXTINF:-1 tvg-id="dj2ryohlz6y8q1z" tvg-name="Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] [Liga 1 Indonesia] Persib Bandung vs Isenmulang Kalteng
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkoynorz8" tvg-name="PSIM Yogyakarta vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] [Liga 1 Indonesia] PSIM Yogyakarta vs Borneo FC Samarinda
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnvy4nqvy" tvg-name="PSIS Semarang vs Persikad Depok" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] [Liga 2 Indonesia] PSIS Semarang vs Persikad Depok
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=a9110a46d014cee6563b1f0f5a8288b2&wsABSTime=1793527206
+
+#EXTINF:-1 tvg-id="l5ergph4jo6or8k" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] [Serie A Italia] Como vs Venezia
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=ab3802aee9d1e1146489c37b20164213&wsABSTime=1793527202
