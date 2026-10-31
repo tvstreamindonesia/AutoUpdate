@@ -2753,5 +2753,14 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="318q66hx5y0dqo9" tvg-name="Arema FC vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] [Liga 1 Indonesia] Arema FC vs Bali United
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghlwyezmoe" tvg-name="PSM Makassar vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] [Liga 1 Indonesia] PSM Makassar vs Madura United
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph49x31r8k" tvg-name="Persik Kediri vs Persita" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] [Liga 1 Indonesia] Persik Kediri vs Persita
+https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] [Premier League] Chelsea vs Manchester United
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
