@@ -2750,22 +2750,6 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="318q66hx5y0dqo9" tvg-name="Arema FC vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Arema FC vs Bali United (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghlwyezmoe" tvg-name="PSM Makassar vs Madura United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSM Makassar vs Madura United (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph49x31r8k" tvg-name="Persik Kediri vs Persita" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persik Kediri vs Persita (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh87d9nqwz" tvg-name="PSGC Ciamis vs PSMS Medan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSGC Ciamis vs PSMS Medan (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
@@ -2773,7 +2757,7 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] [Premier League] Chelsea vs Manchester United
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793441856-0-0-3dcb73bfda6200a88c8aac207a04329c
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793444273-0-0-08a5b4b486a7127fbfd312ce73702414
 
 #EXTINF:-1 tvg-id="x7lm7phjep99m2w" tvg-name="Levante vs Atletico Madrid" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 20:00 WIB] [La Liga] Levante vs Atletico Madrid
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
@@ -2797,16 +2781,25 @@ https://live2.jorvakstreamcache.com/live/channel8.m3u8
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4j651r8k" tvg-name="AFC Bournemouth vs Leeds United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:00 WIB] [Premier League] AFC Bournemouth vs Leeds United
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=69624940e53172457fc469f8518befdc&wsABSTime=1793485059
-
-#EXTINF:-1 tvg-id="l7oqdehgzkevr51" tvg-name="Brentford vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:00 WIB] [Premier League] Brentford vs Nottingham Forest
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=52f63bcdf3b7453ad01f47339565b4f0&wsABSTime=1793485060
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=76f20fe1bcd49909b6e70d09c1c3d8d9&wsABSTime=1793487475
 
 #EXTINF:-1 tvg-id="3glrw7hne56yqdy" tvg-name="Manchester City vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:00 WIB] [Premier League] Manchester City vs Brighton
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793441862-0-0-c3cce3751dc033643ba94f7af6301afc
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793444276-0-0-a1d155f21842fa262181e8314e0c2baa
+
+#EXTINF:-1 tvg-id="l7oqdehgzkevr51" tvg-name="Brentford vs Nottingham Forest" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:00 WIB] [Premier League] Brentford vs Nottingham Forest
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=ddc6109cc5a5231baa6229e092b006dc&wsABSTime=1793487477
 
 #EXTINF:-1 tvg-id="4wyrn4h61n0pq86" tvg-name="Hull City vs Ipswich Town" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:00 WIB] [Premier League] Hull City vs Ipswich Town
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheo69pr6o" tvg-name="Coventry City vs Sunderland" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:00 WIB] [Premier League] Coventry City vs Sunderland
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hn5oz0qdy" tvg-name="Rayo Vallecano vs RC Celta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:15 WIB] [La Liga] Rayo Vallecano vs RC Celta
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whwyvd1ryo" tvg-name="Moreirense vs Estrela Amadora" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:30 WIB] [Primeira Liga Portugal] Moreirense vs Estrela Amadora
+https://live1.quickscoreboardz.com/live/channel87.m3u8?wsSecret=777b7e0e78366a0d2b069ec12555deb1&wsABSTime=1793487485
+
+#EXTINF:-1 tvg-id="jw2r09hkdpjkrz8" tvg-name="Feyenoord vs Fortuna Sittard" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 22:30 WIB] [Eredivisie] Feyenoord vs Fortuna Sittard
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
