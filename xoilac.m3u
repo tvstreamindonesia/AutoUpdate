@@ -2750,15 +2750,17 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="zp5rzghgvp2kq82" tvg-name="FC Porto vs Estoril" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Porto vs Estoril (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="dj2ryohlz6y8q1z" tvg-name="Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] [Liga 1 Indonesia] Persib Bandung vs Isenmulang Kalteng
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkoynorz8" tvg-name="PSIM Yogyakarta vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] [Liga 1 Indonesia] PSIM Yogyakarta vs Borneo FC Samarinda
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnvy4nqvy" tvg-name="PSIS Semarang vs Persikad Depok" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 15:30 WIB] [Liga 2 Indonesia] PSIS Semarang vs Persikad Depok
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=42e6c465057062ef761a47fccb4ce466&wsABSTime=1793530778
+
 #EXTINF:-1 tvg-id="l5ergph4jo6or8k" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] [Serie A Italia] Como vs Venezia
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=0c6090a9e2fcb6ceface5eb9e8b5791d&wsABSTime=1793528932
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=fd6c094ae6a007e8ef520f0c43f42b38&wsABSTime=1793530776
