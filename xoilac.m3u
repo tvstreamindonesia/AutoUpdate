@@ -2763,7 +2763,10 @@ https://live2.jorvakstreamcache.com/live/channel20.m3u8
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh87d9nqwz" tvg-name="PSGC Ciamis vs PSMS Medan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 15:30 WIB] [Liga 2 Indonesia] PSGC Ciamis vs PSMS Medan
-https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=096e53009555bd004d5081996a9ac6ee&wsABSTime=1793465321
+https://live1.quickscoreboardz.com/live/channel21.m3u8?wsSecret=3a1c23d51ab12f4a180343e38b4e68cd&wsABSTime=1793467630
+
+#EXTINF:-1 tvg-id="4wyrn4h6kpepq86" tvg-name="Dewa United FC vs Persija Jakarta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:00 WIB] [Liga 1 Indonesia] Dewa United FC vs Persija Jakarta
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5d9n0ql0" tvg-name="Chelsea vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[31/10 19:30 WIB] [Premier League] Chelsea vs Manchester United
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
