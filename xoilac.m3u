@@ -2754,41 +2754,35 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="vjxm8gheo28zr6o" tvg-name="Groningen vs Sparta Rotterdam" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Groningen vs Sparta Rotterdam (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793556856-0-0-69f4b89619946b2e514d6d9ef4a0a9c6
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793559251-0-0-6361d04e93408b9acd124fc4fc6aa18a
 
 #EXTINF:-1 tvg-id="965mkyhk9e6kr1g" tvg-name="Lyon vs Angers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lyon vs Angers (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793556864-0-0-68d0564a58fe5c43017507300ca141ac
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793559260-0-0-8243c00cb65f88edb057030800844762
 
 #EXTINF:-1 tvg-id="318q66hxd453qo9" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Paris FC vs AS Monaco (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl3058q1z" tvg-name="Liverpool vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Liverpool vs Arsenal (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793556827-0-0-3976ea7777add897ac569b934570f10a
-
-#EXTINF:-1 tvg-id="vjxm8ghe62o4r6o" tvg-name="Eintracht Frankfurt vs Hamburger SV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Eintracht Frankfurt vs Hamburger SV (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-id="318q66hxdo19qo9" tvg-name="Lecce vs Genoa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lecce vs Genoa (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhvo1l0md7" tvg-name="Elche CF vs Valencia CF" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Elche CF vs Valencia CF (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="6ypq3nhvo1l0md7" tvg-name="Elche CF vs Valencia CF" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Elche CF vs Valencia CF (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghnyx08m0v" tvg-name="Maritimo vs Santa Clara" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Maritimo vs Santa Clara (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghed820r6o" tvg-name="Viseu vs Rio Ave" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Viseu vs Rio Ave (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="4jwq2ghnyx08m0v" tvg-name="Maritimo vs Santa Clara" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 01:00 WIB] [Primeira Liga Portugal] Maritimo vs Santa Clara
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghed820r6o" tvg-name="Viseu vs Rio Ave" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 01:00 WIB] [Primeira Liga Portugal] Viseu vs Rio Ave
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="y39mp1h68y2dmoj" tvg-name="Marseille vs Toulouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] [Ligue 1] Marseille vs Toulouse FC
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehgznw4r51" tvg-name="Juventus vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] [Serie A Italia] Juventus vs Napoli
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h68y2dmoj" tvg-name="Marseille vs Toulouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 02:45 WIB] [Ligue 1] Marseille vs Toulouse FC
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkv1jzrz8" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 03:00 WIB] [La Liga] Athletic Bilbao vs Real Sociedad
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
