@@ -2754,10 +2754,10 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="dj2ryohlz6y8q1z" tvg-name="Persib Bandung vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Persib Bandung vs Isenmulang Kalteng (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793528769-0-0-e5f23750fc2e1be9233881782cac6b00
 
 #EXTINF:-1 tvg-id="jw2r09hkoynorz8" tvg-name="PSIM Yogyakarta vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSIM Yogyakarta vs Borneo FC Samarinda (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
+https://live2.jorvakstreamcache.com/live/channel4.flv
 
 #EXTINF:-1 tvg-id="n54qllhnvy4nqvy" tvg-name="PSIS Semarang vs Persikad Depok" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSIS Semarang vs Persikad Depok (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
@@ -2770,7 +2770,7 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4jo6or8k" tvg-name="Como vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 18:30 WIB] [Serie A Italia] Como vs Venezia
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=25b11e7d27625b605624f42c30dc1ef9&wsABSTime=1793569751
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=8b5ffab05b9e19ac7215a43f75ac6e67&wsABSTime=1793571958
 
 #EXTINF:-1 tvg-id="l7oqdehg5w6vr51" tvg-name="Garudayaksa FC vs PSS Sleman" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 19:00 WIB] [Liga 1 Indonesia] Garudayaksa FC vs PSS Sleman
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
@@ -2791,4 +2791,4 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohl3058q1z" tvg-name="Liverpool vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 23:30 WIB] [Premier League] Liverpool vs Arsenal
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793526553-0-0-ec77954cc87c6d3725b50d51d6316fd3
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793528760-0-0-8ca4de75d49f27de6f16ceec4c87d01a
