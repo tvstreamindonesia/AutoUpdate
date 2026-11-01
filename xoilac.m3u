@@ -2756,13 +2756,13 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="vjxm8ghe6xp8r6o" tvg-name="Getafe vs Sevilla" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Getafe vs Sevilla (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="3glrw7hnely8qdy" tvg-name="SC Telstar vs FC Utrecht" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Telstar vs FC Utrecht (LIVE - Halftime)
+#EXTINF:-1 tvg-id="3glrw7hnely8qdy" tvg-name="SC Telstar vs FC Utrecht" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SC Telstar vs FC Utrecht (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhyw2j8ryk" tvg-name="Excelsior SBV vs Twente FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Excelsior SBV vs Twente FC (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="pxwrxlhyw2j8ryk" tvg-name="Excelsior SBV vs Twente FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Excelsior SBV vs Twente FC (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6185zq86" tvg-name="Lazio vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lazio vs Cagliari (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="4wyrn4h6185zq86" tvg-name="Lazio vs Cagliari" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lazio vs Cagliari (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghld3wdmoe" tvg-name="Strasbourg vs AJ Auxerre" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Strasbourg vs AJ Auxerre (LIVE - Babak 1)
@@ -2794,7 +2794,7 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohl3058q1z" tvg-name="Liverpool vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 23:30 WIB] [Premier League] Liverpool vs Arsenal
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793542736-0-0-936a1996cd6636464a1759815c76ab9c
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793545189-0-0-f366716edb60039ec1c81ea69effa18a
 
 #EXTINF:-1 tvg-id="vjxm8ghe62o4r6o" tvg-name="Eintracht Frankfurt vs Hamburger SV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[01/11 23:30 WIB] [Bundesliga] Eintracht Frankfurt vs Hamburger SV
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
