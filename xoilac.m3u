@@ -2750,18 +2750,14 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="n54qllhng8k6qvy" tvg-name="Sporting Braga vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sporting Braga vs FC Famalicao (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="n54qllhng8k6qvy" tvg-name="Sporting Braga vs FC Famalicao" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 03:30 WIB] [Primeira Liga Portugal] Sporting Braga vs FC Famalicao
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
 #EXTINF:-1 tvg-id="n54qllh456gnqvy" tvg-name="Ethiopia Nigd Bank vs Ethiopian Insurance" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 19:00 WIB] [Premier League] Ethiopia Nigd Bank vs Ethiopian Insurance
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=57f4fc9863ca3c301ad6c30cfbdf28bb&wsABSTime=1793614409
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=0b6093819e96cd51fda1e00b61fd8d32&wsABSTime=1793616295
 
 #EXTINF:-1 tvg-id="y39mp1h6xkpvmoj" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] [AFC Champions League Elite] Pakhtakor vs Al Nassr
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793571209-0-0-22b9626c0dbd8299fb2b3bcb443ae12b
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793573096-0-0-0e6afc1daddebe22241fc1814ed1ecff
