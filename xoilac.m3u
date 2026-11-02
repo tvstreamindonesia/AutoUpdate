@@ -2753,7 +2753,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7h4wknwqdy" tvg-name="Molynes United vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Molynes United vs Mount Pleasant FA (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="3glrw7h4wknwqdy" tvg-name="Molynes United vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Molynes United vs Mount Pleasant FA (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
@@ -2761,7 +2761,7 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="vjxm8ghk4vegr6o" tvg-name="Waterhouse FC vs Cavalier FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 08:00 WIB] [Premier League] Waterhouse FC vs Cavalier FC
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=acc4595e244a1c62f4c4cefab20ce665&wsABSTime=1793701690
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=2c399e8c6e8591158374d9fc64fc5a98&wsABSTime=1793704052
 
 #EXTINF:-1 tvg-id="k82rekhg5861rep" tvg-name="Newcastle Jets vs Shanghai Port" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 14:45 WIB] [AFC Champions League Elite] Newcastle Jets vs Shanghai Port
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
@@ -2779,7 +2779,7 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4z5w8r8k" tvg-name="Công An Hà Nội vs Kyoto Sanga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Công An Hà Nội vs Kyoto Sanga
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=a8842900b00b0f38511dd71533a90b7f&wsABSTime=1793701695
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=2591d9b3d87847b6350a9e1b992e0542&wsABSTime=1793704054
 
 #EXTINF:-1 tvg-id="2y8m4zh52488ql0" tvg-name="East Bengal vs Al Seeb SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 20:45 WIB] [Kompetisi Resmi AFC] East Bengal vs Al Seeb SC
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
