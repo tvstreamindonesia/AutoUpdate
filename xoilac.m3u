@@ -2753,27 +2753,18 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="jw2r09hkep71rz8" tvg-name="Tractor S.C. vs Neftchi Fergana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Tractor S.C. vs Neftchi Fergana (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhnlk9lqvy" tvg-name="Al-Wasl SC vs Al Quwa Al Jawiya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Wasl SC vs Al Quwa Al Jawiya (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghgn21vq82" tvg-name="Al-Sadd Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Sadd Sports Club vs Al Ahli SC (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghld4j3moe" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sassuolo vs Fiorentina (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="dn1m1ghld4j3moe" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sassuolo vs Fiorentina (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghen23dr6o" tvg-name="Al Ittihad(KSA) vs Al-Ain FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Ittihad(KSA) vs Al-Ain FC (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whwjddjryo" tvg-name="Al-Gharafa Sports Club vs Al Qadsiah" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al-Gharafa Sports Club vs Al Qadsiah (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="vjxm8ghen23dr6o" tvg-name="Al Ittihad(KSA) vs Al-Ain FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] [AFC Champions League Elite] Al Ittihad(KSA) vs Al-Ain FC
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwjddjryo" tvg-name="Al-Gharafa Sports Club vs Al Qadsiah" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] [AFC Champions League Elite] Al-Gharafa Sports Club vs Al Qadsiah
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-id="ednm9whwlv37ryo" tvg-name="Lorient vs Brest" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] [Ligue 1] Lorient vs Brest
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
@@ -2781,14 +2772,20 @@ https://live2.jorvakstreamcache.com/live/channel11.m3u8
 #EXTINF:-1 tvg-id="zp5rzghgejeoq82" tvg-name="Atalanta vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] [Serie A Italia] Atalanta vs Parma
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
-#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] [La Liga] Dep. La Coruna vs Osasuna
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=36710c4261f769e72771b56310ed0a31&wsABSTime=1793684211
-
 #EXTINF:-1 tvg-id="n54qllhny619qvy" tvg-name="Newcastle United vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] [Premier League] Newcastle United vs Everton
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1oz0eq0j" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] [La Liga] Dep. La Coruna vs Osasuna
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=cd914ceab9d18d8139bba74fa318ffe7&wsABSTime=1793687432
 
 #EXTINF:-1 tvg-id="1l4rjnh9ox3wm7v" tvg-name="Gil Vicente vs Vitoria Guimaraes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] [Primeira Liga Portugal] Gil Vicente vs Vitoria Guimaraes
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8y30dqwz" tvg-name="Benfica vs Alverca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] [Primeira Liga Portugal] Benfica vs Alverca
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7h4wknwqdy" tvg-name="Molynes United vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 05:05 WIB] [Premier League] Molynes United vs Mount Pleasant FA
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=d6a7146f8fe6c8d3df01c72518aefa78&wsABSTime=1793687443
+
+#EXTINF:-1 tvg-id="vjxm8ghk4vegr6o" tvg-name="Waterhouse FC vs Cavalier FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 08:00 WIB] [Premier League] Waterhouse FC vs Cavalier FC
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=0547ce21606ad48b4049207695812e3f&wsABSTime=1793687444
