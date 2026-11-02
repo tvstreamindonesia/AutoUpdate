@@ -2750,30 +2750,26 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="8yomo4hy74kxq0j" tvg-name="Nữ Vancouver Rise vs Nữ Montreal Roses FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh8lxqg8n/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh8lxqg8n/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Nữ Vancouver Rise vs Nữ Montreal Roses FC (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="8yomo4hy74kxq0j" tvg-name="Nữ Vancouver Rise vs Nữ Montreal Roses FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh8lxqg8n/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh8lxqg8n/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 07:00 WIB] [Africa Cup of Nations] Nữ Vancouver Rise vs Nữ Montreal Roses FC
+https://live1.quickscoreboardz.com/live/channel35.m3u8?wsSecret=3fa0602c189d01b58805bdcb3ca00b62&wsABSTime=1793629882
+
 #EXTINF:-1 tvg-id="n54qllh456gnqvy" tvg-name="Ethiopia Nigd Bank vs Ethiopian Insurance" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 19:00 WIB] [Premier League] Ethiopia Nigd Bank vs Ethiopian Insurance
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=4685aa260fd00cfa1c52ac376ee814be&wsABSTime=1793627112
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=5af8339451e2de514c9195b594b542dc&wsABSTime=1793629882
 
 #EXTINF:-1 tvg-id="y39mp1h6xkpvmoj" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] [AFC Champions League Elite] Pakhtakor vs Al Nassr
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793583912-0-0-f44c466f3f67870b1ff7fe63ab742d50
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793586681-0-0-a5ff8f521b47784f6257752e4f989413
 
 #EXTINF:-1 tvg-id="jw2r09hkep71rz8" tvg-name="Tractor S.C. vs Neftchi Fergana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] [AFC Champions League Elite] Tractor S.C. vs Neftchi Fergana
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793583912-0-0-f44c466f3f67870b1ff7fe63ab742d50
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793586682-0-0-cadfec9d065ecc4eb3caeaa72735af81
 
 #EXTINF:-1 tvg-id="n54qllhnlk9lqvy" tvg-name="Al-Wasl SC vs Al Quwa Al Jawiya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] [AFC Champions League Elite] Al-Wasl SC vs Al Quwa Al Jawiya
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793583913-0-0-cd2b9f46550693d24ce548c458d2e036
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793586682-0-0-cadfec9d065ecc4eb3caeaa72735af81
 
 #EXTINF:-1 tvg-id="zp5rzghgn21vq82" tvg-name="Al-Sadd Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] [AFC Champions League Elite] Al-Sadd Sports Club vs Al Ahli SC
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793583913-0-0-cd2b9f46550693d24ce548c458d2e036
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793586682-0-0-cadfec9d065ecc4eb3caeaa72735af81
 
 #EXTINF:-1 tvg-id="dn1m1ghld4j3moe" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 00:30 WIB] [Serie A Italia] Sassuolo vs Fiorentina
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793583913-0-0-cd2b9f46550693d24ce548c458d2e036
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793586682-0-0-cadfec9d065ecc4eb3caeaa72735af81
