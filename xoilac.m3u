@@ -2753,18 +2753,15 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="n54qllh456gnqvy" tvg-name="Ethiopia Nigd Bank vs Ethiopian Insurance" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ethiopia Nigd Bank vs Ethiopian Insurance (LIVE - Babak 2)
+#EXTINF:-1 tvg-id="l5ergph491n3r8k" tvg-name="Mashujaa FC vs Pamba Jiji" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghz7kq82w/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghz7kq82w/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mashujaa FC vs Pamba Jiji (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph491n3r8k" tvg-name="Mashujaa FC vs Pamba Jiji" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghz7kq82w/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghz7kq82w/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mashujaa FC vs Pamba Jiji (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Pakhtakor vs Al Nassr (LIVE - Halftime)
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="y39mp1h6xkpvmoj" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] [AFC Champions League Elite] Pakhtakor vs Al Nassr
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkep71rz8" tvg-name="Tractor S.C. vs Neftchi Fergana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 23:00 WIB] [AFC Champions League Elite] Tractor S.C. vs Neftchi Fergana
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -2794,7 +2791,7 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1oz0eq0j" tvg-name="Dep. La Coruna vs Osasuna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] [La Liga] Dep. La Coruna vs Osasuna
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=a4a8c7b0023a20306ae121ae06f90f44&wsABSTime=1793670538
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=1f9533ba7887e89e19dab8bfaabbdb50&wsABSTime=1793674095
 
 #EXTINF:-1 tvg-id="1l4rjnh9ox3wm7v" tvg-name="Gil Vicente vs Vitoria Guimaraes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:15 WIB] [Primeira Liga Portugal] Gil Vicente vs Vitoria Guimaraes
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
