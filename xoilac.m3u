@@ -2754,7 +2754,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="n54qllh456gnqvy" tvg-name="Ethiopia Nigd Bank vs Ethiopian Insurance" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 19:00 WIB] [Premier League] Ethiopia Nigd Bank vs Ethiopian Insurance
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=5ac5ffecf384832613a718e98e51f2f8&wsABSTime=1793637465
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=0f712b0f32b3b1de86e6ca7e6c2c0eb2&wsABSTime=1793641070
 
 #EXTINF:-1 tvg-id="y39mp1h6xkpvmoj" tvg-name="Pakhtakor vs Al Nassr" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[02/11 20:45 WIB] [AFC Champions League Elite] Pakhtakor vs Al Nassr
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2776,12 +2776,3 @@ https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="ednm9whwjddjryo" tvg-name="Al-Gharafa Sports Club vs Al Qadsiah" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 01:15 WIB] [AFC Champions League Elite] Al-Gharafa Sports Club vs Al Qadsiah
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwlv37ryo" tvg-name="Lorient vs Brest" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] [Ligue 1] Lorient vs Brest
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghgejeoq82" tvg-name="Atalanta vs Parma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 02:45 WIB] [Serie A Italia] Atalanta vs Parma
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhny619qvy" tvg-name="Newcastle United vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 03:00 WIB] [Premier League] Newcastle United vs Everton
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
