@@ -2753,18 +2753,12 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="l5ergph4z5w8r8k" tvg-name="Công An Hà Nội vs Kyoto Sanga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Công An Hà Nội vs Kyoto Sanga (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793712833-0-0-4fcb99dd885978dfcdbe46ebd2f313b6
-
-#EXTINF:-1 tvg-id="318q66hx97g7qo9" tvg-name="Port FC vs Beijing Guoan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Port FC vs Beijing Guoan (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
+#EXTINF:-1 tvg-id="2y8m4zh52488ql0" tvg-name="East Bengal vs Al Seeb SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",East Bengal vs Al Seeb SC (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="2y8m4zh52488ql0" tvg-name="East Bengal vs Al Seeb SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 20:45 WIB] [Kompetisi Resmi AFC] East Bengal vs Al Seeb SC
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phxg1n8m2w" tvg-name="Al Zawraa SC vs Al-Riffa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 21:30 WIB] [UEFA Champions League] Al Zawraa SC vs Al-Riffa
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
@@ -2782,25 +2776,25 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1wlyeq0j" tvg-name="Shakhtar Donetsk vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 00:45 WIB] [UEFA Champions League] Shakhtar Donetsk vs Sporting CP
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=af2c770a81bcab95380719b35640ba50&wsABSTime=1793756041
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=92b59898c1918cec0b9f1b3f56fbc4e6&wsABSTime=1793759555
 
 #EXTINF:-1 tvg-id="4wyrn4hyzk7jq86" tvg-name="Neom SC vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 01:00 WIB] [UEFA Champions League] Neom SC vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel1.m3u8?wsSecret=9bed32f57f752e3b5c5dae811d07f1b5&wsABSTime=1793756042
+https://live1.quickscoreboardz.com/live/channel1.m3u8?wsSecret=f077ea8887cfb09258a206151b4e2033&wsABSTime=1793759562
 
 #EXTINF:-1 tvg-id="8yomo4h1w5x8q0j" tvg-name="Al Hilal vs Shabab Al Ahli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 01:15 WIB] [AFC Champions League Elite] Al Hilal vs Shabab Al Ahli
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnxw63qdy" tvg-name="Tottenham U21 vs Nordsjaelland U21" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 02:00 WIB] [Premier League] Tottenham U21 vs Nordsjaelland U21
-https://live1.quickscoreboardz.com/live/channel32.m3u8?wsSecret=c16a13beb465b85c572e3e1c06b810dd&wsABSTime=1793756043
+https://live1.quickscoreboardz.com/live/channel32.m3u8?wsSecret=7254c8d47eabc556b67f32b7b091a10a&wsABSTime=1793759563
 
-#EXTINF:-1 tvg-id="4jwq2ghn8y91m0v" tvg-name="FK Bodo Glimt vs LOSC Lille" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] FK Bodo Glimt vs LOSC Lille
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=bb3d0883961280975c445fca6fcfb07f&wsABSTime=1793756044
+#EXTINF:-1 tvg-id="dj2ryohlw643q1z" tvg-name="Barcelona vs Aston Villa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] Barcelona vs Aston Villa
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=ca4256ab559768147dbb690464c074a4&wsABSTime=1793759556
 
 #EXTINF:-1 tvg-id="965mkyhkjdykr1g" tvg-name="Manchester United vs AS Roma" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] Manchester United vs AS Roma
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohlw643q1z" tvg-name="Barcelona vs Aston Villa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] Barcelona vs Aston Villa
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=4a2690f45dea41956f9d487f140be40e&wsABSTime=1793756046
+#EXTINF:-1 tvg-id="4jwq2ghn8y91m0v" tvg-name="FK Bodo Glimt vs LOSC Lille" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] FK Bodo Glimt vs LOSC Lille
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=138cb823afde3bc86e66cf0bbb057211&wsABSTime=1793759563
 
 #EXTINF:-1 tvg-id="dn1m1ghl5y72moe" tvg-name="Atletico Madrid vs Bayern Munich" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] Atletico Madrid vs Bayern Munich
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
@@ -2809,13 +2803,13 @@ https://live2.jorvakstreamcache.com/live/channel5.m3u8
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhy6802ryk" tvg-name="Villarreal vs PSG" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] Villarreal vs PSG
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=6f8b4b2beceab21e1693971055a77159&wsABSTime=1793756049
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=0c1b41c95269708137789de049d2954c&wsABSTime=1793759565
 
 #EXTINF:-1 tvg-id="vjxm8ghend58r6o" tvg-name="Feyenoord vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 03:00 WIB] [UEFA Champions League] Feyenoord vs Inter Milan
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phxkwzlm2w" tvg-name="Guangdong Chenxingjuli vs Jiangsu Changjin" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 14:30 WIB] [UEFA Champions League] Guangdong Chenxingjuli vs Jiangsu Changjin
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=76fe3fdae7983d7b3a9124c2f8dbc716&wsABSTime=1793756051
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=0f2c5fb179977f97a490e1cb592cd241&wsABSTime=1793759566
 
 #EXTINF:-1 tvg-id="x7lm7phjl5w7m2w" tvg-name="Melbourne Victory vs Persib Bandung" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 14:45 WIB] [Kompetisi Resmi AFC] Melbourne Victory vs Persib Bandung
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
