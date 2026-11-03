@@ -2753,44 +2753,23 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="k82rekhg5861rep" tvg-name="Newcastle Jets vs Shanghai Port" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 14:45 WIB] [AFC Champions League Elite] Newcastle Jets vs Shanghai Port
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
+#EXTINF:-1 tvg-id="k82rekhg5861rep" tvg-name="Newcastle Jets vs Shanghai Port" tvg-logo="https://sta.vnres.co/file/common/20261031/d7994e4ccdec445114e9880580755a22.png" logo="https://sta.vnres.co/file/common/20261031/d7994e4ccdec445114e9880580755a22.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 14:45 WIB] [AFC Champions League Elite] Newcastle Jets vs Shanghai Port
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="8yomo4h1w5g8q0j" tvg-name="Vissel Kobe vs Ratchaburi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Vissel Kobe vs Ratchaburi
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
+#EXTINF:-1 tvg-id="8yomo4h1w5g8q0j" tvg-name="Vissel Kobe vs Ratchaburi FC" tvg-logo="https://sta.vnres.co/file/common/20261031/10cc998dc0b32a4cb5c078c0b40f9051.png" logo="https://sta.vnres.co/file/common/20261031/10cc998dc0b32a4cb5c078c0b40f9051.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Vissel Kobe vs Ratchaburi FC
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehgve8or51" tvg-name="Kashiwa Reysol vs Daejeon Hana Citizen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Kashiwa Reysol vs Daejeon Hana Citizen
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgve8or51" tvg-name="Kashiwa Reysol vs Daejeon Hana Citizen" tvg-logo="https://sta.vnres.co/file/common/20261031/a145fc749e2b77daa94ca5e0ef8701f3.png" logo="https://sta.vnres.co/file/common/20261031/a145fc749e2b77daa94ca5e0ef8701f3.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Kashiwa Reysol vs Daejeon Hana Citizen
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6xk01moj" tvg-name="Jeonbuk Hyundai vs Johor Darul Takzim" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Jeonbuk Hyundai vs Johor Darul Takzim
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTINF:-1 tvg-id="y39mp1h6xk01moj" tvg-name="Jeonbuk Hyundai Motors vs Johor Darul Ta'zim FC" tvg-logo="https://sta.vnres.co/file/common/20261031/44a691e78817469e7be2ea23646e041d.png" logo="https://sta.vnres.co/file/common/20261031/44a691e78817469e7be2ea23646e041d.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Jeonbuk Hyundai Motors vs Johor Darul Ta'zim FC
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx97g7qo9" tvg-name="Port FC vs Beijing Guoan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Port FC vs Beijing Guoan
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
+#EXTINF:-1 tvg-id="318q66hx97g7qo9" tvg-name="Port FC vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/common/20261031/cbd3884249a8599a54503fd4170e973b.png" logo="https://sta.vnres.co/file/common/20261031/cbd3884249a8599a54503fd4170e973b.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Port FC vs Beijing Guoan
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph4z5w8r8k" tvg-name="Công An Hà Nội vs Kyoto Sanga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Công An Hà Nội vs Kyoto Sanga
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=28a77bfad956533e6cb8a5b56e792eab&wsABSTime=1793718891
+#EXTINF:-1 tvg-id="l5ergph4z5w8r8k" tvg-name="Cong An Ha Noi FC vs Kyoto Sanga" tvg-logo="https://sta.vnres.co/file/common/20261031/98767ecc41063cbfdef4794187dd7004.png" logo="https://sta.vnres.co/file/common/20261031/98767ecc41063cbfdef4794187dd7004.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Cong An Ha Noi FC vs Kyoto Sanga
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="2y8m4zh52488ql0" tvg-name="East Bengal vs Al Seeb SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 20:45 WIB] [Kompetisi Resmi AFC] East Bengal vs Al Seeb SC
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phxg1n8m2w" tvg-name="Al Zawraa SC vs Al-Riffa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 21:30 WIB] [UEFA Champions League] Al Zawraa SC vs Al-Riffa
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1gh9vwowmoe" tvg-name="Al-Shabab SC (Seeb) vs Shab Hadramawt" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 21:45 WIB] [UEFA Champions League] Al-Shabab SC (Seeb) vs Shab Hadramawt
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl5oknmoe" tvg-name="Esteghlal Tehran vs Al-Shamal Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 23:00 WIB] [AFC Champions League Elite] Esteghlal Tehran vs Al-Shamal Sports Club
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwjdzlryo" tvg-name="Al Hussein SC vs Al Shorta" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 23:00 WIB] [Kompetisi Resmi AFC] Al Hussein SC vs Al Shorta
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn8yzzm0v" tvg-name="Galatasaray vs VfB Stuttgart" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 00:45 WIB] [UEFA Champions League] Galatasaray vs VfB Stuttgart
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1wlyeq0j" tvg-name="Shakhtar Donetsk vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 00:45 WIB] [UEFA Champions League] Shakhtar Donetsk vs Sporting CP
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=13ce697c37300704e1b67e2a8a4d0f8f&wsABSTime=1793718894
-
-#EXTINF:-1 tvg-id="4wyrn4hyzk7jq86" tvg-name="Neom SC vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 01:00 WIB] [UEFA Champions League] Neom SC vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel1.m3u8?wsSecret=2a5c13b72a1ddbabbb4eb8cf41ffb147&wsABSTime=1793718895
+#EXTINF:-1 tvg-id="2y8m4zh52488ql0" tvg-name="East Bengal FC vs Al Seeb SC" tvg-logo="https://sta.vnres.co/file/common/20261031/f6fff834d4aefeaf6cf753e5894a799b.png" logo="https://sta.vnres.co/file/common/20261031/f6fff834d4aefeaf6cf753e5894a799b.png" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 20:45 WIB] [AFC Champions League Two] East Bengal FC vs Al Seeb SC
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
