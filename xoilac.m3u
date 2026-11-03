@@ -2750,11 +2750,15 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="k82rekhg5861rep" tvg-name="Newcastle Jets vs Shanghai Port" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 14:45 WIB] [AFC Champions League Elite] Newcastle Jets vs Shanghai Port
+#EXTINF:-1 tvg-id="k82rekhg5861rep" tvg-name="Newcastle Jets vs Shanghai Port" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Newcastle Jets vs Shanghai Port (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel5.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
 
 #EXTINF:-1 tvg-id="8yomo4h1w5g8q0j" tvg-name="Vissel Kobe vs Ratchaburi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 17:00 WIB] [AFC Champions League Elite] Vissel Kobe vs Ratchaburi
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
@@ -2766,7 +2770,7 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4z5w8r8k" tvg-name="Công An Hà Nội vs Kyoto Sanga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Công An Hà Nội vs Kyoto Sanga
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=ac0d8003bfc12be6571c6ff6753e8bfa&wsABSTime=1793731130
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=b01a57f2e53ad44d5488911f6d640e9e&wsABSTime=1793735556
 
 #EXTINF:-1 tvg-id="318q66hx97g7qo9" tvg-name="Port FC vs Beijing Guoan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[03/11 19:15 WIB] [AFC Champions League Elite] Port FC vs Beijing Guoan
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
@@ -2790,13 +2794,13 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="8yomo4h1wlyeq0j" tvg-name="Shakhtar Donetsk vs Sporting CP" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 00:45 WIB] [UEFA Champions League] Shakhtar Donetsk vs Sporting CP
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=6a265e24a57cc2760d21646ac7b9b2f8&wsABSTime=1793731134
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=ee4a7cd442537dfc769ae5e69b1fcdc7&wsABSTime=1793735559
 
 #EXTINF:-1 tvg-id="4wyrn4hyzk7jq86" tvg-name="Neom SC vs Al Duhail Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 01:00 WIB] [UEFA Champions League] Neom SC vs Al Duhail Sports Club
-https://live1.quickscoreboardz.com/live/channel1.m3u8?wsSecret=db5a93dc22127c3421c8a2dd77491131&wsABSTime=1793731134
+https://live1.quickscoreboardz.com/live/channel1.m3u8?wsSecret=522b04ae0bdb185f4656f3291f956136&wsABSTime=1793735560
 
 #EXTINF:-1 tvg-id="8yomo4h1w5x8q0j" tvg-name="Al Hilal vs Shabab Al Ahli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 01:15 WIB] [AFC Champions League Elite] Al Hilal vs Shabab Al Ahli
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnxw63qdy" tvg-name="Tottenham U21 vs Nordsjaelland U21" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[04/11 02:00 WIB] [Premier League] Tottenham U21 vs Nordsjaelland U21
-https://live1.quickscoreboardz.com/live/channel32.m3u8?wsSecret=9521ee324dd4db051e8455d8a838af44&wsABSTime=1793731134
+https://live1.quickscoreboardz.com/live/channel32.m3u8?wsSecret=d82a4fb8e58f657c25718f361fad8e29&wsABSTime=1793735560
