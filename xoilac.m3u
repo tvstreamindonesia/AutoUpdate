@@ -2753,25 +2753,25 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hnx24jqdy" tvg-name="SK Slavia Praha vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SK Slavia Praha vs Arsenal (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793825825-0-0-0858c53714f273f850116a7405256251
-
-#EXTINF:-1 tvg-id="3glrw7hnx2pxqdy" tvg-name="FC Porto vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Porto vs Napoli (LIVE - Halftime)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="dj2ryohlw6x3q1z" tvg-name="Dortmund vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Dortmund vs Real Betis (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="dj2ryohlw6x3q1z" tvg-name="Dortmund vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Dortmund vs Real Betis (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghende8r6o" tvg-name="RB Leipzig vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RB Leipzig vs Manchester City (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793825848-0-0-4d712473bcd0117701fdf47db7d9ac8e
+#EXTINF:-1 tvg-id="vjxm8ghende8r6o" tvg-name="RB Leipzig vs Manchester City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RB Leipzig vs Manchester City (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793828468-0-0-b0b15497c9190e3b9e255c4580a0b930
 
-#EXTINF:-1 tvg-id="2y8m4zh52ywlql0" tvg-name="RC Lens vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Como (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793825859-0-0-cea1bfa696a400062483b3940db79058
+#EXTINF:-1 tvg-id="3glrw7hnx2pxqdy" tvg-name="FC Porto vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Porto vs Napoli (LIVE - Babak 2)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhv2yp1md7" tvg-name="Viking vs Sabah FK" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Viking vs Sabah FK (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793825864-0-0-42a787bc7c2f2129b38782323827ad6f
+#EXTINF:-1 tvg-id="3glrw7hnx24jqdy" tvg-name="SK Slavia Praha vs Arsenal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SK Slavia Praha vs Arsenal (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793828484-0-0-526cca32d57af85bede8d730055e3c6a
 
-#EXTINF:-1 tvg-id="6ypq3nhv2yv0md7" tvg-name="PSV Eindhoven vs Club Brugge" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSV Eindhoven vs Club Brugge (LIVE - Halftime)
+#EXTINF:-1 tvg-id="2y8m4zh52ywlql0" tvg-name="RC Lens vs Como" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",RC Lens vs Como (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793828494-0-0-9ff2b2c8ae6f09dbf8daa5d8c3b5eeae
+
+#EXTINF:-1 tvg-id="6ypq3nhv2yp1md7" tvg-name="Viking vs Sabah FK" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Viking vs Sabah FK (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793828498-0-0-49cae04f07ce0e61486d7b329791b9c7
+
+#EXTINF:-1 tvg-id="6ypq3nhv2yv0md7" tvg-name="PSV Eindhoven vs Club Brugge" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSV Eindhoven vs Club Brugge (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
@@ -2797,10 +2797,10 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8vwzdqwz" tvg-name="Botswana Police XI SC vs Township Rollers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h437q86p/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h437q86p/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:00 WIB] [Premier League] Botswana Police XI SC vs Township Rollers
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=ca4febb8284744dc6d7964cc895267db&wsABSTime=1793869078
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=78ddabfcfb3e3848bfa7907ce87b8729&wsABSTime=1793871710
 
 #EXTINF:-1 tvg-id="zp5rzghgne1dq82" tvg-name="Vipers SC vs Lugazi Municipal FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgy0r6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgy0r6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:00 WIB] [Premier League] Vipers SC vs Lugazi Municipal FC
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=c33ea0d6f4b3687715fd9a900e995cff&wsABSTime=1793869079
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=2ef9b18b69a4bc6c1711a04c562de062&wsABSTime=1793871711
 
 #EXTINF:-1 tvg-id="318q66hx9lnkqo9" tvg-name="AC Sparta Praha vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] AC Sparta Praha vs AFC Bournemouth
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2822,3 +2822,6 @@ https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8gheny49r6o" tvg-name="AC Milan vs Ferencvarosi TC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] AC Milan vs Ferencvarosi TC
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="y39mp1h6x717moj" tvg-name="NEC Nijmegen vs Omonia FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] NEC Nijmegen vs Omonia FC
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
