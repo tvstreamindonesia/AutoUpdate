@@ -2750,36 +2750,29 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="1l4rjnh983k7m7v" tvg-name="Kuching City FC vs Gangwon FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kuching City FC vs Gangwon FC (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnxlznqdy" tvg-name="Svay Rieng FC vs Tampines Rovers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Svay Rieng FC vs Tampines Rovers (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwjdvjryo" tvg-name="BG Pathum United vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",BG Pathum United vs Tai Po (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
 #EXTINF:-1 tvg-id="y0or5jh8vwzdqwz" tvg-name="Botswana Police XI SC vs Township Rollers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h437q86p/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h437q86p/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:00 WIB] [Premier League] Botswana Police XI SC vs Township Rollers
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=047941ed0edfc074d14d19b38e368e50&wsABSTime=1793930078
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=a893365eeb1b1835d444d522c743c9af&wsABSTime=1793933162
 
 #EXTINF:-1 tvg-id="zp5rzghgne1dq82" tvg-name="Vipers SC vs Lugazi Municipal FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgy0r6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgy0r6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:00 WIB] [Premier League] Vipers SC vs Lugazi Municipal FC
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=059b2a941a881ad9fc520305b69f1ac2&wsABSTime=1793930079
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=9b762b6b26d2a32b3dcdc641d72129ed&wsABSTime=1793933163
 
 #EXTINF:-1 tvg-id="318q66hx9lnkqo9" tvg-name="AC Sparta Praha vs AFC Bournemouth" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] AC Sparta Praha vs AFC Bournemouth
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhkjpejr1g" tvg-name="Levski Sofia vs Jagiellonia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Levski Sofia vs Jagiellonia
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheny49r6o" tvg-name="AC Milan vs Ferencvarosi TC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] AC Milan vs Ferencvarosi TC
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhy6d9vryk" tvg-name="Crystal Palace vs TSG Hoffenheim" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Crystal Palace vs TSG Hoffenheim
+https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="dj2ryohlw8ddq1z" tvg-name="Real Sociedad vs Lyon" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Real Sociedad vs Lyon
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhkjpejr1g" tvg-name="Levski Sofia vs Jagiellonia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Levski Sofia vs Jagiellonia
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghl568emoe" tvg-name="Lillestrom vs Viktoria Plzen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Lillestrom vs Viktoria Plzen
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
@@ -2787,20 +2780,14 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 #EXTINF:-1 tvg-id="n54qllhnlv2pqvy" tvg-name="Anderlecht vs Red Bull Salzburg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Anderlecht vs Red Bull Salzburg
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhy6d9vryk" tvg-name="Crystal Palace vs TSG Hoffenheim" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] Crystal Palace vs TSG Hoffenheim
-https://live2.jorvakstreamcache.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8gheny49r6o" tvg-name="AC Milan vs Ferencvarosi TC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] AC Milan vs Ferencvarosi TC
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-id="y39mp1h6x717moj" tvg-name="NEC Nijmegen vs Omonia FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 00:45 WIB] [UEFA Europa League] NEC Nijmegen vs Omonia FC
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="23xmvkh6e7dzqg8" tvg-name="Hapoel Beer Sheva vs OFI Crete FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 03:00 WIB] [UEFA Europa League] Hapoel Beer Sheva vs OFI Crete FC
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=15c489892b245f3c04d6b64a39f74581&wsABSTime=1793930088
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=1dde0d7a2458746b9207afd16313945a&wsABSTime=1793933168
 
 #EXTINF:-1 tvg-id="4wyrn4h6jg00q86" tvg-name="Sturm Graz vs NK Publikum Celje" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 03:00 WIB] [UEFA Europa League] Sturm Graz vs NK Publikum Celje
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=d643bd1b22242647731f33b233b11c37&wsABSTime=1793930089
+https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=8bc3c164b326538e23db0afed9b7cc1f&wsABSTime=1793933169
 
 #EXTINF:-1 tvg-id="6ypq3nhv2x5lmd7" tvg-name="Benfica vs Lech Poznan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 03:00 WIB] [UEFA Europa League] Benfica vs Lech Poznan
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
@@ -2818,10 +2805,10 @@ https://live2.jorvakstreamcache.com/live/channel5.m3u8
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhnlv9oqvy" tvg-name="SCU Torreense vs Ararat Armenia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 03:00 WIB] [UEFA Europa League] SCU Torreense vs Ararat Armenia
-https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=97c9504c842cef4165a5f0df310c2e32&wsABSTime=1793930095
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=0fb96f66b9dae3ad3fea4b34b99b4bc6&wsABSTime=1793933175
 
 #EXTINF:-1 tvg-id="vjxm8gheny96r6o" tvg-name="Sunderland vs Dinamo Zagreb" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 03:00 WIB] [UEFA Europa League] Sunderland vs Dinamo Zagreb
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1gh9vz2lmoe" tvg-name="Arnett Gardens vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 07:00 WIB] [Premier League] Arnett Gardens vs Mount Pleasant FA
-https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=dd30810c8f879f97783be91f5990ecc6&wsABSTime=1793930097
+https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=4540d446791d9fb93b71953726aeb7e8&wsABSTime=1793933177
