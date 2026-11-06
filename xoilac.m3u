@@ -2750,11 +2750,15 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="2y8m4zh5kyg0ql0" tvg-name="PSIM Yogyakarta vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 15:30 WIB] [Liga 1 Indonesia] PSIM Yogyakarta vs Dewa United FC
+#EXTINF:-1 tvg-id="2y8m4zh5kyg0ql0" tvg-name="PSIM Yogyakarta vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",PSIM Yogyakarta vs Dewa United FC (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
 
 #EXTINF:-1 tvg-id="8yomo4h1dl27q0j" tvg-name="Madura United vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 19:00 WIB] [Liga 1 Indonesia] Madura United vs Arema FC
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
