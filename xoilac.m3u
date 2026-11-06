@@ -2750,13 +2750,6 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="8yomo4h1dl27q0j" tvg-name="Madura United vs Arema FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Madura United vs Arema FC (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
@@ -2767,7 +2760,7 @@ https://live2.jorvakstreamcache.com/live/channel9.m3u8
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-id="965mkyhk97wdr1g" tvg-name="Venezia vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] [Serie A Italia] Venezia vs Udinese
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=8d01fe4919e9a00be876095059e4990b&wsABSTime=1794012390
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=43d06b9f24e060137130318046226569&wsABSTime=1794016744
 
 #EXTINF:-1 tvg-id="pxwrxlhywj61ryk" tvg-name="Toulouse FC vs Strasbourg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] [Ligue 1] Toulouse FC vs Strasbourg
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
@@ -2776,7 +2769,7 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhyov72ryk" tvg-name="Sevilla vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 03:00 WIB] [La Liga] Sevilla vs Alavés
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=81eef4d561794ab21b798f9af3db3fa0&wsABSTime=1794012394
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=37798ec4f65e4ba92aa7a1150de4aaaf&wsABSTime=1794016748
 
 #EXTINF:-1 tvg-id="318q66hxy4nvqo9" tvg-name="FC Famalicao vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 03:45 WIB] [Primeira Liga Portugal] FC Famalicao vs FC Arouca
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
