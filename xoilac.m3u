@@ -2753,22 +2753,13 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="y39mp1h6nkn0moj" tvg-name="Hamburger SV vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Hamburger SV vs B. Monchengladbach (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhk97wdr1g" tvg-name="Venezia vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Venezia vs Udinese (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793999389-0-0-ddd9653f87477ce117371b41517d35e7
-
-#EXTINF:-1 tvg-id="pxwrxlhywj61ryk" tvg-name="Toulouse FC vs Strasbourg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Toulouse FC vs Strasbourg (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyov72ryk" tvg-name="Sevilla vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sevilla vs Alavés (LIVE - Halftime)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793999393-0-0-35b70c7b2e6dfddaebd04d75f95c9b6b
-
 #EXTINF:-1 tvg-id="3glrw7hne5pyqdy" tvg-name="Everton vs Coventry City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Everton vs Coventry City (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="318q66hxy4nvqo9" tvg-name="FC Famalicao vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Famalicao vs FC Arouca (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="pxwrxlhyov72ryk" tvg-name="Sevilla vs Alavés" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sevilla vs Alavés (LIVE - Babak 2)
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794001544-0-0-b28666daab261fbc407ab1fda7576055
+
+#EXTINF:-1 tvg-id="318q66hxy4nvqo9" tvg-name="FC Famalicao vs FC Arouca" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FC Famalicao vs FC Arouca (LIVE - Halftime)
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 ########################################################
@@ -2777,3 +2768,6 @@ https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="x7lm7phjd5wlm2w" tvg-name="Willem II vs PEC Zwolle" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:00 WIB] [Eredivisie] Willem II vs PEC Zwolle
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhywj61ryk" tvg-name="Toulouse FC vs Strasbourg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 02:45 WIB] [Ligue 1] Toulouse FC vs Strasbourg
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
