@@ -2750,11 +2750,15 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [JADWAL] PERTANDINGAN MENDATANG
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="dn1m1gh9vz2lmoe" tvg-name="Arnett Gardens vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 07:00 WIB] [Premier League] Arnett Gardens vs Mount Pleasant FA
-https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=39a292837d35864eb99e1e30c5d2b02b&wsABSTime=1793966540
+#EXTINF:-1 tvg-id="dn1m1gh9vz2lmoe" tvg-name="Arnett Gardens vs Mount Pleasant FA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Arnett Gardens vs Mount Pleasant FA (LIVE - Babak 2)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
 
 #EXTINF:-1 tvg-id="2y8m4zh5kyg0ql0" tvg-name="PSIM Yogyakarta vs Dewa United FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[06/11 15:30 WIB] [Liga 1 Indonesia] PSIM Yogyakarta vs Dewa United FC
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
