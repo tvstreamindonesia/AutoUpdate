@@ -2753,17 +2753,14 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="6ypq3nhvjyz5md7" tvg-name="Borneo FC Samarinda vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 15:30 WIB] [Liga 1 Indonesia] Borneo FC Samarinda vs PSM Makassar
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-id="vjxm8ghezdjpr6o" tvg-name="Persita vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persita vs Isenmulang Kalteng
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=b5fb9af4d6fa3793ac001ac0f7031613&wsABSTime=1794079796
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=9c3b3371d2ba2d5a3551fb90bbf2b481&wsABSTime=1794082900
 
 #EXTINF:-1 tvg-id="pxwrxlhyk899ryk" tvg-name="Persija Jakarta vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persija Jakarta vs Persebaya
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnv2jyqdy" tvg-name="Persijap Jepara vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=506b4bc5e1eafe8c85d290d78f87791e&wsABSTime=1794079798
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=648e46c4dc4a4cd213d21e0b99199d00&wsABSTime=1794082902
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] [Premier League] Leeds United vs Tottenham
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
