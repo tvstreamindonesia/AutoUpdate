@@ -2754,4 +2754,7 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="965mkyhkpkxnr1g" tvg-name="Guam U17 vs Singapore U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 14:30 WIB] [Kompetisi Resmi AFC] Guam U17 vs Singapore U17
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=aad37480ee45ad591457cf47eebc8002&wsABSTime=1794135538
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=ce76c26076fb027283a58c48fcfa2500&wsABSTime=1794137325
+
+#EXTINF:-1 tvg-id="dn1m1ghld4g6moe" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] [Serie A Italia] Napoli vs Lazio
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=460d1c95464502c790bd4a746c2306ba&wsABSTime=1794137325
