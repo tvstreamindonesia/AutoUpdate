@@ -2754,16 +2754,16 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="vjxm8ghezdjpr6o" tvg-name="Persita vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persita vs Isenmulang Kalteng
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=04ff5a9ff6b4978d62957374452abf02&wsABSTime=1794093032
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=c3ff1ab6c31cf8fb489c1e3720e2e81e&wsABSTime=1794095095
 
 #EXTINF:-1 tvg-id="pxwrxlhyk899ryk" tvg-name="Persija Jakarta vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persija Jakarta vs Persebaya
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnv2jyqdy" tvg-name="Persijap Jepara vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=0c7a5b1ae47673e9384f782518d27ff5&wsABSTime=1794093032
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=06e1724c9bce362ed6dae0b1dbceea8a&wsABSTime=1794095098
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] [Premier League] Leeds United vs Tottenham
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794049829-0-0-4fdb3083aab061badde45b4dcca241f1
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794051887-0-0-e38e42819d96241bcf3e29f4840eecb2
 
 #EXTINF:-1 tvg-id="jw2r09hkv17lrz8" tvg-name="Malaga vs Racing Santander" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 20:00 WIB] [La Liga] Malaga vs Racing Santander
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
@@ -2787,7 +2787,16 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="k82rekhgd46jrep" tvg-name="Arsenal vs Hull City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 22:00 WIB] [Premier League] Arsenal vs Hull City
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794051890-0-0-a77a1687b9615fc259e1e6f2613b423b
 
 #EXTINF:-1 tvg-id="y0or5jh8dko0qwz" tvg-name="Fulham vs Newcastle United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 22:00 WIB] [Premier League] Fulham vs Newcastle United
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=05d07317166e3e6b993716ca421e5845&wsABSTime=1794093031
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=5b1e865d3e46d01d618a05cb2305744e&wsABSTime=1794095093
+
+#EXTINF:-1 tvg-id="l5ergph46p20r8k" tvg-name="Espanyol vs Dep. La Coruna" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 22:15 WIB] [La Liga] Espanyol vs Dep. La Coruna
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8d037qwz" tvg-name="Fortuna Sittard vs SC Telstar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 22:30 WIB] [Eredivisie] Fortuna Sittard vs SC Telstar
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghly3k3moe" tvg-name="CD Nacional vs Viseu" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 22:30 WIB] [Primeira Liga Portugal] CD Nacional vs Viseu
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
