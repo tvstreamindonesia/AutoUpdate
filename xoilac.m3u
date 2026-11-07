@@ -2754,7 +2754,28 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ########################################################
 
 #EXTINF:-1 tvg-id="965mkyhkpkxnr1g" tvg-name="Guam U17 vs Singapore U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 14:30 WIB] [Kompetisi Resmi AFC] Guam U17 vs Singapore U17
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=ce76c26076fb027283a58c48fcfa2500&wsABSTime=1794137325
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=e5aa976fd101cddb6a093ae357f7b73e&wsABSTime=1794139185
+
+#EXTINF:-1 tvg-id="23xmvkh676zvqg8" tvg-name="Hồng Kông U17 vs Iraq U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:00 WIB] [Kompetisi Resmi AFC] Hồng Kông U17 vs Iraq U17
+https://live1.quickscoreboardz.com/live/channel20.m3u8?wsSecret=ce0bd7cc5a7c346ad08e89b83cc7ce91&wsABSTime=1794139186
+
+#EXTINF:-1 tvg-id="8yomo4h1n1o6q0j" tvg-name="Bắc Mariana U17 vs Mông Cổ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:00 WIB] [Kompetisi Resmi AFC] Bắc Mariana U17 vs Mông Cổ U17
+https://live1.quickscoreboardz.com/live/channel34.m3u8?wsSecret=6f7082699fe6bbe9e1f2170dc098c6bb&wsABSTime=1794139187
+
+#EXTINF:-1 tvg-id="x7lm7phj1y0pm2w" tvg-name="Bali United vs Persik Kediri" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] [Liga 1 Indonesia] Bali United vs Persik Kediri
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh82ye0qwz" tvg-name="PSS Sleman vs Bhayangkara Presisi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] [Liga 1 Indonesia] PSS Sleman vs Bhayangkara Presisi
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hndng4qdy" tvg-name="Campuchia U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] [Kompetisi Resmi AFC] Campuchia U17 vs Philippines U17
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhydy0yryk" tvg-name="Afghanistan U17 vs Myanmar U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 15:30 WIB] [Kompetisi Resmi AFC] Afghanistan U17 vs Myanmar U17
+https://live1.quickscoreboardz.com/live/channel36.m3u8?wsSecret=e08e413b07879bb17d3fb399e80e1735&wsABSTime=1794139191
+
+#EXTINF:-1 tvg-id="vjxm8gheyeo1r6o" tvg-name="Sri Lanka U17 vs Pakistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 16:00 WIB] [Kompetisi Resmi AFC] Sri Lanka U17 vs Pakistan U17
+https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=586dbd5634cc684c5381c3bfe836b5bd&wsABSTime=1794139191
 
 #EXTINF:-1 tvg-id="dn1m1ghld4g6moe" tvg-name="Napoli vs Lazio" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 18:30 WIB] [Serie A Italia] Napoli vs Lazio
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=460d1c95464502c790bd4a746c2306ba&wsABSTime=1794137325
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=37932c064af59a0507005bd5037c203a&wsABSTime=1794139184
