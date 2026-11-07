@@ -2750,17 +2750,24 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="6ypq3nhvjyz5md7" tvg-name="Borneo FC Samarinda vs PSM Makassar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Borneo FC Samarinda vs PSM Makassar (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
+########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
 #EXTINF:-1 tvg-id="vjxm8ghezdjpr6o" tvg-name="Persita vs Isenmulang Kalteng" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persita vs Isenmulang Kalteng
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=9c3b3371d2ba2d5a3551fb90bbf2b481&wsABSTime=1794082900
+https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=e6052bff0a25230d0af647e083d41def&wsABSTime=1794086017
 
 #EXTINF:-1 tvg-id="pxwrxlhyk899ryk" tvg-name="Persija Jakarta vs Persebaya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persija Jakarta vs Persebaya
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-id="3glrw7hnv2jyqdy" tvg-name="Persijap Jepara vs Garudayaksa FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:00 WIB] [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=648e46c4dc4a4cd213d21e0b99199d00&wsABSTime=1794082902
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=761e3fdfd43d7a60b37e3e7f9655592c&wsABSTime=1794086019
 
 #EXTINF:-1 tvg-id="965mkyhk9xo8r1g" tvg-name="Leeds United vs Tottenham" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 19:30 WIB] [Premier League] Leeds United vs Tottenham
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
@@ -2773,3 +2780,15 @@ https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8dlpdqwz" tvg-name="Torino vs Lecce" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:00 WIB] [Serie A Italia] Torino vs Lecce
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phje5eom2w" tvg-name="RB Leipzig vs Augsburg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:30 WIB] [Bundesliga] RB Leipzig vs Augsburg
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxp7pxqo9" tvg-name="Paderborn 07 vs Eintracht Frankfurt" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:30 WIB] [Bundesliga] Paderborn 07 vs Eintracht Frankfurt
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhkxgxor1g" tvg-name="Mainz 05 vs Bayern Munich" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:30 WIB] [Bundesliga] Mainz 05 vs Bayern Munich
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghe6264r6o" tvg-name="Dortmund vs SV 07 Elversberg" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[07/11 21:30 WIB] [Bundesliga] Dortmund vs SV 07 Elversberg
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
