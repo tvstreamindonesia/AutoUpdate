@@ -2750,8 +2750,8 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="jw2r09hkyj7prz8" tvg-name="Sporting CP vs Moreirense" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sporting CP vs Moreirense (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="965mkyhkpkxnr1g" tvg-name="Guam U17 vs Singapore U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[08/11 14:30 WIB] [Kompetisi Resmi AFC] Guam U17 vs Singapore U17
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=aad37480ee45ad591457cf47eebc8002&wsABSTime=1794135538
