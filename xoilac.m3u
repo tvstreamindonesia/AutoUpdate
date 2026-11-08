@@ -2750,11 +2750,11 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="4wyrn4h6p40vq86" tvg-name="Rio Ave vs Sporting Braga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Rio Ave vs Sporting Braga (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
+#EXTINF:-1 tvg-id="1l4rjnhn6y92m7v" tvg-name="Chapelton vs Racing United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 05:05 WIB] [Premier League] Chapelton vs Racing United
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=b4edf95960f1fefeef2d0effc62c8d7a&wsABSTime=1794221323
 
-#EXTINF:-1 tvg-id="k82rekhgpon9rep" tvg-name="Estrela Amadora vs Benfica" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Estrela Amadora vs Benfica (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghg4onpm0v" tvg-name="Arnett Gardens vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 08:00 WIB] [Premier League] Arnett Gardens vs Waterhouse FC
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=dfc3acef7d9c9afc991cf4b75eeeedcd&wsABSTime=1794221324
