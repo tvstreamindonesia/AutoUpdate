@@ -2753,8 +2753,11 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
+#EXTINF:-1 tvg-id="ednm9whwjlwgryo" tvg-name="Ikorodu City FC vs Inter Lagos" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9k82rekhv1zrepz/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9k82rekhv1zrepz/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[09/11 22:00 WIB] [Premier League] Ikorodu City FC vs Inter Lagos
+https://live1.quickscoreboardz.com/live/channel31.m3u8?wsSecret=7ab76c2c1a71a80a823a1a7b3c281dad&wsABSTime=1794270030
+
 #EXTINF:-1 tvg-id="1l4rjnhn6y92m7v" tvg-name="Chapelton vs Racing United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 05:05 WIB] [Premier League] Chapelton vs Racing United
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=806c94dd2a4c7a6782654a97fe5638e6&wsABSTime=1794266408
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=251ea9369c9598c65bc8445c93118697&wsABSTime=1794270030
 
 #EXTINF:-1 tvg-id="4jwq2ghg4onpm0v" tvg-name="Arnett Gardens vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[10/11 08:00 WIB] [Premier League] Arnett Gardens vs Waterhouse FC
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=c89f16b82b122d5549af272e8a5b3e77&wsABSTime=1794266408
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=fbe2f986152113654cec3ebd2e258d76&wsABSTime=1794270030
