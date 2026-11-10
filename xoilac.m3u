@@ -2750,39 +2750,32 @@ http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="4jwq2ghg4onpm0v" tvg-name="Arnett Gardens vs Waterhouse FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Arnett Gardens vs Waterhouse FC (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
 #EXTINF:-1 tvg-id="1l4rjnh9v9p1m7v" tvg-name="Maldives U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] [Kompetisi Resmi AFC] Maldives U17 vs Hồng Kông U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279261-0-0-c880c727548cbfb5154ae91b1eabc9b2
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281841-0-0-8479d94e6784c046a3564a7f4b5a6287
 
 #EXTINF:-1 tvg-id="k82rekhglg48rep" tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] [Kompetisi Resmi AFC] Guam U17 vs Palestine U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279261-0-0-c880c727548cbfb5154ae91b1eabc9b2
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281842-0-0-6df557e9c8196c655b3a117a413cda45
 
 #EXTINF:-1 tvg-id="pxwrxlhydyooryk" tvg-name="Mông Cổ U17 vs Yemen U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:00 WIB] [Kompetisi Resmi AFC] Mông Cổ U17 vs Yemen U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279262-0-0-f7f3870309a0221e4d68bca283858e8f
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281843-0-0-8bf4bfa791d6d14bc5b41d5c60ad0454
 
 #EXTINF:-1 tvg-id="vjxm8gheye70r6o" tvg-name="Campuchia U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] [Kompetisi Resmi AFC] Campuchia U17 vs Afghanistan U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279262-0-0-f7f3870309a0221e4d68bca283858e8f
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281843-0-0-8bf4bfa791d6d14bc5b41d5c60ad0454
 
 #EXTINF:-1 tvg-id="x7lm7phj4j22m2w" tvg-name="Philippines U17 vs Indonesia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:30 WIB] [Timnas Indonesia U-17] Philippines U17 vs Indonesia U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279263-0-0-456c9e997765b717503fdb3aff87bbcf
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281844-0-0-eb4163d4416e5078cf458ff224560ef6
 
 #EXTINF:-1 tvg-id="y0or5jh878dvqwz" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 17:00 WIB] [Kompetisi Resmi AFC] Pakistan U17 vs Iran U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279263-0-0-456c9e997765b717503fdb3aff87bbcf
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281844-0-0-eb4163d4416e5078cf458ff224560ef6
 
 #EXTINF:-1 tvg-id="8yomo4hy7gpgq0j" tvg-name="Jiangsu Changjin vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Wuhan Lianzhen
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=da83f45301750ef753c0fb6e23e828e4&wsABSTime=1794322464
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=86922a5af010a2fefa206def3ef031d4&wsABSTime=1794325045
 
 #EXTINF:-1 tvg-id="zp5rzghg8gejq82" tvg-name="Đài Loan U17 vs Thái Lan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] [Kompetisi Resmi AFC] Đài Loan U17 vs Thái Lan U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279264-0-0-adcf870a318c34a5e66046d7a412a342
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281846-0-0-099d0d8c5b7175e9606fce3cc3985fc3
 
 #EXTINF:-1 tvg-id="l5ergph4g4jlr8k" tvg-name="Ma Cao U17 vs Syria U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:20 WIB] [Kompetisi Resmi AFC] Ma Cao U17 vs Syria U17
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794279265-0-0-03093788acfce568b516d8f0be1a7e51
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794281847-0-0-a38e1038170e6095f31db067ee93a8ed
