@@ -17,8 +17,11 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="y0or5jh878dvqwz" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Pakistan U17 vs Iran U17 (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#EXTINF:-1 tvg-id="8yomo4hy7gpgq0j" tvg-name="Jiangsu Changjin vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Jiangsu Changjin vs Wuhan Lianzhen (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4g4jlr8k" tvg-name="Ma Cao U17 vs Syria U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ma Cao U17 vs Syria U17 (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 ########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
@@ -53,12 +56,6 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="8yomo4hy7gpgq0j" tvg-name="Jiangsu Changjin vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Wuhan Lianzhen
-https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=821b4723d6ecc9629460908ccf7b7934&wsABSTime=1794436780
-
-#EXTINF:-1 tvg-id="l5ergph4g4jlr8k" tvg-name="Ma Cao U17 vs Syria U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 18:20 WIB] [Kompetisi Resmi AFC] Ma Cao U17 vs Syria U17
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
 #EXTINF:-1 tvg-id="6ypq3nhvxvodmd7" tvg-name="Bắc Mariana U17 vs Kyrgyzstan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] [Kompetisi Resmi AFC] Bắc Mariana U17 vs Kyrgyzstan U17
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
@@ -68,11 +65,11 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 #EXTINF:-1 tvg-id="zp5rzghg8gejq82" tvg-name="Đài Loan U17 vs Thái Lan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] [Kompetisi Resmi AFC] Đài Loan U17 vs Thái Lan U17
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
+#EXTINF:-1 tvg-id="318q66hxlxpnqo9" tvg-name="Singapore U17 vs Ấn Độ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] [Kompetisi Resmi AFC] Singapore U17 vs Ấn Độ U17
+https://live2.jorvakstreamcache.com/live/channel11.m3u8
+
 #EXTINF:-1 tvg-id="ednm9whw1wyvryo" tvg-name="Lebanon U17 vs Oman U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] [Kompetisi Resmi AFC] Lebanon U17 vs Oman U17
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxlxpnqo9" tvg-name="Singapore U17 vs Ấn Độ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 21:00 WIB] [Kompetisi Resmi AFC] Singapore U17 vs Ấn Độ U17
-https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="4jwq2ghnlnyvm0v" tvg-name="Brunei Darussalam U17 vs Bahrain U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 23:00 WIB] [Kompetisi Resmi AFC] Brunei Darussalam U17 vs Bahrain U17
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
