@@ -18,16 +18,77 @@
 ########################################################
 
 
-# ==============================================================================
-# LIVESPORTS808 STREAM PLAYLIST (SEPAK BOLA & BADMINTON)
-# ==============================================================================
-# Dihasilkan secara otomatis menggunakan Chrome DevTools Protocol / Puppeteer
-# Menangkap URL .m3u8 lengkap dengan HTTP-Referrer & HTTP-User-Agent
-# ==============================================================================
+########################################################
+## LIVESPORTS808 STREAM PLAYLIST (SEPAK BOLA & BADMINTON)
+########################################################
 
-#EXTINF:-1 tvg-id="livesport_sample" tvg-name="Live Sport 808 Info" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067608762978" group-title="LIVE EVENT",Live Sports 808 Standby
-#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTkxJm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ls808_8994" tvg-name="[Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 1" tvg-logo="https://cfstatic.aifvfjuf56juh.cfd/img/icon-live.png" group-title="BADMINTON LIVE",(LIVE) [Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 1
+#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTk0Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ddy2-cf.sbbol1011play.sbs/auth%3D60b9372c2b341732945833408b0cfaf39fce1dadb066434ca82c46f13a84ca41ce6471184d16c1e1e5db2f7aff90955474dc8e46753204fb03bc788af7dd74615626d8d60a1a3ffeae4a3a7cc07b03471b6ab7fe775ea902a7c8478fb04b533876404fa2b465a3b140f90ca63935c784d946a3f1586d51d6e3d641383322b4eefaeccdee3551c49632867c3870350f63a65465b85ff01731aa69191cc09e7e7fab93293a3ffef3df9d083da1a6229087%26cid%3DAVSCL9IRo8WJhlctu9OZu261111%26_v%3D2%26_r%3DYsx1_h%26_vis%3D5bab576f54d78b60b3d792de8f0354a743e22b58fa7a918534821aa0e8a676e5%26_vvs%3D52385e71c6f589c88441a96f8fa0fc340bbe03160a1b23bad543308fae45dcfe%26_vas%3D01830fb851614045be2682fd2da03c8dd9c3a1727fb009c53f8f7b9ad4b78701/app/c452321.m3u8
+
+#EXTINF:-1 tvg-id="ls808_8995" tvg-name="[Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 2" tvg-logo="https://cfstatic.aifvfjuf56juh.cfd/img/icon-live.png" group-title="BADMINTON LIVE",(LIVE) [Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 2
+#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTk1Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ddy3-cf.sbbol1011play.sbs/auth%3D71a6bbdbafd9bdfd8ce3e7f808cafa413ea0cc89538561fedd5a0c407128d48a82d674ccde45062cdf14eda5c2896cf640207490197f8eff4c832de44459b14350fea9c249c15c13ffff6885454a1fa010405c9a563283ba4e49e707d15c13a4453e373f4bc732bc9551fa11f2648afdb6bc3a22a7684df10da32fcfd34e80839127ab3984fa4d683f97e0ea203ad0c1d5664f87920b8b568c5faf4847b4c666187ee210f2da4ee35f5f11dff2a60dd8e792a7dee23307a6b58795ca39636a90%26cid%3DAVSCL9IRo8WJhlctu9OZu261111%26_v%3D2%26_r%3D-Quu7H%26_vis%3Da103ede528edc6afbc8a9ac93017ed2c422d3c6340ee3b681a58268a0b1cd318%26_vvs%3D9e2d3a3919b4ed1a6dd4ee638c2c165f776bbab11f82320eab5131be547d9f73%26_vas%3D341d9c21082f934cc1752a44a97de693d9ec4d122f82eda685283e69572fee5a/app/c452322.m3u8
+
+#EXTINF:-1 tvg-id="ls808_8996" tvg-name="[Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 3" tvg-logo="https://cfstatic.aifvfjuf56juh.cfd/img/icon-live.png" group-title="BADMINTON LIVE",(LIVE) [Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 3
+#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTk2Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ddy1-cf.sbbol1011play.sbs/auth%3D4f811aa99456d232844d73124dd16872d5462c0c7ee6d1e03074ebb86a7ceada029d364a63da4bc3734c43b42358efe9f25f38af67e30586d9f8cc259923880d748041edcba8595bc8b8bc2bd831f3bfbd0910c5711d48f87aa0aeeaed486db8cbc984aa77dc5dc32e9dfc1625a84c7fef5b6dd5414318ff41200a599aae700da513cd9719e0184416525cf0c919b3a50302579ccdf696fa18334bf06d7cd2867f0bab7a1d316c57cb434bc7a246e9e322a6fa81407caa6c1b2dd2c014f16846%26cid%3DAVSCL9IRo8WJhlctu9OZu261111%26_v%3D2%26_r%3DiEwsAp%26_vis%3Dfa6d6dc199daa9a9989335f779f981e7a28aaed33fb8d9a94614f96daf2ac6dd%26_vvs%3Dd2a57f93215c85ee7cfc56bd75a9b01b05c4698484ca10dacc2becc45d303786%26_vas%3D59e2d1fbe2c7bcfe2a69eef084ea00e3db1d6357e9f7ebcde7481e88268160ed/app/c452323.m3u8
+
+#EXTINF:-1 tvg-id="ls808_8997" tvg-name="[Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 4" tvg-logo="https://cfstatic.aifvfjuf56juh.cfd/img/icon-live.png" group-title="BADMINTON LIVE",(LIVE) [Kumamoto Masters Japan 2026] Round of 32 - Day 2 - Court 4
+#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTk3Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ddy2-cf.sbbol1011play.sbs/auth%3D1d8e4cbef239e8e5bcdd329b152045b2e7d42269914a0bf8cf8f5889eccfd9af911bd13e3d4affc0951b00a6f5028d0d36e57f990b44b69921e0c62ff91bfb5c766709597385cd1cab13eaa8dc24732b67d2d51cfa82dbd8975c6ecaa762bef63f2232e17e1492b8d997a7e7c515cc2bcd29b51b5446e07f7aae3980be19a569cedc4891e101c89fbe3a653494988dd4f84721814e22d3aaebf4d267d43cc49ab73c53111280e3c8a9d1b5931e1eaac5985f4c9992bf3a8d697ff61c60bd4b44%26cid%3DAVSCL9IRo8WJhlctu9OZu261111%26_v%3D2%26_r%3Dcgb2Ax%26_vis%3D1979da378f52f883186d59aad6751c9e225c339b461a13d788fa0477622af63b%26_vvs%3Ddc601c1724c3ddadcd894a7b810f4abeb1718b6ac09aad6db0e9d52d27b0a213%26_vas%3D1666664e81d07d59f94d7ecdcc2524457a5d0f3db9153b12adba9258ea22cebd/app/c452324.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
+
+#EXTINF:-1 tvg-id="k82rekhglg48rep" tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 14:30 WIB] [Kompetisi Resmi AFC] Guam U17 vs Palestine U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9v9p1m7v" tvg-name="Maldives U17 vs Hồng Kông U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] [Kompetisi Resmi AFC] Maldives U17 vs Hồng Kông U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="pxwrxlhydyooryk" tvg-name="Mông Cổ U17 vs Yemen U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:00 WIB] [Kompetisi Resmi AFC] Mông Cổ U17 vs Yemen U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheye70r6o" tvg-name="Campuchia U17 vs Afghanistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] [Kompetisi Resmi AFC] Campuchia U17 vs Afghanistan U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj4j22m2w" tvg-name="Philippines U17 vs Indonesia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 15:30 WIB] [Timnas Indonesia U-17] Philippines U17 vs Indonesia U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh878dvqwz" tvg-name="Pakistan U17 vs Iran U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 16:00 WIB] [Kompetisi Resmi AFC] Pakistan U17 vs Iran U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4hy7gpgq0j" tvg-name="Jiangsu Changjin vs Wuhan Lianzhen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 18:00 WIB] [UEFA Champions League] Jiangsu Changjin vs Wuhan Lianzhen
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvxvodmd7" tvg-name="Bắc Mariana U17 vs Kyrgyzstan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] [Kompetisi Resmi AFC] Bắc Mariana U17 vs Kyrgyzstan U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghg8gejq82" tvg-name="Đài Loan U17 vs Thái Lan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:00 WIB] [Kompetisi Resmi AFC] Đài Loan U17 vs Thái Lan U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4g4jlr8k" tvg-name="Ma Cao U17 vs Syria U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 19:20 WIB] [Kompetisi Resmi AFC] Ma Cao U17 vs Syria U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj4jd1m2w" tvg-name="Sri Lanka U17 vs Jordan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] [Kompetisi Resmi AFC] Sri Lanka U17 vs Jordan U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whw1wyvryo" tvg-name="Lebanon U17 vs Oman U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 20:00 WIB] [Kompetisi Resmi AFC] Lebanon U17 vs Oman U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxlxpnqo9" tvg-name="Singapore U17 vs Ấn Độ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 21:00 WIB] [Kompetisi Resmi AFC] Singapore U17 vs Ấn Độ U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghnlnyvm0v" tvg-name="Brunei Darussalam U17 vs Bahrain U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 23:00 WIB] [Kompetisi Resmi AFC] Brunei Darussalam U17 vs Bahrain U17
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hk8kd2rz8" tvg-name="Bhutan U17 vs UAE U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[11/11 23:20 WIB] [Kompetisi Resmi AFC] Bhutan U17 vs UAE U17
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
