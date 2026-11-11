@@ -12,50 +12,39 @@ const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer');
 
-const SEED_DOMAINS = [
-    'https://idn298.livesports808.li',
-    'https://livesports808.li',
-    'https://www.livesports808.com',
-    'https://808ball.com'
-];
-
+const TARGET_HOME = 'https://idn298.livesports808.li';
 const DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
 const DEFAULT_LOGO = 'https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067608762978';
 const OUTPUT_FILE = path.join(__dirname, 'livesports.m3u');
 
-async function getActiveDomain(browser) {
-    const page = await browser.newPage();
-    await page.setUserAgent(DEFAULT_USER_AGENT);
+async function scrapeLiveMatchesFromHomepage(page) {
+    console.log(`[INFO] Mengakses halaman utama: ${TARGET_HOME}...`);
 
-    for (const domain of SEED_DOMAINS) {
-        try {
-            console.log(`[INFO] Menguji domain: ${domain}...`);
-            const res = await page.goto(domain, { waitUntil: 'domcontentloaded', timeout: 15000 });
-            if (res && res.status() < 400) {
-                const finalUrl = page.url();
-                const u = new URL(finalUrl);
-                const activeBase = `${u.protocol}//${u.host}`;
-                console.log(`[INFO] Domain aktif terdeteksi: ${activeBase}`);
-                await page.close();
-                return activeBase;
-            }
-        } catch (e) {
-            console.log(`[WARN] Domain ${domain} tidak dapat dijangkau: ${e.message}`);
-        }
-    }
-    await page.close();
-    return SEED_DOMAINS[0];
-}
+    await page.setViewport({ width: 1440, height: 900 });
 
-async function scrapeLiveMatchesFromHomepage(page, baseUrl) {
-    console.log(`[INFO] Mengakses halaman utama: ${baseUrl}...`);
+    await page.setExtraHTTPHeaders({
+        'Accept-Language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Sec-Ch-Ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+        'Sec-Ch-Ua-Mobile': '?0',
+        'Sec-Ch-Ua-Platform': '"Windows"'
+    });
+
     try {
-        await page.goto(baseUrl, { waitUntil: 'networkidle2', timeout: 35000 });
+        await page.goto(TARGET_HOME, { waitUntil: 'domcontentloaded', timeout: 30000 });
     } catch (e) {
-        console.log(`[WARN] Goto networkidle2 timeout, tetap melanjutkan...`);
+        console.log(`[WARN] Goto timeout / wait: ${e.message}`);
     }
 
-    await new Promise(r => setTimeout(r, 3000));
+    // Tunggu elemen pertandingan dirender oleh Nuxt.js
+    try {
+        await page.waitForSelector('a.match-item, a[href*="/others/"], a[href*="/football/"]', { timeout: 12000 });
+    } catch (e) {
+        console.log(`[WARN] Selector timeout, menunggu 4 detik render dinamis...`);
+        await new Promise(r => setTimeout(r, 4000));
+    }
+
+    await new Promise(r => setTimeout(r, 2000));
 
     const matches = await page.evaluate((defaultLogo) => {
         const results = [];
@@ -67,7 +56,7 @@ async function scrapeLiveMatchesFromHomepage(page, baseUrl) {
             const href = el.getAttribute('href');
             if (!href || seen.has(href)) return;
 
-            const isLive = text.includes('Live') || el.classList.contains('live');
+            const isLive = text.toLowerCase().includes('live') || el.classList.contains('live');
             if (!isLive) return; // Hanya ambil pertandingan yang benar-benar SEDANG LIVE
 
             seen.add(href);
@@ -130,6 +119,7 @@ async function scrapeLiveMatchesFromHomepage(page, baseUrl) {
 async function extractStreamForMatch(browser, match) {
     const page = await browser.newPage();
     await page.setUserAgent(DEFAULT_USER_AGENT);
+    await page.setViewport({ width: 1280, height: 720 });
 
     let iframeUrl = '';
     if (match.matchId) {
@@ -163,7 +153,7 @@ async function extractStreamForMatch(browser, match) {
     });
 
     try {
-        await page.goto(targetUrl, { waitUntil: 'networkidle2', timeout: 25000 }).catch(e => {
+        await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 25000 }).catch(e => {
             console.log(`   [WARN] Goto timeout / wait: ${e.message}`);
         });
 
@@ -178,7 +168,7 @@ async function extractStreamForMatch(browser, match) {
 
         for (let i = 0; i < 8; i++) {
             if (streamUrl) break;
-            if (i === 4) {
+            if (i === 3 || i === 5) {
                 try {
                     await page.click('button, .vjs-big-play-button, .play-button, video, #player, .dplayer-video-wrap');
                     await page.evaluate(() => {
@@ -215,16 +205,14 @@ async function main() {
             '--disable-dev-shm-usage',
             '--disable-gpu',
             '--autoplay-policy=no-user-gesture-required',
-            '--window-size=1280,800'
+            '--window-size=1440,900'
         ]
     });
-
-    const activeBase = await getActiveDomain(browser);
 
     const homePage = await browser.newPage();
     await homePage.setUserAgent(DEFAULT_USER_AGENT);
 
-    const liveMatches = await scrapeLiveMatchesFromHomepage(homePage, activeBase);
+    const liveMatches = await scrapeLiveMatchesFromHomepage(homePage);
     await homePage.close().catch(() => {});
 
     console.log(`[INFO] Ditemukan ${liveMatches.length} pertandingan berstatus LIVE:`);
@@ -265,6 +253,19 @@ async function main() {
 
     await browser.close().catch(() => {});
 
+    // KETENTUAN PENTING:
+    // Jika scraping menghasilkan 0 entri (misal karena jaringan sementara di runner / Cloudflare),
+    // JANGAN MENIMPA file livesports.m3u jika sudah memiliki siaran aktif!
+    if (playlistEntries.length === 0) {
+        if (fs.existsSync(OUTPUT_FILE)) {
+            const currentContent = fs.readFileSync(OUTPUT_FILE, 'utf-8');
+            if (currentContent.includes('BADMINTON LIVE') || (currentContent.includes('#EXTINF') && !currentContent.includes('livesport_standby'))) {
+                console.log('[PERINGATAN] Scraping mendapatkan 0 siaran baru. Mempertahankan siaran aktif yang ada di livesports.m3u.');
+                return;
+            }
+        }
+    }
+
     const fullContentLines = [
         '#EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"',
         '',
@@ -277,7 +278,7 @@ async function main() {
     if (playlistEntries.length > 0) {
         fullContentLines.push(...playlistEntries);
     } else {
-        // Fallback saluran siaga jika belum ada pertandingan live
+        // Fallback saluran siaga hanya jika memang belum ada file sebelumnya
         fullContentLines.push(
             `#EXTINF:-1 tvg-id="livesport_standby" tvg-name="Live Sport 808 Info" tvg-logo="${DEFAULT_LOGO}" group-title="LIVE EVENT",Live Sports 808 Standby (Belum Ada Siaran Aktif)`,
             `#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTkxJm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4`,
