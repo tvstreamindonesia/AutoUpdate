@@ -7,6 +7,6 @@
     "start": "node scraper_livesport.js"
   },
   "dependencies": {
-    "puppeteer": "^23.6.0"
+    "puppeteer": "^23.11.1"
   }
 }
