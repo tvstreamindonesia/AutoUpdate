@@ -1,0 +1,12 @@
+{
+  "name": "autoupdate-livesports808",
+  "version": "1.0.0",
+  "description": "LiveSports808 Football & Badminton M3U8 Stream Scraper via Chrome DevTools Protocol",
+  "main": "scraper_livesport.js",
+  "scripts": {
+    "start": "node scraper_livesport.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.6.0"
+  }
+}

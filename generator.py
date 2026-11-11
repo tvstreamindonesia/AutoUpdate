@@ -108,10 +108,39 @@ class PlaylistGenerator:
             logger.warning(f"Gagal membaca file custom channels {custom_path}: {e}")
             return []
 
+    def _load_livesports_channels(self) -> List[str]:
+        """
+        Loads scraped LiveSports808 M3U channel entries from livesports.m3u if present.
+        """
+        livesports_path = os.path.join(os.path.dirname(os.path.abspath(self.output_path)), "livesports.m3u")
+        if not os.path.exists(livesports_path):
+            return []
+
+        try:
+            with open(livesports_path, "r", encoding="utf-8-sig", errors="ignore") as f:
+                content = f.read()
+
+            raw_lines = content.splitlines()
+            result = []
+            for line in raw_lines:
+                stripped = line.strip()
+                if stripped.startswith("#EXTM3U"):
+                    continue
+                result.append(line)
+
+            if any(l.strip() and not l.strip().startswith("#") for l in result):
+                logger.info(f"Loaded LiveSports808 channels ({len(result)} lines)")
+                return result
+            return []
+        except Exception as e:
+            logger.warning(f"Gagal membaca file livesports.m3u: {e}")
+            return []
+
     def build_m3u(self, matches: List[Dict]) -> str:
         """
         Builds M3U playlist string separating LIVE and UPCOMING matches,
-        grouped by competition, and seamlessly merging custom/manual channels.
+        grouped by competition, and seamlessly merging custom/manual channels
+        as well as LiveSports808 streams.
         """
         lines = [
             "#EXTM3U x-tvg-url=\"\" url-tvg=\"\" tvg-shift=\"0\"",
@@ -133,7 +162,7 @@ class PlaylistGenerator:
         upcoming_matches.sort(key=lambda x: x.get("kickoff_ts", 0))
 
         # ----------------------------------------------------
-        # 1. LIVE MATCHES SECTION
+        # 1. LIVE MATCHES SECTION (XOILAC)
         # ----------------------------------------------------
         if live_matches:
             lines.append("########################################################")
@@ -146,7 +175,19 @@ class PlaylistGenerator:
                 lines.extend(entries)
 
         # ----------------------------------------------------
-        # 2. UPCOMING MATCHES SECTION
+        # 2. LIVESPORTS808 SECTION (FOOTBALL & BADMINTON)
+        # ----------------------------------------------------
+        livesports_entries = self._load_livesports_channels()
+        if livesports_entries:
+            lines.append("########################################################")
+            lines.append("## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE")
+            lines.append("########################################################")
+            lines.append("")
+            lines.extend(livesports_entries)
+            lines.append("")
+
+        # ----------------------------------------------------
+        # 3. UPCOMING MATCHES SECTION (XOILAC)
         # ----------------------------------------------------
         if upcoming_matches:
             lines.append("########################################################")
@@ -238,6 +279,10 @@ class PlaylistGenerator:
             )
 
             entries.append(extinf)
+            if match.get("referrer"):
+                entries.append(f'#EXTVLCOPT:http-referrer={match["referrer"]}')
+            if match.get("user_agent"):
+                entries.append(f'#EXTVLCOPT:http-user-agent={match["user_agent"]}')
             entries.append(url)
             entries.append("")
 

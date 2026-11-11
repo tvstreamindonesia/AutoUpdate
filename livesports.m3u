@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0"
+
+# ==============================================================================
+# LIVESPORTS808 STREAM PLAYLIST (SEPAK BOLA & BADMINTON)
+# ==============================================================================
+# Dihasilkan secara otomatis menggunakan Chrome DevTools Protocol / Puppeteer
+# Menangkap URL .m3u8 lengkap dengan HTTP-Referrer & HTTP-User-Agent
+# ==============================================================================
+
+#EXTINF:-1 tvg-id="livesport_sample" tvg-name="Live Sport 808 Info" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067608762978" group-title="LIVE EVENT",Live Sports 808 Standby
+#EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTkxJm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
