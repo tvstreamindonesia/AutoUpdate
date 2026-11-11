@@ -14,16 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="jw2r09hk8kd2rz8" tvg-name="Bhutan U17 vs UAE U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Bhutan U17 vs UAE U17 (LIVE - Babak 2)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794417963-0-0-8d69e5cc7cb2ca86d13bf5afb41db060
-
-#EXTINF:-1 tvg-id="4jwq2ghnlnyvm0v" tvg-name="Brunei Darussalam U17 vs Bahrain U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Brunei Darussalam U17 vs Bahrain U17 (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -76,3 +66,9 @@ https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-id="l5ergph4g15er8k" tvg-name="Senegal vs Sudan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] [Africa Cup of Nations] Senegal vs Sudan
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-id="dj2ryohl8oddq1z" tvg-name="Benin vs CH Trung Phi" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] [Africa Cup of Nations] Benin vs CH Trung Phi
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-id="23xmvkh675xzqg8" tvg-name="Bờ Biển Ngà vs Gambia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] [Africa Cup of Nations] Bờ Biển Ngà vs Gambia
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
