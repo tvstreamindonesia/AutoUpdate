@@ -17,8 +17,17 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="6ypq3nhvx94nmd7" tvg-name="Ghana vs Somalia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ghana vs Somalia (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="6ypq3nhvx94nmd7" tvg-name="Ghana vs Somalia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ghana vs Somalia (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h6g37dq86" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",DR Congo vs Sierra Leone (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxle7oqo9" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Madagascar vs Guinea Bissau (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghey12er6o" tvg-name="Guinea Xích Đạo vs Zimbabwe" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Guinea Xích Đạo vs Zimbabwe (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 ########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
@@ -53,17 +62,8 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="8yomo4h1np5xq0j" tvg-name="Guinea vs Eritrea" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[12/11 23:00 WIB] [Africa Cup of Nations] Guinea vs Eritrea
+#EXTINF:-1 tvg-id="8yomo4h1np5xq0j" tvg-name="Guinea vs Eritrea" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 00:00 WIB] [Africa Cup of Nations] Guinea vs Eritrea
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h6g37dq86" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[12/11 23:00 WIB] [Africa Cup of Nations] DR Congo vs Sierra Leone
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxle7oqo9" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[12/11 23:00 WIB] [Africa Cup of Nations] Madagascar vs Guinea Bissau
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="vjxm8ghey12er6o" tvg-name="Guinea Xích Đạo vs Zimbabwe" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[12/11 23:00 WIB] [Africa Cup of Nations] Guinea Xích Đạo vs Zimbabwe
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehg7pe1r51" tvg-name="Cameroon vs Namibia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[13/11 02:00 WIB] [Africa Cup of Nations] Cameroon vs Namibia
 https://live2.jorvakstreamcache.com/live/channel7.m3u8
