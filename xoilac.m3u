@@ -47,10 +47,10 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ########################################################
 
 #EXTINF:-1 tvg-id="pxwrxlhlpwlkryk" tvg-name="Kowloon City vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:00 WIB] [Premier League] Kowloon City vs Kitchee
-https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=f7870916ac610cc06cd97e53de58d574&wsABSTime=1794669358
+https://live1.quickscoreboardz.com/live/channel9.m3u8?wsSecret=7e039ed61c55941305654aa097dcef7e&wsABSTime=1794673123
 
 #EXTINF:-1 tvg-id="6ypq3nhk6dk9md7" tvg-name="Crownity District vs Hồng Kông FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:00 WIB] [Premier League] Crownity District vs Hồng Kông FC
-https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=a83ae5a6e2cf6e4e350b4f4c14f347df&wsABSTime=1794669358
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=7e675a0c432dac3c82132d380303d911&wsABSTime=1794673124
 
 #EXTINF:-1 tvg-id="dn1m1ghl6lz7moe" tvg-name="Ấn Độ U17 vs Guam U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:30 WIB] [Kompetisi Resmi AFC] Ấn Độ U17 vs Guam U17
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
@@ -58,22 +58,16 @@ https://live2.jorvakstreamcache.com/live/channel24.m3u8
 #EXTINF:-1 tvg-id="4jwq2ghnlndvm0v" tvg-name="Iraq U17 vs Đài Loan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] [Kompetisi Resmi AFC] Iraq U17 vs Đài Loan U17
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8gheye61r6o" tvg-name="Yemen U17 vs Bắc Mariana U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] [Kompetisi Resmi AFC] Yemen U17 vs Bắc Mariana U17
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhydy0oryk" tvg-name="Indonesia U17 vs Campuchia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] [Timnas Indonesia U-17] Indonesia U17 vs Campuchia U17
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
 #EXTINF:-1 tvg-id="y0or5jh878wdqwz" tvg-name="Myanmar U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] [Kompetisi Resmi AFC] Myanmar U17 vs Philippines U17
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8gheye61r6o" tvg-name="Yemen U17 vs Bắc Mariana U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 16:00 WIB] [Kompetisi Resmi AFC] Yemen U17 vs Bắc Mariana U17
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-id="23xmvkh676jvqg8" tvg-name="Iran U17 vs Sri Lanka U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 16:00 WIB] [Kompetisi Resmi AFC] Iran U17 vs Sri Lanka U17
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehg7gzgr51" tvg-name="UAE U17 vs Ma Cao U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 18:20 WIB] [Kompetisi Resmi AFC] UAE U17 vs Ma Cao U17
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hndn52qdy" tvg-name="Turkmenistan U17 vs Mông Cổ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 19:00 WIB] [Kompetisi Resmi AFC] Turkmenistan U17 vs Mông Cổ U17
+#EXTINF:-1 tvg-id="pxwrxlhydy0oryk" tvg-name="Indonesia U17 vs Campuchia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 16:30 WIB] [Timnas Indonesia U-17] Indonesia U17 vs Campuchia U17
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="ednm9whw1wlvryo" tvg-name="Thái Lan U17 vs Maldives U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 19:00 WIB] [Kompetisi Resmi AFC] Thái Lan U17 vs Maldives U17
@@ -81,3 +75,9 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhnvnyvqvy" tvg-name="Lào U17 vs Pakistan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 19:00 WIB] [Kompetisi Resmi AFC] Lào U17 vs Pakistan U17
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehg7gzgr51" tvg-name="UAE U17 vs Ma Cao U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 19:20 WIB] [Kompetisi Resmi AFC] UAE U17 vs Ma Cao U17
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="4wyrn4h6g6nlq86" tvg-name="Malaysia U17 vs Singapore U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 20:00 WIB] [Kompetisi Resmi AFC] Malaysia U17 vs Singapore U17
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
