@@ -14,6 +14,13 @@
 # ==============================================================================
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="y39mp1h6gngjmoj" tvg-name="Coquimbo Unido vs O.Higgins" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Coquimbo Unido vs O.Higgins (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -46,11 +53,8 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="y39mp1h6gngjmoj" tvg-name="Coquimbo Unido vs O.Higgins" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 04:30 WIB] [La Liga] Coquimbo Unido vs O.Higgins
-https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=0189cd3d816a07bee6ee3a1138bf06d2&wsABSTime=1794734341
-
 #EXTINF:-1 tvg-id="8yomo4hyejylq0j" tvg-name="Eastern District vs Eastern AA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 14:00 WIB] [Premier League] Eastern District vs Eastern AA
-https://live1.quickscoreboardz.com/live/channel23.m3u8?wsSecret=eb4221f864c8ba6d2df45f57f27d344b&wsABSTime=1794734341
+https://live1.quickscoreboardz.com/live/channel23.m3u8?wsSecret=3dcc999d1e1e6f08a16ebcf09ebd4f1d&wsABSTime=1794736804
 
 #EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 17:00 WIB] [Premier League] Lee Man vs Tai Po
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=12534627bdc3659201f1ae3de3f8817a&wsABSTime=1794734342
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=8fd03f2e7bdaa83cbecbe4ca4bef986a&wsABSTime=1794736805
