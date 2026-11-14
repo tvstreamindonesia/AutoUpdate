@@ -14,6 +14,13 @@
 # ==============================================================================
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="l7oqdehg7gzgr51" tvg-name="UAE U17 vs Ma Cao U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",UAE U17 vs Ma Cao U17 (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
+
+########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -46,9 +53,6 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="l7oqdehg7gzgr51" tvg-name="UAE U17 vs Ma Cao U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 18:20 WIB] [Kompetisi Resmi AFC] UAE U17 vs Ma Cao U17
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-id="ednm9whw1wlvryo" tvg-name="Thái Lan U17 vs Maldives U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 19:00 WIB] [Kompetisi Resmi AFC] Thái Lan U17 vs Maldives U17
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
@@ -66,3 +70,6 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh5lo4nql0" tvg-name="Uganda vs Botswana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 23:00 WIB] [Africa Cup of Nations] Uganda vs Botswana
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhkpkdnr1g" tvg-name="Kuwait U17 vs Lebanon U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 23:00 WIB] [Kompetisi Resmi AFC] Kuwait U17 vs Lebanon U17
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
