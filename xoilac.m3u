@@ -20,6 +20,9 @@
 #EXTINF:-1 tvg-id="2y8m4zh5lo4nql0" tvg-name="Uganda vs Botswana" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Uganda vs Botswana (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-id="965mkyhkpkdnr1g" tvg-name="Kuwait U17 vs Lebanon U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kuwait U17 vs Lebanon U17 (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
 ########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
@@ -53,9 +56,6 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="965mkyhkpkdnr1g" tvg-name="Kuwait U17 vs Lebanon U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 23:00 WIB] [Kompetisi Resmi AFC] Kuwait U17 vs Lebanon U17
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
 #EXTINF:-1 tvg-id="x7lm7phj46pxm2w" tvg-name="Angola vs Nam Sudan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 02:00 WIB] [Africa Cup of Nations] Angola vs Nam Sudan
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
@@ -63,4 +63,4 @@ https://live2.jorvakstreamcache.com/live/channel9.m3u8
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-id="y39mp1h6gngjmoj" tvg-name="Coquimbo Unido vs O.Higgins" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 04:30 WIB] [La Liga] Coquimbo Unido vs O.Higgins
-https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=9600cfa175d1b90c07e443342f35daa7&wsABSTime=1794715559
+https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=5c53ae29c7b2cf114537448ef9ecab9b&wsABSTime=1794718002
