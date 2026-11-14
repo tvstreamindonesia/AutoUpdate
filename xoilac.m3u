@@ -17,10 +17,16 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="pxwrxlhlpwlkryk" tvg-name="Kowloon City vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kowloon City vs Kitchee (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="pxwrxlhlpwlkryk" tvg-name="Kowloon City vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Kowloon City vs Kitchee (LIVE - Babak 2)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhk6dk9md7" tvg-name="Crownity District vs Hồng Kông FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Crownity District vs Hồng Kông FC (LIVE - Babak 1)
+#EXTINF:-1 tvg-id="6ypq3nhk6dk9md7" tvg-name="Crownity District vs Hồng Kông FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Crownity District vs Hồng Kông FC (LIVE - Babak 2)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghl6lz7moe" tvg-name="Ấn Độ U17 vs Guam U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ấn Độ U17 vs Guam U17 (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghnlndvm0v" tvg-name="Iraq U17 vs Đài Loan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Iraq U17 vs Đài Loan U17 (LIVE - Babak 1)
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 ########################################################
@@ -55,12 +61,6 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ########################################################
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
-
-#EXTINF:-1 tvg-id="dn1m1ghl6lz7moe" tvg-name="Ấn Độ U17 vs Guam U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 14:30 WIB] [Kompetisi Resmi AFC] Ấn Độ U17 vs Guam U17
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnlndvm0v" tvg-name="Iraq U17 vs Đài Loan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:00 WIB] [Kompetisi Resmi AFC] Iraq U17 vs Đài Loan U17
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh878wdqwz" tvg-name="Myanmar U17 vs Philippines U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[14/11 15:30 WIB] [Kompetisi Resmi AFC] Myanmar U17 vs Philippines U17
 https://live2.jorvakstreamcache.com/live/channel21.m3u8
