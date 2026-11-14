@@ -14,6 +14,16 @@
 # ==============================================================================
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="x7lm7phj46pxm2w" tvg-name="Angola vs Nam Sudan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Angola vs Nam Sudan (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghg8k19q82" tvg-name="Algeria vs Togo" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Algeria vs Togo (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel23.flv
+
+########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -46,11 +56,5 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="x7lm7phj46pxm2w" tvg-name="Angola vs Nam Sudan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 02:00 WIB] [Africa Cup of Nations] Angola vs Nam Sudan
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghg8k19q82" tvg-name="Algeria vs Togo" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 02:00 WIB] [Africa Cup of Nations] Algeria vs Togo
-https://live2.jorvakstreamcache.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-id="y39mp1h6gngjmoj" tvg-name="Coquimbo Unido vs O.Higgins" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1ghl44moep/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 04:30 WIB] [La Liga] Coquimbo Unido vs O.Higgins
-https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=2b483110519170730e816b85037135fd&wsABSTime=1794724244
+https://live1.quickscoreboardz.com/live/channel68.m3u8?wsSecret=e86862a9bcb26734e393f9c3418da1a2&wsABSTime=1794727123
