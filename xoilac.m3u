@@ -14,13 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="8yomo4hyejylq0j" tvg-name="Eastern District vs Eastern AA" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Eastern District vs Eastern AA (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -54,4 +47,13 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ########################################################
 
 #EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 17:00 WIB] [Premier League] Lee Man vs Tai Po
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=15a1c5a12e55b61cf3fe7c0fc9a5fae1&wsABSTime=1794774560
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=370c363bdcbc48b5eff3cbcfd3be2ed7&wsABSTime=1794777314
+
+#EXTINF:-1 tvg-id="l7oqdehjnjx9r51" tvg-name="Dunbeholden FC vs Chapelton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Dunbeholden FC vs Chapelton
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=42846f51c169a61b35de84b62d4245e1&wsABSTime=1794777314
+
+#EXTINF:-1 tvg-id="jw2r09h5l533rz8" tvg-name="Cavalier FC vs Treasure Beach" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Cavalier FC vs Treasure Beach
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=43111d4fbbf5bb3e45e5ea31e3272ed1&wsABSTime=1794777315
+
+#EXTINF:-1 tvg-id="dj2ryoh7k7p3q1z" tvg-name="Humble Lions vs Arnett Gardens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Humble Lions vs Arnett Gardens
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=8777b86e4fd2f8a5e4ca5436ccd5ebc3&wsABSTime=1794777316
