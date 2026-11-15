@@ -14,13 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lee Man vs Tai Po (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -48,3 +41,25 @@ https://ddy1-cf.sbbol1011play.sbs/auth%3Ddf2ba2fcdec455d48ab987e15d46feceaa9cc6a
 #EXTVLCOPT:http-referrer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD04OTk3Jm10VGV4dD1vdGhlcnMmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2cc459c6cd290149943361fd0916bcfa4bece9049b5c14e4f72a0d79e1578e11dc0ac7a2761bd39b7579f4e7021d438dc2b0716a4d7a5c31ae1287109b60c128c0745ef1dedc2a5343b2a97f9c0915fa9a5eeb88150a0328fe5f5136e0a125a4cb8962639fc13e8fb1f9808586881a99d7f5a2d4dbc61a408b8a0a8b59fc5df49f8d8329511e78cea0174ca88aac02539eef93445aad808fb6d6156dd3511b7b644d5323952c32ec18f9dcadf09%26cid%3DqGK0VFXQxoaEF5D_Mt7yr261111%26_v%3D2%26_r%3DG9ZrVj%26_vis%3Dccdd4462c5035c5beba871f67949daedbb566225169722296c900dffc5896e2d%26_vvs%3Df309b77bb8039514fd99fbe5d421a4f73281347f2191e7ff1e074dc0ce9fd085%26_vas%3D5b53d40dbbbaadc87d8901fb00cbf95cec98c98efa5bf7f866ef74cea5517e16/app/c452324.m3u8
+
+########################################################
+## [JADWAL] PERTANDINGAN MENDATANG
+########################################################
+
+#EXTINF:-1 tvg-id="l7oqdehjnjx9r51" tvg-name="Dunbeholden FC vs Chapelton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Dunbeholden FC vs Chapelton
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=ef5ce708958fa12c56bf905cfbe7d400&wsABSTime=1794787479
+
+#EXTINF:-1 tvg-id="jw2r09h5l533rz8" tvg-name="Cavalier FC vs Treasure Beach" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Cavalier FC vs Treasure Beach
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=85fd3acb2220dda6474f14910a08f78a&wsABSTime=1794787480
+
+#EXTINF:-1 tvg-id="dj2ryoh7k7p3q1z" tvg-name="Humble Lions vs Arnett Gardens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Humble Lions vs Arnett Gardens
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=a3fdae3160e989167d15f60eed0ad076&wsABSTime=1794787480
+
+#EXTINF:-1 tvg-id="8yomo4hy7y8lq0j" tvg-name="Siti Worley Garden vs Montego Bay Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Siti Worley Garden vs Montego Bay Utd
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=9cee34a16a8904c8ae793e57853fff57&wsABSTime=1794787481
+
+#EXTINF:-1 tvg-id="2y8m4zhv3v79ql0" tvg-name="Racing United vs Tru-Juice FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Racing United vs Tru-Juice FC
+https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=01d3399e3c3baf83f863e1fdc375a952&wsABSTime=1794787482
+
+#EXTINF:-1 tvg-id="6ypq3nhk0k89md7" tvg-name="Molynes United vs Portmore United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Molynes United vs Portmore United
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=cfbf579fdbc44f8dbfd16d6334cef810&wsABSTime=1794787483
