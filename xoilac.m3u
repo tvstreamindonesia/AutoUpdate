@@ -14,6 +14,13 @@
 # ==============================================================================
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lee Man vs Tai Po (LIVE - Babak 1)
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -46,23 +53,20 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="2y8m4zhv0dv9ql0" tvg-name="Lee Man vs Tai Po" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh33jr6od/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[15/11 17:00 WIB] [Premier League] Lee Man vs Tai Po
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=04e683377eafea8cd50b71b797103b6c&wsABSTime=1794779923
-
 #EXTINF:-1 tvg-id="l7oqdehjnjx9r51" tvg-name="Dunbeholden FC vs Chapelton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Dunbeholden FC vs Chapelton
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=491a1e6beedaed76299794337586a1c5&wsABSTime=1794779924
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=569e75b9cf2bccc986c73f1936e800c0&wsABSTime=1794782236
 
 #EXTINF:-1 tvg-id="jw2r09h5l533rz8" tvg-name="Cavalier FC vs Treasure Beach" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Cavalier FC vs Treasure Beach
-https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=d0f7400285c6f64366155460d2aa283a&wsABSTime=1794779925
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=86a71bdda7a49ebc4b8c9d18260163e6&wsABSTime=1794782237
 
 #EXTINF:-1 tvg-id="dj2ryoh7k7p3q1z" tvg-name="Humble Lions vs Arnett Gardens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Humble Lions vs Arnett Gardens
-https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=632b2ad88619122dbb1c598783714af5&wsABSTime=1794779925
+https://live1.quickscoreboardz.com/live/channel16.m3u8?wsSecret=9d0bd3c8ef6ff61949d6fbd218b41936&wsABSTime=1794782238
 
 #EXTINF:-1 tvg-id="8yomo4hy7y8lq0j" tvg-name="Siti Worley Garden vs Montego Bay Utd" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Siti Worley Garden vs Montego Bay Utd
-https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=fccf34c82058cc6850b94ab93b8c39d0&wsABSTime=1794779926
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=e9009412a74200063706d4cf3b02b156&wsABSTime=1794782239
 
 #EXTINF:-1 tvg-id="2y8m4zhv3v79ql0" tvg-name="Racing United vs Tru-Juice FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Racing United vs Tru-Juice FC
-https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=35e7f8dbc28be3a5f3f7212121a8fdc7&wsABSTime=1794779927
+https://live1.quickscoreboardz.com/live/channel37.m3u8?wsSecret=6f5af70f7d5c6730753f92435ba029b2&wsABSTime=1794782240
 
 #EXTINF:-1 tvg-id="6ypq3nhk0k89md7" tvg-name="Molynes United vs Portmore United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[16/11 03:00 WIB] [Premier League] Molynes United vs Portmore United
-https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=ca62ccbb1b3c9c835964dcfeac58ffd5&wsABSTime=1794779928
+https://live1.quickscoreboardz.com/live/channel18.m3u8?wsSecret=295641ca33ec6bf8cf560e78c993fcc8&wsABSTime=1794782241
