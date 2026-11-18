@@ -14,25 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="2y8m4zh5lonnql0" tvg-name="Mauritania vs Burkina Faso" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Mauritania vs Burkina Faso (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnl202m0v" tvg-name="Rwanda vs Mali" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Rwanda vs Mali (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1np9xq0j" tvg-name="CH Congo vs Comoros" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",CH Congo vs Comoros (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whw1nd3ryo" tvg-name="Botswana vs Uganda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Botswana vs Uganda (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-id="jw2r09hk8z7wrz8" tvg-name="Liberia vs Cabo Verde" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Liberia vs Cabo Verde (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel22.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -65,14 +46,8 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="6ypq3nhv9zzkmd7" tvg-name="Leatherhead vs Wingate  Finchley" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeh4wr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeh4wr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:45 WIB] [Premier League] Leatherhead vs Wingate  Finchley
-https://live1.quickscoreboardz.com/live/channel1.m3u8?wsSecret=1e3f03d8d3132769201320e3357e517b&wsABSTime=1794985934
-
-#EXTINF:-1 tvg-id="2y8m4zh5o5y0ql0" tvg-name="Quorn vs Bury" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hxvrz84o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hxvrz84o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 02:45 WIB] [Premier League] Quorn vs Bury
-https://live1.quickscoreboardz.com/live/channel3.m3u8?wsSecret=606c575932de66e548dcfd8ba7637627&wsABSTime=1794985935
-
-#EXTINF:-1 tvg-id="x7lm7phj465xm2w" tvg-name="Niger vs Ma Rốc" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h70vq0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 03:00 WIB] [Africa Cup of Nations] Niger vs Ma Rốc
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
+#EXTINF:-1 tvg-id="x7lm7phxky6km2w" tvg-name="PIFA Sports vs Iron Born FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhx26qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhx26qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 11:30 WIB] [Premier League] PIFA Sports vs Iron Born FC
+https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=944f6f788e090a5396b3626460908278&wsABSTime=1795009006
 
 #EXTINF:-1 tvg-id="6ypq3nhk0793md7" tvg-name="Wuhan Lianzhen vs Jiangsu Changjin" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hwl5rz84/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[18/11 18:30 WIB] [UEFA Champions League] Wuhan Lianzhen vs Jiangsu Changjin
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=3e86393437948588cf521afa166ab5d0&wsABSTime=1794985936
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=a62310ef5aaf209af6de11544094441a&wsABSTime=1795009007
