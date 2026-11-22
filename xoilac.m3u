@@ -14,28 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="1l4rjnh90e57m7v" tvg-name="Racing Santander vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Racing Santander vs Real Sociedad (LIVE - Babak 2)
-https://live3.klerovamediadelivery.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxd7j2qo9" tvg-name="Go Ahead Eagles vs Fortuna Sittard" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Go Ahead Eagles vs Fortuna Sittard (LIVE - Babak 2)
-https://live3.klerovamediadelivery.com/live/channel17.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8d3v1qwz" tvg-name="Lorient vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lorient vs Rennes (LIVE - Halftime)
-https://live3.klerovamediadelivery.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhny65lqvy" tvg-name="Liverpool vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Liverpool vs Manchester United (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795367208-0-0-b6929ebf7bc419c14e9ea1aedd5f0650
-
-#EXTINF:-1 tvg-id="3glrw7hn5l2zqdy" tvg-name="Werder Bremen vs Hamburger SV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Werder Bremen vs Hamburger SV (LIVE - Babak 1)
-https://live3.klerovamediadelivery.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxdoevqo9" tvg-name="AC Milan vs Frosinone" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Frosinone (LIVE - Babak 1)
-https://live3.klerovamediadelivery.com/live/channel11.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -68,17 +46,23 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="zp5rzghg914vq82" tvg-name="Osasuna vs Malaga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 00:30 WIB] [La Liga] Osasuna vs Malaga
-https://live3.klerovamediadelivery.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhny8lkqvy" tvg-name="Marseille vs Le Mans" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 02:45 WIB] [Ligue 1] Marseille vs Le Mans
-https://live3.klerovamediadelivery.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwlkl4ryo" tvg-name="Atalanta vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 02:45 WIB] [Serie A Italia] Atalanta vs Inter Milan
-https://live3.klerovamediadelivery.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8k16wqwz" tvg-name="Getafe vs Atletico Madrid" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 03:00 WIB] [La Liga] Getafe vs Atletico Madrid
-https://live3.klerovamediadelivery.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-id="x7lm7phxk7oxm2w" tvg-name="Carlos Mannucci vs Club Ada Jaen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 07:30 WIB] [Liga 2 Indonesia] Carlos Mannucci vs Club Ada Jaen
-https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=3e86582a97a35cf55f8fbc78478b2b51&wsABSTime=1795410438
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8v00wqwz" tvg-name="Neftchi Fergana vs Al Hilal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:45 WIB] [AFC Champions League Elite] Neftchi Fergana vs Al Hilal
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehgveder51" tvg-name="Tractor S.C. vs Al-Wasl SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] [AFC Champions League Elite] Tractor S.C. vs Al-Wasl SC
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnlkdyqvy" tvg-name="Al-Ain FC vs Esteghlal Tehran" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] [AFC Champions League Elite] Al-Ain FC vs Esteghlal Tehran
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghgn24yq82" tvg-name="Al-Shamal Sports Club vs Al Ahli SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] [AFC Champions League Elite] Al-Shamal Sports Club vs Al Ahli SC
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkep96rz8" tvg-name="Al Quwa Al Jawiya vs Al-Gharafa Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] [AFC Champions League Elite] Al Quwa Al Jawiya vs Al-Gharafa Sports Club
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnlk1lqvy" tvg-name="Al Ittihad(KSA) vs Pakhtakor" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 01:15 WIB] [AFC Champions League Elite] Al Ittihad(KSA) vs Pakhtakor
+https://live2.jorvakstreamcache.com/live/channel16.m3u8
