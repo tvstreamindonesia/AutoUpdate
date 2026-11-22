@@ -17,8 +17,23 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="k82rekhg7pyjrep" tvg-name="Isenmulang Kalteng vs Borneo FC Samarinda" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Isenmulang Kalteng vs Borneo FC Samarinda (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795338411-0-0-8b8665d54b0b925b9d00f3a2ada850bf
+#EXTINF:-1 tvg-id="1l4rjnh90e57m7v" tvg-name="Racing Santander vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Racing Santander vs Real Sociedad (LIVE - Babak 2)
+https://live3.klerovamediadelivery.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxd7j2qo9" tvg-name="Go Ahead Eagles vs Fortuna Sittard" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Go Ahead Eagles vs Fortuna Sittard (LIVE - Babak 2)
+https://live3.klerovamediadelivery.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8d3v1qwz" tvg-name="Lorient vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lorient vs Rennes (LIVE - Halftime)
+https://live3.klerovamediadelivery.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhny65lqvy" tvg-name="Liverpool vs Manchester United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Liverpool vs Manchester United (LIVE - Babak 1)
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795367208-0-0-b6929ebf7bc419c14e9ea1aedd5f0650
+
+#EXTINF:-1 tvg-id="3glrw7hn5l2zqdy" tvg-name="Werder Bremen vs Hamburger SV" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Werder Bremen vs Hamburger SV (LIVE - Babak 1)
+https://live3.klerovamediadelivery.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-id="318q66hxdoevqo9" tvg-name="AC Milan vs Frosinone" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Milan vs Frosinone (LIVE - Babak 1)
+https://live3.klerovamediadelivery.com/live/channel11.m3u8
 
 ########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
@@ -53,35 +68,17 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="l7oqdehgzeljr51" tvg-name="Twente FC vs Willem II" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:15 WIB] [Eredivisie] Twente FC vs Willem II
-https://live2.tanrixstreamorigin.com/live/channel19.m3u8
+#EXTINF:-1 tvg-id="zp5rzghg914vq82" tvg-name="Osasuna vs Malaga" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 00:30 WIB] [La Liga] Osasuna vs Malaga
+https://live3.klerovamediadelivery.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-id="2y8m4zh5d3yzql0" tvg-name="Juventus vs Venezia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 18:30 WIB] [Serie A Italia] Juventus vs Venezia
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=1b91b9b7aa18b5ee13c8d64a39e4b638&wsABSTime=1795381612
+#EXTINF:-1 tvg-id="n54qllhny8lkqvy" tvg-name="Marseille vs Le Mans" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 02:45 WIB] [Ligue 1] Marseille vs Le Mans
+https://live3.klerovamediadelivery.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx5yvdqo9" tvg-name="Persib Bandung vs Bali United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 19:00 WIB] [Liga 1 Indonesia] Persib Bandung vs Bali United
-https://live2.tanrixstreamorigin.com/live/channel7.m3u8
+#EXTINF:-1 tvg-id="ednm9whwlkl4ryo" tvg-name="Atalanta vs Inter Milan" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 02:45 WIB] [Serie A Italia] Atalanta vs Inter Milan
+https://live3.klerovamediadelivery.com/live/channel2.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe6x3kr6o" tvg-name="Barcelona vs Villarreal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 20:00 WIB] [La Liga] Barcelona vs Villarreal
-https://live2.tanrixstreamorigin.com/live/channel1.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8k16wqwz" tvg-name="Getafe vs Atletico Madrid" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 03:00 WIB] [La Liga] Getafe vs Atletico Madrid
+https://live3.klerovamediadelivery.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h68k1kmoj" tvg-name="AFC Ajax vs ADO Den Haag" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 20:30 WIB] [Eredivisie] AFC Ajax vs ADO Den Haag
-https://live2.tanrixstreamorigin.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph4j5nwr8k" tvg-name="Sparta Rotterdam vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeheyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 20:30 WIB] [Eredivisie] Sparta Rotterdam vs AZ Alkmaar
-https://live2.tanrixstreamorigin.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hne5k5qdy" tvg-name="Hull City vs Brighton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 21:00 WIB] [Premier League] Hull City vs Brighton
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=32e4bcb480644514c9067e25e9c26012&wsABSTime=1795381618
-
-#EXTINF:-1 tvg-id="1l4rjnh9px8lm7v" tvg-name="Paris FC vs Angers" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphnzr8k0o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 21:00 WIB] [Ligue 1] Paris FC vs Angers
-https://live2.tanrixstreamorigin.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnew26qdy" tvg-name="Sassuolo vs Genoa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 21:00 WIB] [Serie A Italia] Sassuolo vs Genoa
-https://live2.tanrixstreamorigin.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjdk23m2w" tvg-name="Bologna vs Udinese" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 21:00 WIB] [Serie A Italia] Bologna vs Udinese
-https://live2.tanrixstreamorigin.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyo2odryk" tvg-name="Augsburg vs Mainz 05" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[22/11 21:30 WIB] [Bundesliga] Augsburg vs Mainz 05
-https://live2.tanrixstreamorigin.com/live/channel11.m3u8
+#EXTINF:-1 tvg-id="x7lm7phxk7oxm2w" tvg-name="Carlos Mannucci vs Club Ada Jaen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh37lr1ge/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 07:30 WIB] [Liga 2 Indonesia] Carlos Mannucci vs Club Ada Jaen
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=3e86582a97a35cf55f8fbc78478b2b51&wsABSTime=1795410438
