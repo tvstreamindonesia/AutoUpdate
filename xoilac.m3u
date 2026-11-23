@@ -17,8 +17,14 @@
 ## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
 ########################################################
 
-#EXTINF:-1 tvg-id="4jwq2ghg48l4m0v" tvg-name="Maziya S&RC vs HA Dhidhdhoo" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlh97dryk0/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlh97dryk0/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Maziya S&RC vs HA Dhidhdhoo (LIVE - Babak 1)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
+#EXTINF:-1 tvg-id="3glrw7hng5l9qdy" tvg-name="Tây Ban Nha U17 vs Fiji U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Tây Ban Nha U17 vs Fiji U17 (LIVE - Halftime)
+https://live200.kravonstreamdelivery.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="x7lm7phj2e5dm2w" tvg-name="Tajikistan U17 vs Croatia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Tajikistan U17 vs Croatia U17 (LIVE - Halftime)
+https://live200.kravonstreamdelivery.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="zp5rzghgd92lq82" tvg-name="Uzbekistan U17 vs Jamaica U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Uzbekistan U17 vs Jamaica U17 (LIVE - Babak 1)
+https://live200.kravonstreamdelivery.com/live/channel18.m3u8
 
 ########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
@@ -53,11 +59,26 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="zp5rzgh3j9x0q82" tvg-name="Al Akhdar vs Al Afreky Libya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7hwo7qdyj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7hwo7qdyj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:00 WIB] [Premier League] Al Akhdar vs Al Afreky Libya
-https://live1.quickscoreboardz.com/live/channel31.m3u8?wsSecret=a6f5b4eb472f447e3ac3141b01b6ca7b&wsABSTime=1795477482
+#EXTINF:-1 tvg-id="6ypq3nhvpo4vmd7" tvg-name="Senegal U17 vs Cuba U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:30 WIB] [Piala Dunia U-17] Senegal U17 vs Cuba U17
+https://live200.kravonstreamdelivery.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="y0or5jh8v00wqwz" tvg-name="Neftchi Fergana vs Al Hilal" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 20:45 WIB] [AFC Champions League Elite] Neftchi Fergana vs Al Hilal
 https://live200.kravonstreamdelivery.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-id="dn1m1ghlgzo8moe" tvg-name="Italy U17 vs Bờ Biển Ngà U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 21:30 WIB] [Piala Dunia U-17] Italy U17 vs Bờ Biển Ngà U17
+https://live200.kravonstreamdelivery.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="l7oqdehg9ke2r51" tvg-name="Ma Rốc U17 vs Trung Quốc U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 22:00 WIB] [Piala Dunia U-17] Ma Rốc U17 vs Trung Quốc U17
+https://live200.kravonstreamdelivery.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnhn60k5m7v" tvg-name="Al Ittihad Misurata vs Asswehly SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7hwo7qdyj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7hwo7qdyj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 22:00 WIB] [Premier League] Al Ittihad Misurata vs Asswehly SC
+https://live1.quickscoreboardz.com/live/channel38.m3u8?wsSecret=67dcfc6ccfa26f7c4861c7cb75c5ca3c&wsABSTime=1795483759
+
+#EXTINF:-1 tvg-id="y39mp1h6enp5moj" tvg-name="Việt Nam U17 vs New Zealand U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 22:30 WIB] [Piala Dunia U-17] Việt Nam U17 vs New Zealand U17
+https://live200.kravonstreamdelivery.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph47655r8k" tvg-name="Mali U17 vs Bỉ U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 22:30 WIB] [Piala Dunia U-17] Mali U17 vs Bỉ U17
+https://live200.kravonstreamdelivery.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-id="l7oqdehgveder51" tvg-name="Tractor S.C. vs Al-Wasl SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[23/11 23:00 WIB] [AFC Champions League Elite] Tractor S.C. vs Al-Wasl SC
 https://live200.kravonstreamdelivery.com/live/channel11.m3u8
@@ -75,10 +96,13 @@ https://live200.kravonstreamdelivery.com/live/channel24.m3u8
 https://live200.kravonstreamdelivery.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkdlynrz8" tvg-name="Monza vs Fiorentina" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 02:45 WIB] [Serie A Italia] Monza vs Fiorentina
-https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=06847e6cce1de9aa9ab9450369ae83c4&wsABSTime=1795477486
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=effd3ceae0ddb05428c25326ebbece63&wsABSTime=1795483763
 
 #EXTINF:-1 tvg-id="965mkyhk9xler1g" tvg-name="Brentford vs Everton" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] [Premier League] Brentford vs Everton
 https://live200.kravonstreamdelivery.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhn6d1yqvy" tvg-name="Levante vs Elche CF" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 03:00 WIB] [La Liga] Levante vs Elche CF
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=73d62b653ca4a706a2221c415f9c3b9a&wsABSTime=1795477488
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=30db69d91dab22817f4efe9e446dfd40&wsABSTime=1795483767
+
+#EXTINF:-1 tvg-id="zp5rzgh3j3dpq82" tvg-name="Tru-Juice FC vs Dunbeholden FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[24/11 05:00 WIB] [Premier League] Tru-Juice FC vs Dunbeholden FC
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=1637fffebc8dd71cb7f3302cac494f03&wsABSTime=1795483769
