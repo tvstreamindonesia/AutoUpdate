@@ -17,6 +17,69 @@ const DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi
 const DEFAULT_LOGO = 'https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067608762978';
 const OUTPUT_FILE = path.join(__dirname, 'livesports.m3u');
 
+const TRANSLATION_MAP = {
+    // Badminton stages & terms
+    'round of 32': 'Babak 32 Besar',
+    'round of 16': 'Babak 16 Besar',
+    'round of 8': 'Babak 8 Besar',
+    'quarter-final': 'Perempat Final',
+    'quarterfinal': 'Perempat Final',
+    'quarter finals': 'Perempat Final',
+    'quarter final': 'Perempat Final',
+    'semi-final': 'Semifinal',
+    'semifinal': 'Semifinal',
+    'semi finals': 'Semifinal',
+    'semi final': 'Semifinal',
+    'final': 'Final',
+    'day 1': 'Hari 1',
+    'day 2': 'Hari 2',
+    'day 3': 'Hari 3',
+    'day 4': 'Hari 4',
+    'day 5': 'Hari 5',
+    'day 6': 'Hari 6',
+    'day 7': 'Hari 7',
+    'court 1': 'Lapangan 1',
+    'court 2': 'Lapangan 2',
+    'court 3': 'Lapangan 3',
+    'court 4': 'Lapangan 4',
+    'court 5': 'Lapangan 5',
+    // Countries & Teams
+    'chinese taipei': 'Taiwan',
+    'philippines': 'Filipina',
+    'singapore': 'Singapura',
+    'thailand': 'Thailand',
+    'malaysia': 'Malaysia',
+    'indonesia': 'Indonesia',
+    'japan': 'Jepang',
+    'south korea': 'Korea Selatan',
+    'north korea': 'Korea Utara',
+    'korea': 'Korea',
+    'china': 'China',
+    'denmark': 'Denmark',
+    'england': 'Inggris',
+    'france': 'Prancis',
+    'germany': 'Jerman',
+    'spain': 'Spanyol',
+    'india': 'India',
+    // Tournaments
+    'international friendly': 'Laga Persahabatan',
+    'u-17 asian cup': 'Piala Asia U-17',
+    'asian cup': 'Piala Asia',
+    'world cup': 'Piala Dunia'
+};
+
+function translateToIndonesian(text) {
+    if (!text) return text;
+    let res = text;
+    const sorted = Object.entries(TRANSLATION_MAP).sort((a, b) => b[0].length - a[0].length);
+    for (const [k, v] of sorted) {
+        const escaped = k.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+        const reg = new RegExp('\\b' + escaped + '\\b', 'gi');
+        res = res.replace(reg, v);
+    }
+    return res;
+}
+
 async function scrapeLiveMatchesFromHomepage(page) {
     console.log(`[INFO] Mengakses halaman utama: ${TARGET_HOME}...`);
 
@@ -221,6 +284,12 @@ async function main() {
 
     const liveMatches = await scrapeLiveMatchesFromHomepage(homePage);
     await homePage.close().catch(() => {});
+
+    liveMatches.forEach(m => {
+        m.fullTitle = translateToIndonesian(m.fullTitle);
+        m.matchTitle = translateToIndonesian(m.matchTitle);
+        m.tournament = translateToIndonesian(m.tournament);
+    });
 
     console.log(`[INFO] Ditemukan ${liveMatches.length} pertandingan berstatus LIVE:`);
     liveMatches.forEach((m, idx) => {

@@ -28,6 +28,165 @@ from config import (
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
+# ==============================================================================
+# VIETNAMESE & INTERNATIONAL TO INDONESIAN TRANSLATION DICTIONARY
+# ==============================================================================
+VIETNAMESE_TO_INDONESIAN_MAP = {
+    # Countries & National Teams
+    "tây ban nha": "Spanyol",
+    "bồ đào nha": "Portugal",
+    "bờ biển ngà": "Pantai Gading",
+    "ma rốc": "Maroko",
+    "maroc": "Maroko",
+    "morocco": "Maroko",
+    "trung quốc": "China",
+    "trung hoa": "China",
+    "đài loan": "Taiwan",
+    "đài bắc trung hoa": "Taiwan",
+    "chinese taipei": "Taiwan",
+    "hồng kông": "Hong Kong",
+    "hong kong": "Hong Kong",
+    "ma cao": "Makau",
+    "macau": "Makau",
+    "triều tiên": "Korea Utara",
+    "bắc triều tiên": "Korea Utara",
+    "north korea": "Korea Utara",
+    "hàn quốc": "Korea Selatan",
+    "nam triều tiên": "Korea Selatan",
+    "south korea": "Korea Selatan",
+    "nhật bản": "Jepang",
+    "japan": "Jepang",
+    "thái lan": "Thailand",
+    "việt nam": "Vietnam",
+    "viet nam": "Vietnam",
+    "mã lai": "Malaysia",
+    "sing-ga-po": "Singapura",
+    "singapore": "Singapura",
+    "phi-líp-pin": "Filipina",
+    "philippines": "Filipina",
+    "miến điện": "Myanmar",
+    "campuchia": "Kamboja",
+    "cambodia": "Kamboja",
+    "lào": "Laos",
+    "laos": "Laos",
+    "đông timor": "Timor Leste",
+    "timor-leste": "Timor Leste",
+    "ấn độ": "India",
+    "india": "India",
+    "ả rập xê út": "Arab Saudi",
+    "saudi arabia": "Arab Saudi",
+    "các tiểu vương quốc ả rập thống nhất": "Uni Emirat Arab",
+    "uae": "Uni Emirat Arab",
+    "thổ nhĩ kỳ": "Turki",
+    "turkey": "Turki",
+    "ai cập": "Mesir",
+    "egypt": "Mesir",
+    "nam phi": "Afrika Selatan",
+    "south africa": "Afrika Selatan",
+    "cộng hòa séc": "Republik Ceko",
+    "séc": "Ceko",
+    "czechia": "Ceko",
+    "czech republic": "Ceko",
+    "bắc ireland": "Irlandia Utara",
+    "northern ireland": "Irlandia Utara",
+    "cộng hòa ireland": "Republik Irlandia",
+    "ireland": "Irlandia",
+    "xứ wales": "Wales",
+    "scotland": "Skotlandia",
+    "bỉ": "Belgia",
+    "belgium": "Belgia",
+    "đức": "Jerman",
+    "germany": "Jerman",
+    "hà lan": "Belanda",
+    "netherlands": "Belanda",
+    "holland": "Belanda",
+    "pháp": "Prancis",
+    "france": "Prancis",
+    "anh": "Inggris",
+    "england": "Inggris",
+    "nga": "Rusia",
+    "russia": "Rusia",
+    "ukraina": "Ukraina",
+    "ukraine": "Ukraina",
+    "ba lan": "Polandia",
+    "poland": "Polandia",
+    "thụy sĩ": "Swiss",
+    "switzerland": "Swiss",
+    "thụy điển": "Swedia",
+    "sweden": "Swedia",
+    "na uy": "Norwegia",
+    "norway": "Norwegia",
+    "đan mạch": "Denmark",
+    "denmark": "Denmark",
+    "phần lan": "Finlandia",
+    "finland": "Finlandia",
+    "áo": "Austria",
+    "austria": "Austria",
+    "hung-ga-ri": "Hungaria",
+    "hungary": "Hungaria",
+    "hy lạp": "Yunani",
+    "greece": "Yunani",
+    "croatia": "Kroasia",
+    "new zealand": "Selandia Baru",
+    "úc": "Australia",
+    "australia": "Australia",
+    "fiji": "Fiji",
+    "jamaica": "Jamaika",
+    "cuba": "Kuba",
+    "hoa kỳ": "Amerika Serikat",
+    "mỹ": "Amerika Serikat",
+    "usa": "Amerika Serikat",
+    "brazin": "Brasil",
+    "brazil": "Brasil",
+    "italy": "Italia",
+    "ý": "Italia",
+    "algeria": "Aljazair",
+    "algérie": "Aljazair",
+    "morocco": "Maroko",
+    "ivory coast": "Pantai Gading",
+    "côte d'ivoire": "Pantai Gading",
+    "colombia": "Kolombia",
+    "mexico": "Meksiko",
+    "costa rica": "Kosta Rika",
+    "chile": "Chili",
+    "ecuador": "Ekuador",
+    "cameroon": "Kamerun",
+    "kyrgyzstan": "Kirgistan",
+    "jordan": "Yordania",
+    "syria": "Suriah",
+    "iraq": "Irak",
+    "yemen": "Yaman",
+    "palestine": "Palestina",
+    "bắc mariana": "Kepulauan Mariana Utara",
+    # Tournament / Match words
+    "vòng loại": "Kualifikasi",
+    "giao hữu quốc tế": "Laga Persahabatan",
+    "giao hữu": "Persahabatan",
+    "thế giới": "Piala Dunia",
+    "châu á": "Asia",
+    "châu âu": "Eropa",
+    "chung kết": "Final",
+    "bán kết": "Semifinal",
+    "tứ kết": "Perempat Final"
+}
+
+_SORTED_TRANSLATION_KEYS = sorted(VIETNAMESE_TO_INDONESIAN_MAP.keys(), key=lambda k: len(k), reverse=True)
+
+
+def translate_to_indonesian(text: str) -> str:
+    """
+    Translates Vietnamese/International team names, country names,
+    and competition phrases to clean Bahasa Indonesia.
+    """
+    if not text:
+        return text
+    res = text
+    for k in _SORTED_TRANSLATION_KEYS:
+        val = VIETNAMESE_TO_INDONESIAN_MAP[k]
+        pattern = r'(?i)(?<![\w\u00C0-\u024F\u1EA0-\u1EF9])' + re.escape(k) + r'(?![\w\u00C0-\u024F\u1EA0-\u1EF9])'
+        res = re.sub(pattern, val, res)
+    return res
+
 
 class MatchScraper:
     def __init__(self):
@@ -280,14 +439,14 @@ class MatchScraper:
                 if data_status in ["5", "6"] or any(
                     k in status_text for k in ["hiệp phụ", "extra time", "overtime", "et", "aet", "hiệp phụ 1", "hiệp phụ 2"]
                 ):
-                    live_status_tag = "Extra Time"
+                    live_status_tag = "Babak Tambahan"
                 # Detect Penalty Shootout (Adu Penalti)
                 elif data_status == "7" or any(
                     k in status_text for k in ["pen", "luân lưu", "penalty", "penalties", "pk"]
                 ):
                     live_status_tag = "Adu Penalti"
                 elif data_status == "3" or "ht" in status_text:
-                    live_status_tag = "Halftime"
+                    live_status_tag = "Turun Minum"
                 elif data_status == "2":
                     live_status_tag = "Babak 1"
                 elif data_status == "4":
@@ -320,19 +479,27 @@ class MatchScraper:
             if detail_path:
                 detail_url = detail_path if detail_path.startswith("http") else base_url + detail_path
 
+            # Translate team names to Indonesian
+            home_team_id = translate_to_indonesian(home_name)
+            away_team_id = translate_to_indonesian(away_name)
+
             # Whitelist match check
-            category, comp_name = self.filter_competition(league_name, home_name, away_name)
+            category, comp_name = self.filter_competition(league_name, home_team_id, away_team_id)
+            if not category:
+                category, comp_name = self.filter_competition(league_name, home_name, away_name)
             if not category:
                 return None  # Excluded by whitelist
 
+            comp_display = comp_name or translate_to_indonesian(league_name)
+
             return {
-                "match_id": fid or f"{home_name}_vs_{away_name}".replace(" ", "_"),
-                "home_team": home_name,
-                "away_team": away_name,
+                "match_id": fid or f"{home_team_id}_vs_{away_team_id}".replace(" ", "_"),
+                "home_team": home_team_id,
+                "away_team": away_team_id,
                 "home_logo": home_logo,
                 "away_logo": away_logo,
                 "category": category,
-                "competition": comp_name or league_name,
+                "competition": comp_display,
                 "league_raw": league_name,
                 "league_logo": league_logo,
                 "kickoff_ts": kickoff_ts,
