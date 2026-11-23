@@ -68,6 +68,8 @@ Sistem telah dikonfigurasi dengan aturan regex dan filter pengecualian khusus un
    - Mencakup Piala Asia, Kualifikasi Piala Dunia, AFF / ASEAN Cup, SEA Games, dan agenda FIFA Matchday.
 7. **Turnamen Bergengsi**:
    - FIFA World Cup & Kualifikasi Piala Dunia
+   - FIFA U-17 World Cup (Piala Dunia U-17) & Kualifikasi Piala Dunia U-17
+   - FIFA U-20 World Cup (Piala Dunia U-20)
    - UEFA EURO
    - Copa América
    - Africa Cup of Nations (AFCON / CAN)

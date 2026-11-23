@@ -97,12 +97,19 @@ async function scrapeLiveMatchesFromHomepage(page) {
             const imgEl = el.querySelector('img');
             const logo = imgEl ? (imgEl.src || defaultLogo) : defaultLogo;
 
+            let fullTitle = tournament ? `[${tournament}] ${matchTitle}` : matchTitle;
+            if ((textLower.includes('indonesia') || hrefLower.includes('indonesia')) && (textLower.includes('u-17') || textLower.includes('u17'))) {
+                if (!fullTitle.includes('Timnas Indonesia')) {
+                    fullTitle = `[Timnas Indonesia U-17] ${fullTitle}`;
+                }
+            }
+
             results.push({
                 matchId,
                 href,
                 tournament,
                 matchTitle,
-                fullTitle: tournament ? `[${tournament}] ${matchTitle}` : matchTitle,
+                fullTitle,
                 sport,
                 groupTitle,
                 category,

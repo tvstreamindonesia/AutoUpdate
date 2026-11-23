@@ -245,6 +245,24 @@ COMPETITION_WHITELIST = [
     # ---------------- 6. Turnamen Bergengsi ----------------
     {
         "category": "Turnamen Bergengsi",
+        "competition": "Piala Dunia U-17",
+        "pattern": r"(?i)\b(fifa\s*u-?17\s*world\s*cup|u-?17\s*world\s*cup|world\s*cup\s*u-?17|piala\s*dunia\s*u-?17|piala\s*dunia\s*u17|u-?17\s*thế\s*giới|u17\s*world\s*cup)\b",
+        "exclude": r"(?i)(women|nữ|futsal|club)"
+    },
+    {
+        "category": "Turnamen Bergengsi",
+        "competition": "Kualifikasi Piala Dunia U-17",
+        "pattern": r"(?i)\b(kualifikasi\s*piala\s*dunia\s*u-?17|vòng\s*loại\s*(?:u-?17\s*world\s*cup|u-?17\s*thế\s*giới)|u-?17\s*world\s*cup\s*qualif)\b",
+        "exclude": r"(?i)(women|nữ|futsal)"
+    },
+    {
+        "category": "Turnamen Bergengsi",
+        "competition": "Piala Dunia U-20",
+        "pattern": r"(?i)\b(fifa\s*u-?20\s*world\s*cup|u-?20\s*world\s*cup|world\s*cup\s*u-?20|piala\s*dunia\s*u-?20|piala\s*dunia\s*u20|u-?20\s*thế\s*giới|u20\s*world\s*cup)\b",
+        "exclude": r"(?i)(women|nữ|futsal|club)"
+    },
+    {
+        "category": "Turnamen Bergengsi",
         "competition": "FIFA World Cup",
         "pattern": r"(?i)\b(fifa\s*world\s*cup|world\s*cup|piala\s*dunia)\b",
         "exclude": r"(?i)(kualifikasi|qualification|vòng\s*loại|u20|u17|club)"

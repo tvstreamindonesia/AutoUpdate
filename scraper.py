@@ -51,19 +51,35 @@ class MatchScraper:
         a_low = a_clean.lower()
 
         # Priority Check: Timnas Indonesia (Senior, U-23, U-20, U-17, Putri)
-        if "indonesia" in h_low or "indonesia" in a_low:
-            team_str = h_clean if "indonesia" in h_low else a_clean
+        is_indonesia = (
+            "indonesia" in h_low or "indonesia" in a_low or
+            re.search(r"\b(idn|ina)\b", h_low) or re.search(r"\b(idn|ina)\b", a_low)
+        )
+        if is_indonesia:
+            team_str = h_clean if ("indonesia" in h_low or re.search(r"\b(idn|ina)\b", h_low)) else a_clean
             team_low = team_str.lower()
-            if "u-23" in team_low or "u23" in team_low:
+            league_low = (league_clean or "").lower()
+            is_wc = any(w in league_low for w in ["world cup", "piala dunia", "thế giới"])
+
+            if "u-17" in team_low or "u17" in team_low or "u-17" in league_low or "u17" in league_low:
+                if is_wc:
+                    comp = "Timnas Indonesia U-17 (Piala Dunia U-17)"
+                else:
+                    comp = "Timnas Indonesia U-17"
+            elif "u-20" in team_low or "u20" in team_low or "u-20" in league_low or "u20" in league_low:
+                if is_wc:
+                    comp = "Timnas Indonesia U-20 (Piala Dunia U-20)"
+                else:
+                    comp = "Timnas Indonesia U-20"
+            elif "u-23" in team_low or "u23" in team_low or "u-23" in league_low or "u23" in league_low:
                 comp = "Timnas Indonesia U-23"
-            elif "u-20" in team_low or "u20" in team_low:
-                comp = "Timnas Indonesia U-20"
-            elif "u-17" in team_low or "u17" in team_low:
-                comp = "Timnas Indonesia U-17"
             elif any(k in team_low for k in ["putri", "women", "nữ"]):
                 comp = "Timnas Putri Indonesia"
             else:
-                comp = "Timnas Indonesia Senior"
+                if is_wc:
+                    comp = "Timnas Indonesia (Piala Dunia)"
+                else:
+                    comp = "Timnas Indonesia Senior"
             return "Timnas Indonesia", comp
 
         # Check against Whitelist Competitions
