@@ -14,19 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="l5ergphk095gr8k" tvg-name="Al Duhail Sports Club vs Neom SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Al Duhail Sports Club vs Neom SC (LIVE - Babak 2)
-https://live200.kravonstreamdelivery.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwjy0dryo" tvg-name="FK Bodo Glimt vs LASK Linz" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",FK Bodo Glimt vs LASK Linz (LIVE - Babak 1)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001795544346-0-0-549daf0e7700c956c1896e77c989c71f
-
-#EXTINF:-1 tvg-id="zp5rzghgnv64q82" tvg-name="Galatasaray vs Aston Villa" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Galatasaray vs Aston Villa (LIVE - Babak 1)
-https://live200.kravonstreamdelivery.com/live/channel1.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -59,35 +46,62 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="3glrw7hnxllnqdy" tvg-name="Al Nassr vs Al-Sadd Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 01:15 WIB] [AFC Champions League Elite] Al Nassr vs Al-Sadd Sports Club
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=b3737898d2cf2a8555bc4f358cd4be6e&wsABSTime=1795587559
-
-#EXTINF:-1 tvg-id="1l4rjnh98o4lm7v" tvg-name="Manchester City vs Napoli" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] Manchester City vs Napoli
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001795544353-0-0-6c393e100c660eee7748b907caeb1eb9
-
-#EXTINF:-1 tvg-id="965mkyhkjd11r1g" tvg-name="Arsenal vs Dortmund" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] Arsenal vs Dortmund
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795544355-0-0-9e528b410379a39b9bff97bc06da6dc9
-
-#EXTINF:-1 tvg-id="23xmvkh6e1ywqg8" tvg-name="Slovan Bratislava vs Real Betis" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] Slovan Bratislava vs Real Betis
-https://live200.kravonstreamdelivery.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-id="jw2r09hkey03rz8" tvg-name="Como vs AEK Athens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] Como vs AEK Athens
-https://live200.kravonstreamdelivery.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-id="n54qllhnlgnkqvy" tvg-name="RB Leipzig vs RC Lens" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] RB Leipzig vs RC Lens
-https://live1.quickscoreboardz.com/live/channel24.m3u8?wsSecret=3f330f106112bc17b163c0d512d9efea&wsABSTime=1795587562
-
-#EXTINF:-1 tvg-id="x7lm7phjly39m2w" tvg-name="Feyenoord vs FC Porto" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] Feyenoord vs FC Porto
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=490f65c2a68bd481977a75dcab2c764e&wsABSTime=1795587563
-
-#EXTINF:-1 tvg-id="zp5rzghgnvg4q82" tvg-name="Real Madrid vs PSV Eindhoven" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 03:00 WIB] [UEFA Champions League] Real Madrid vs PSV Eindhoven
-https://live200.kravonstreamdelivery.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-id="vjxm8ghen283r6o" tvg-name="Melbourne Victory vs Thể Công Viettel" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 14:45 WIB] [Kompetisi Resmi AFC] Melbourne Victory vs Thể Công Viettel
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795544365-0-0-79cd8ea7c77c58d195d75e951b9275ea
+https://live200.kravonstreamdelivery.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh524pvql0" tvg-name="Gamba Osaka vs Port FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 17:00 WIB] [AFC Champions League Elite] Gamba Osaka vs Port FC
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795544365-0-0-79cd8ea7c77c58d195d75e951b9275ea
+https://live200.kravonstreamdelivery.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="n54qllhnlkzlqvy" tvg-name="Kashima Antlers vs Jeonbuk Hyundai" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4hg66q0j6/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 17:00 WIB] [AFC Champions League Elite] Kashima Antlers vs Jeonbuk Hyundai
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795544366-0-0-76111554c3ab6f01792c7dbc4982af0a
+https://live200.kravonstreamdelivery.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-id="vjxm8ghen28kr6o" tvg-name="Persib Bandung vs Seoul FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 19:15 WIB] [Kompetisi Resmi AFC] Persib Bandung vs Seoul FC
+https://live200.kravonstreamdelivery.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="y39mp1hdvevzmoj" tvg-name="Shabab Sahel SC vs Al Ansar SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7hwylqdyj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7hwylqdyj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 19:15 WIB] [Premier League] Shabab Sahel SC vs Al Ansar SC
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=dcbddf2e4cc159ac6cd1788586220a51&wsABSTime=1795617648
+
+#EXTINF:-1 tvg-id="4jwq2ghn5j6lm0v" tvg-name="Ekuador U17 vs Korea Selatan U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 19:30 WIB] [Piala Dunia U-17] Ekuador U17 vs Korea Selatan U17
+https://live200.kravonstreamdelivery.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph476lwr8k" tvg-name="Uganda U17 vs New Caledonia U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 19:30 WIB] [Piala Dunia U-17] Uganda U17 vs New Caledonia U17
+https://live200.kravonstreamdelivery.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-id="965mkyhk0x57r1g" tvg-name="Haiti U17 vs Arab Saudi U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 20:30 WIB] [Piala Dunia U-17] Haiti U17 vs Arab Saudi U17
+https://live200.kravonstreamdelivery.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-id="y0or5jh8wk6kqwz" tvg-name="Uruguay U17 vs Prancis U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 20:30 WIB] [Piala Dunia U-17] Uruguay U17 vs Prancis U17
+https://live200.kravonstreamdelivery.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hnxl10qdy" tvg-name="Nasaf Qarshi vs Al Khaldiya" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 20:45 WIB] [Kompetisi Resmi AFC] Nasaf Qarshi vs Al Khaldiya
+https://live200.kravonstreamdelivery.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09h54o94rz8" tvg-name="Kazma vs Erbil SC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 21:00 WIB] [UEFA Champions League] Kazma vs Erbil SC
+https://live200.kravonstreamdelivery.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhvpoevmd7" tvg-name="Panama U17 vs Mesir U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 21:30 WIB] [Piala Dunia U-17] Panama U17 vs Mesir U17
+https://live200.kravonstreamdelivery.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-id="ednm9whwp4x8ryo" tvg-name="Yunani U17 vs Qatar U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 21:30 WIB] [Piala Dunia U-17] Yunani U17 vs Qatar U17
+https://live200.kravonstreamdelivery.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkgv6krz8" tvg-name="Australia U17 vs Mozambique U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 22:30 WIB] [Piala Dunia U-17] Australia U17 vs Mozambique U17
+https://live200.kravonstreamdelivery.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="1l4rjnh9d028m7v" tvg-name="Denmark U17 vs Argentina U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 22:30 WIB] [Piala Dunia U-17] Denmark U17 vs Argentina U17
+https://live200.kravonstreamdelivery.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09h54o74rz8" tvg-name="Shab Hadramawt vs Al-Shabab SC (Seeb)" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghl0q82w1/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 22:30 WIB] [UEFA Champions League] Shab Hadramawt vs Al-Shabab SC (Seeb)
+https://live1.quickscoreboardz.com/live/channel19.m3u8?wsSecret=5273f4334676a977dba884f157cc701c&wsABSTime=1795617655
+
+#EXTINF:-1 tvg-id="1l4rjnh9831gm7v" tvg-name="Al-Jazira(Uni Emirat Arab) vs Gol Gohar FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 23:00 WIB] [Kompetisi Resmi AFC] Al-Jazira(Uni Emirat Arab) vs Gol Gohar FC
+https://live200.kravonstreamdelivery.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="jw2r09hkepxlrz8" tvg-name="Al-Muharraq vs Arkadag FK" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 23:00 WIB] [Kompetisi Resmi AFC] Al-Muharraq vs Arkadag FK
+https://live200.kravonstreamdelivery.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="n54qllhnlkx7qvy" tvg-name="Al-Faisaly Amman vs Al-Rayyan Sports Club" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[25/11 23:00 WIB] [Kompetisi Resmi AFC] Al-Faisaly Amman vs Al-Rayyan Sports Club
+https://live200.kravonstreamdelivery.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="l5ergph4zx4xr8k" tvg-name="Sabah FK vs Barcelona" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 00:45 WIB] [UEFA Champions League] Sabah FK vs Barcelona
+https://live200.kravonstreamdelivery.com/live/channel1.m3u8
