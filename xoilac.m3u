@@ -14,6 +14,19 @@
 # ==============================================================================
 
 ########################################################
+## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
+########################################################
+
+#EXTINF:-1 tvg-id="318q66hx97j0qo9" tvg-name="Tai Po vs Adelaide United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Tai Po vs Adelaide United (LIVE - Babak 1)
+https://live3979.zundrixmediapipeline.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghn80x3m0v" tvg-name="BG Pathum United vs Lion City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",BG Pathum United vs Lion City (LIVE - Babak 1)
+https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-id="6ypq3nhv24l7md7" tvg-name="Svay Rieng FC vs Machida Zelvia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Svay Rieng FC vs Machida Zelvia (LIVE - Babak 1)
+https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
+
+########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -46,27 +59,6 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ## [JADWAL] PERTANDINGAN MENDATANG
 ########################################################
 
-#EXTINF:-1 tvg-id="vjxm8ghezdgpr6o" tvg-name="Borneo FC Samarinda vs Persita" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 15:30 WIB] [Liga 1 Indonesia] Borneo FC Samarinda vs Persita
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh6eg4jqg8" tvg-name="Gangwon FC vs Kitchee" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 17:00 WIB] [Kompetisi Resmi AFC] Gangwon FC vs Kitchee
-https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwjdgjryo" tvg-name="Kuching City FC vs Phnom Penh Crown" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 17:00 WIB] [Kompetisi Resmi AFC] Kuching City FC vs Phnom Penh Crown
-https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjl59vm2w" tvg-name="Tampines Rovers vs Shanghai Shenhua" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 17:00 WIB] [Kompetisi Resmi AFC] Tampines Rovers vs Shanghai Shenhua
-https://live3979.zundrixmediapipeline.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-id="318q66hx97j0qo9" tvg-name="Tai Po vs Adelaide United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 19:15 WIB] [Kompetisi Resmi AFC] Tai Po vs Adelaide United
-https://live3979.zundrixmediapipeline.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn80x3m0v" tvg-name="BG Pathum United vs Lion City" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 19:15 WIB] [Kompetisi Resmi AFC] BG Pathum United vs Lion City
-https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="6ypq3nhv24l7md7" tvg-name="Svay Rieng FC vs Machida Zelvia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 19:15 WIB] [Kompetisi Resmi AFC] Svay Rieng FC vs Machida Zelvia
-https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-id="ednm9whwp42gryo" tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[26/11 20:00 WIB] [Piala Dunia U-17] Vietnam U17 vs Mali U17
 https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
 
@@ -92,7 +84,7 @@ https://live3979.zundrixmediapipeline.com/live/channel20.m3u8
 https://live3979.zundrixmediapipeline.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-id="2y8m4zh52e6pql0" tvg-name="Mochudi Centre Chiefs vs Orapa United" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h437q86p/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h437q86p/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:00 WIB] [Premier League] Mochudi Centre Chiefs vs Orapa United
-https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=d5478a535a96f756bf227ce369a0e044&wsABSTime=1795705602
+https://live1.quickscoreboardz.com/live/channel4.m3u8?wsSecret=c0bde7334219f4a00334ab172564b046&wsABSTime=1795738859
 
 #EXTINF:-1 tvg-id="1l4rjnh98vkom7v" tvg-name="Marseille vs Levski Sofia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 00:45 WIB] [UEFA Europa League] Marseille vs Levski Sofia
 https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
@@ -119,10 +111,10 @@ https://live3979.zundrixmediapipeline.com/live/channel2.m3u8
 https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-id="vjxm8ghk4z45r6o" tvg-name="TSV 1860 Munchen (Y) vs FSV Pfaffenhofen" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/8y39mp1hjoemojx/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/8y39mp1hjoemojx/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 01:30 WIB] [Bundesliga] TSV 1860 Munchen (Y) vs FSV Pfaffenhofen
-https://live1.quickscoreboardz.com/live/channel8.m3u8?wsSecret=da987632ff94394fcf484281c42cd41c&wsABSTime=1795705611
+https://live1.quickscoreboardz.com/live/channel30.m3u8?wsSecret=910902b4770b1a2ac82f45c081b64bb8&wsABSTime=1795738865
 
 #EXTINF:-1 tvg-id="vjxm8ghen43lr6o" tvg-name="Stoke City U21 vs Milan Futuro" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 02:00 WIB] [Premier League] Stoke City U21 vs Milan Futuro
-https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=ffe0c7788c77c5c038f79f62dbda99d3&wsABSTime=1795705612
+https://live1.quickscoreboardz.com/live/channel10.m3u8?wsSecret=6aeba3dc3ec754f3f99b7569f1cf4d68&wsABSTime=1795738866
 
 #EXTINF:-1 tvg-id="4jwq2ghn8lp4m0v" tvg-name="SCU Torreense vs Celtic FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] [UEFA Europa League] SCU Torreense vs Celtic FC
 https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
@@ -137,7 +129,7 @@ https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
 https://live3979.zundrixmediapipeline.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-id="dn1m1ghl561emoe" tvg-name="OFI Crete FC vs Anderlecht" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] [UEFA Europa League] OFI Crete FC vs Anderlecht
-https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=95215f040938c9c738fb8ea8777a7fa5&wsABSTime=1795705617
+https://live1.quickscoreboardz.com/live/channel12.m3u8?wsSecret=fbc7b24b338ff66e0779e8248b6ed9a1&wsABSTime=1795738869
 
 #EXTINF:-1 tvg-id="k82rekhg5ln3rep" tvg-name="AC Sparta Praha vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] [UEFA Europa League] AC Sparta Praha vs AZ Alkmaar
 https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
@@ -146,10 +138,10 @@ https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
 https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-id="pxwrxlhy6dzxryk" tvg-name="Lyon vs Lillestrom" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] [UEFA Europa League] Lyon vs Lillestrom
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=6ea26b1df9238b9dc2a06064e0923e0d&wsABSTime=1795705621
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=f77bdc52498723389988bf85f6d81853&wsABSTime=1795738871
 
 #EXTINF:-1 tvg-id="x7lm7phjl40xm2w" tvg-name="Ferencvarosi TC vs NK Publikum Celje" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] [UEFA Europa League] Ferencvarosi TC vs NK Publikum Celje
-https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=8df368ca0705a0048d7859f482cf08af&wsABSTime=1795705622
+https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=bea1174d135f858ee831bb4c1ae50aec&wsABSTime=1795738872
 
 #EXTINF:-1 tvg-id="y39mp1h6x7j7moj" tvg-name="TSG Hoffenheim vs Sturm Graz" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 03:00 WIB] [UEFA Europa League] TSG Hoffenheim vs Sturm Graz
 https://live3979.zundrixmediapipeline.com/live/channel24.m3u8
