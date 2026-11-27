@@ -14,43 +14,6 @@
 # ==============================================================================
 
 ########################################################
-## [LIVE] PERTANDINGAN SEDANG BERLANGSUNG
-########################################################
-
-#EXTINF:-1 tvg-id="vjxm8ghen43lr6o" tvg-name="Stoke City U21 vs Milan Futuro" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2ghvwnm0ve/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Stoke City U21 vs Milan Futuro (LIVE - Babak 2)
-https://live2.jorvakstreamcache.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhy6dzxryk" tvg-name="Lyon vs Lillestrom" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Lyon vs Lillestrom (LIVE - Turun Minum)
-https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795729692-0-0-80ba80b9934e63fa5fdbdfcc1041c999
-
-#EXTINF:-1 tvg-id="pxwrxlhy6d70ryk" tvg-name="Sunderland vs Jagiellonia" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Sunderland vs Jagiellonia (LIVE - Babak 1)
-https://live3979.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1wnvxq0j" tvg-name="Juventus vs Omonia FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Juventus vs Omonia FC (LIVE - Babak 1)
-https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h1wn2vq0j" tvg-name="Crystal Palace vs Real Sociedad" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Crystal Palace vs Real Sociedad (LIVE - Turun Minum)
-https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn8lp4m0v" tvg-name="SCU Torreense vs Celtic FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",SCU Torreense vs Celtic FC (LIVE - Babak 1)
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhkjpnjr1g" tvg-name="NEC Nijmegen vs Rennes" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",NEC Nijmegen vs Rennes (LIVE - Babak 1)
-https://live3979.zundrixmediapipeline.com/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl561emoe" tvg-name="OFI Crete FC vs Anderlecht" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",OFI Crete FC vs Anderlecht (LIVE - Babak 1)
-https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795729709-0-0-bfdd32353f6be72a926eb83ca61118c7
-
-#EXTINF:-1 tvg-id="k82rekhg5ln3rep" tvg-name="AC Sparta Praha vs AZ Alkmaar" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",AC Sparta Praha vs AZ Alkmaar (LIVE - Babak 1)
-https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjl40xm2w" tvg-name="Ferencvarosi TC vs NK Publikum Celje" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",Ferencvarosi TC vs NK Publikum Celje (LIVE - Babak 1)
-https://live2.streamhaulcdn.com/livecdn/channel-22.flv?auth_key=3000001795729715-0-0-712b7b35efceea7760db8458573955e8
-
-#EXTINF:-1 tvg-id="y39mp1h6x7j7moj" tvg-name="TSG Hoffenheim vs Sturm Graz" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh0xmd7oj/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",TSG Hoffenheim vs Sturm Graz (LIVE - Babak 1)
-https://live3979.zundrixmediapipeline.com/live/channel24.m3u8
-
-########################################################
 ## [LIVESPORTS808] SEPAK BOLA & BADMINTON LIVE
 ########################################################
 
@@ -84,16 +47,16 @@ https://ddy2-cf.sbbol1011play.sbs/auth%3D0ad70f61ad56353e1b62b103a7722a468edcc2c
 ########################################################
 
 #EXTINF:-1 tvg-id="k82rekh2zydlrep" tvg-name="Bangladesh Police vs Abahani Limited" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] [Premier League] Bangladesh Police vs Abahani Limited
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=05b001be3823e1f96fc22ae9238d6729&wsABSTime=1795772919
+https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=c8327a01da61409ad77b657b749ec3f4&wsABSTime=1795794794
 
 #EXTINF:-1 tvg-id="dn1m1gh9vnz4moe" tvg-name="Rahmatgonj MFS vs Mohammedan Dhaka" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] [Premier League] Rahmatgonj MFS vs Mohammedan Dhaka
-https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=b4ef84bd69a5a3e393d989f3e4d5df80&wsABSTime=1795772920
+https://live1.quickscoreboardz.com/live/channel6.m3u8?wsSecret=5621fd0784436914c6ebe08986e9e760&wsABSTime=1795794795
 
 #EXTINF:-1 tvg-id="318q66h8zvpzqo9" tvg-name="Dhaka Wanderers vs Arambagh KS" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 15:30 WIB] [Premier League] Dhaka Wanderers vs Arambagh KS
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=dadc58c9274251d8ae5197eb5f56a1be&wsABSTime=1795772921
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=b201b9ebf04ed19fb49bea48e96125e6&wsABSTime=1795794796
 
 #EXTINF:-1 tvg-id="4wyrn4hyzdneq86" tvg-name="Bashundhara Kings vs Fortis FC" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 18:30 WIB] [Premier League] Bashundhara Kings vs Fortis FC
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=26a3896eec0123f39104911f2addead1&wsABSTime=1795772922
+https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=45aefcf61115815cf462066da27cc5ea&wsABSTime=1795794798
 
 #EXTINF:-1 tvg-id="318q66hx3p24qo9" tvg-name="Honduras U17 vs Jepang U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 20:00 WIB] [Piala Dunia U-17] Honduras U17 vs Jepang U17
 https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
@@ -112,3 +75,12 @@ https://live3979.zundrixmediapipeline.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-id="jw2r09hkgv77rz8" tvg-name="Aljazair U17 vs Dominican U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 22:00 WIB] [Piala Dunia U-17] Aljazair U17 vs Dominican U17
 https://live3979.zundrixmediapipeline.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="3glrw7hng569qdy" tvg-name="Romania U17 vs Kamerun U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 23:00 WIB] [Piala Dunia U-17] Romania U17 vs Kamerun U17
+https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-id="4jwq2ghn5jzxm0v" tvg-name="Venezuela U17 vs Meksiko U17" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[27/11 23:00 WIB] [Piala Dunia U-17] Venezuela U17 vs Meksiko U17
+https://live3979.zundrixmediapipeline.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-id="8yomo4h1o5pkq0j" tvg-name="Werder Bremen vs B. Monchengladbach" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small" group-title="LIVE EVENT" tvg-country="ID" tvg-language="Indonesian" catchup="false",[28/11 02:30 WIB] [Bundesliga] Werder Bremen vs B. Monchengladbach
+https://live3979.zundrixmediapipeline.com/live/channel15.m3u8
